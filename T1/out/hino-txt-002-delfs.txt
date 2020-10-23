@@ -1,0 +1,9 @@
+delf* 1 3
+id : 1 forma : t  x : 5.000000 y : 15.000000 corb : orange corp : lightyellow texto :  Salve o tricolor paulista
+
+id : 2 forma : t  x : 25.000000 y : 31.000000 corb : orange corp : lightyellow texto :  Amado clube brasileiro
+
+id : 3 forma : t  x : 45.000000 y : 47.000000 corb : orange corp : lightyellow texto :  Tu es forte, tu es grande
+
+id : 4 forma : t  x : 65.000000 y : 63.000000 corb : orange corp : lightyellow texto :  Dentre os grandes es o primeiro
+

@@ -1,0 +1,6 @@
+o? 5 6
+5: retângulo 6: círculo NÃO
+o? 7 8
+7: retângulo 8: círculo NÃO
+o? 9 10
+9: retângulo 10: retângulo NÃO

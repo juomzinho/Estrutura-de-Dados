@@ -1,0 +1,1085 @@
+delf 753
+id : 753 forma : c raio : 2.500000 x : 484.000000 y : 81.250000 corb : black corp : tomato
+delf 1107
+id : 1107 forma : c raio : 2.500000 x : 104.000000 y : 127.500000 corb : black corp : tomato
+delf 1319
+id : 1319 forma : c raio : 2.500000 x : 652.000000 y : 140.000000 corb : black corp : tomato
+delf 689
+id : 689 forma : c raio : 2.500000 x : 322.000000 y : 106.250000 corb : black corp : tomato
+delf 295
+id : 295 forma : c raio : 2.500000 x : 710.000000 y : 53.750000 corb : black corp : tomato
+delf 1897
+id : 1897 forma : c raio : 2.500000 x : 692.000000 y : 180.000000 corb : black corp : tomato
+delf 526
+id : 526 forma : c raio : 2.500000 x : 1282.000000 y : 10.000000 corb : black corp : tomato
+delf 1028
+id : 1028 forma : c raio : 2.500000 x : 1050.000000 y : 62.500000 corb : black corp : tomato
+delf 150
+id : 150 forma : c raio : 2.500000 x : 450.000000 y : 10.000000 corb : black corp : tomato
+delf 1544
+id : 1544 forma : c raio : 2.500000 x : 1160.000000 y : 158.750000 corb : black corp : tomato
+delf 334
+id : 334 forma : c raio : 2.500000 x : 790.000000 y : 28.750000 corb : black corp : tomato
+delf 109
+id : 109 forma : c raio : 2.500000 x : 230.000000 y : 35.000000 corb : black corp : tomato
+delf 1709
+id : 1709 forma : c raio : 2.500000 x : 218.000000 y : 180.000000 corb : black corp : tomato
+delf 1178
+id : 1178 forma : c raio : 2.500000 x : 328.000000 y : 115.000000 corb : black corp : tomato
+delf 84
+id : 84 forma : c raio : 2.500000 x : 178.000000 y : 35.000000 corb : black corp : tomato
+delf 1803
+id : 1803 forma : c raio : 2.500000 x : 456.000000 y : 211.250000 corb : black corp : tomato
+delf 1949
+id : 1949 forma : c raio : 2.500000 x : 756.000000 y : 211.250000 corb : black corp : tomato
+delf 176
+id : 176 forma : c raio : 2.500000 x : 514.000000 y : 10.000000 corb : black corp : tomato
+delf 481
+id : 481 forma : c raio : 2.500000 x : 1154.000000 y : 16.250000 corb : black corp : tomato
+delf 82
+id : 82 forma : c raio : 2.500000 x : 172.000000 y : 28.750000 corb : black corp : tomato
+delf 1190
+id : 1190 forma : c raio : 2.500000 x : 334.000000 y : 133.750000 corb : black corp : tomato
+delf 1492
+id : 1492 forma : c raio : 2.500000 x : 1144.000000 y : 121.250000 corb : black corp : tomato
+delf 1751
+id : 1751 forma : c raio : 2.500000 x : 288.000000 y : 211.250000 corb : black corp : tomato
+delf 1913
+id : 1913 forma : c raio : 2.500000 x : 686.000000 y : 198.750000 corb : black corp : tomato
+delf 1578
+id : 1578 forma : c raio : 2.500000 x : 1242.000000 y : 158.750000 corb : black corp : tomato
+delf 1781
+id : 1781 forma : c raio : 2.500000 x : 438.000000 y : 167.500000 corb : black corp : tomato
+delf 2093
+id : 2093 forma : c raio : 2.500000 x : 1206.000000 y : 173.750000 corb : black corp : tomato
+delf 1045
+id : 1045 forma : c raio : 2.500000 x : 1086.000000 y : 81.250000 corb : black corp : tomato
+delf 495
+id : 495 forma : c raio : 2.500000 x : 1172.000000 y : 53.750000 corb : black corp : tomato
+delf 70
+id : 70 forma : c raio : 2.500000 x : 126.000000 y : 53.750000 corb : black corp : tomato
+delf 962
+id : 962 forma : c raio : 2.500000 x : 918.000000 y : 106.250000 corb : black corp : tomato
+delf 235
+id : 235 forma : c raio : 2.500000 x : 624.000000 y : 10.000000 corb : black corp : tomato
+delf 2087
+id : 2087 forma : c raio : 2.500000 x : 1212.000000 y : 167.500000 corb : black corp : tomato
+delf 245
+id : 245 forma : c raio : 2.500000 x : 600.000000 y : 53.750000 corb : black corp : tomato
+delf 1600
+id : 1600 forma : c raio : 2.500000 x : 16.000000 y : 211.250000 corb : black corp : tomato
+delf 199
+id : 199 forma : c raio : 2.500000 x : 548.000000 y : 10.000000 corb : black corp : tomato
+delf 2036
+id : 2036 forma : c raio : 2.500000 x : 982.000000 y : 211.250000 corb : black corp : tomato
+delf 158
+id : 158 forma : c raio : 2.500000 x : 444.000000 y : 22.500000 corb : black corp : tomato
+delf 949
+id : 949 forma : c raio : 2.500000 x : 894.000000 y : 87.500000 corb : black corp : tomato
+delf 1983
+id : 1983 forma : c raio : 2.500000 x : 848.000000 y : 167.500000 corb : black corp : tomato
+delf 2024
+id : 2024 forma : c raio : 2.500000 x : 952.000000 y : 192.500000 corb : black corp : tomato
+delf 888
+id : 888 forma : c raio : 2.500000 x : 820.000000 y : 62.500000 corb : black corp : tomato
+delf 336
+id : 336 forma : c raio : 2.500000 x : 802.000000 y : 28.750000 corb : black corp : tomato
+delf 1200
+id : 1200 forma : c raio : 2.500000 x : 386.000000 y : 115.000000 corb : black corp : tomato
+delf 1914
+id : 1914 forma : c raio : 2.500000 x : 692.000000 y : 198.750000 corb : black corp : tomato
+delf 1260
+id : 1260 forma : c raio : 2.500000 x : 520.000000 y : 121.250000 corb : black corp : tomato
+delf 538
+id : 538 forma : c raio : 2.500000 x : 1276.000000 y : 35.000000 corb : black corp : tomato
+delf 1082
+id : 1082 forma : c raio : 2.500000 x : 34.000000 y : 115.000000 corb : black corp : tomato
+delf 1393
+id : 1393 forma : c raio : 2.500000 x : 884.000000 y : 146.250000 corb : black corp : tomato
+delf 1091
+id : 1091 forma : c raio : 2.500000 x : 34.000000 y : 127.500000 corb : black corp : tomato
+delf 395
+id : 395 forma : c raio : 2.500000 x : 946.000000 y : 53.750000 corb : black corp : tomato
+delf 1866
+id : 1866 forma : c raio : 2.500000 x : 670.000000 y : 167.500000 corb : black corp : tomato
+delf 66
+id : 66 forma : c raio : 2.500000 x : 150.000000 y : 47.500000 corb : black corp : tomato
+delf 1749
+id : 1749 forma : c raio : 2.500000 x : 276.000000 y : 211.250000 corb : black corp : tomato
+delf 1638
+id : 1638 forma : c raio : 2.500000 x : 150.000000 y : 167.500000 corb : black corp : tomato
+delf 1428
+id : 1428 forma : c raio : 2.500000 x : 970.000000 y : 158.750000 corb : black corp : tomato
+delf 1163
+id : 1163 forma : c raio : 2.500000 x : 236.000000 y : 133.750000 corb : black corp : tomato
+delf 1560
+id : 1560 forma : c raio : 2.500000 x : 1206.000000 y : 127.500000 corb : black corp : tomato
+delf 755
+id : 755 forma : c raio : 2.500000 x : 484.000000 y : 87.500000 corb : black corp : tomato
+delf 1609
+id : 1609 forma : c raio : 2.500000 x : 80.000000 y : 167.500000 corb : black corp : tomato
+delf 2101
+id : 2101 forma : c raio : 2.500000 x : 1218.000000 y : 192.500000 corb : black corp : tomato
+delf 529
+id : 529 forma : c raio : 2.500000 x : 1258.000000 y : 16.250000 corb : black corp : tomato
+delf 45
+id : 45 forma : c raio : 2.500000 x : 62.000000 y : 41.250000 corb : black corp : tomato
+delf 1657
+id : 1657 forma : c raio : 2.500000 x : 114.000000 y : 192.500000 corb : black corp : tomato
+delf 1789
+id : 1789 forma : c raio : 2.500000 x : 432.000000 y : 186.250000 corb : black corp : tomato
+delf 1020
+id : 1020 forma : c raio : 2.500000 x : 998.000000 y : 106.250000 corb : black corp : tomato
+delf 981
+id : 981 forma : c raio : 2.500000 x : 946.000000 y : 87.500000 corb : black corp : tomato
+delf 894
+id : 894 forma : c raio : 2.500000 x : 802.000000 y : 81.250000 corb : black corp : tomato
+delf 1778
+id : 1778 forma : c raio : 2.500000 x : 404.000000 y : 211.250000 corb : black corp : tomato
+delf 535
+id : 535 forma : c raio : 2.500000 x : 1258.000000 y : 35.000000 corb : black corp : tomato
+delf 1090
+id : 1090 forma : c raio : 2.500000 x : 28.000000 y : 127.500000 corb : black corp : tomato
+delf 913
+id : 913 forma : c raio : 2.500000 x : 866.000000 y : 62.500000 corb : black corp : tomato
+delf 2121
+id : 2121 forma : c raio : 2.500000 x : 1264.000000 y : 186.250000 corb : black corp : tomato
+delf 653
+id : 653 forma : c raio : 2.500000 x : 236.000000 y : 62.500000 corb : black corp : tomato
+delf 2291
+id : 2291 forma : c raio : 2.500000 x : 1570.000000 y : 192.500000 corb : black corp : tomato
+delf 907
+id : 907 forma : c raio : 2.500000 x : 820.000000 y : 106.250000 corb : black corp : tomato
+delf 1076
+id : 1076 forma : c raio : 2.500000 x : 1132.000000 y : 106.250000 corb : black corp : tomato
+delf 2179
+id : 2179 forma : c raio : 2.500000 x : 1362.000000 y : 186.250000 corb : black corp : tomato
+delf 185
+id : 185 forma : c raio : 2.500000 x : 502.000000 y : 28.750000 corb : black corp : tomato
+delf 944
+id : 944 forma : c raio : 2.500000 x : 900.000000 y : 68.750000 corb : black corp : tomato
+delf 2100
+id : 2100 forma : c raio : 2.500000 x : 1212.000000 y : 192.500000 corb : black corp : tomato
+delf 751
+id : 751 forma : c raio : 2.500000 x : 484.000000 y : 75.000000 corb : black corp : tomato
+delf 1256
+id : 1256 forma : c raio : 2.500000 x : 520.000000 y : 115.000000 corb : black corp : tomato
+delf 1506
+id : 1506 forma : c raio : 2.500000 x : 1108.000000 y : 140.000000 corb : black corp : tomato
+delf 438
+id : 438 forma : c raio : 2.500000 x : 1074.000000 y : 53.750000 corb : black corp : tomato
+delf 742
+id : 742 forma : c raio : 2.500000 x : 478.000000 y : 62.500000 corb : black corp : tomato
+delf 1940
+id : 1940 forma : c raio : 2.500000 x : 744.000000 y : 192.500000 corb : black corp : tomato
+delf 2270
+id : 2270 forma : c raio : 2.500000 x : 1554.000000 y : 186.250000 corb : black corp : tomato
+delf 1878
+id : 1878 forma : c raio : 2.500000 x : 664.000000 y : 192.500000 corb : black corp : tomato
+delf 1554
+id : 1554 forma : c raio : 2.500000 x : 1230.000000 y : 115.000000 corb : black corp : tomato
+delf 1976
+id : 1976 forma : c raio : 2.500000 x : 796.000000 y : 211.250000 corb : black corp : tomato
+delf 733
+id : 733 forma : c raio : 2.500000 x : 468.000000 y : 93.750000 corb : black corp : tomato
+delf 465
+id : 465 forma : c raio : 2.500000 x : 1144.000000 y : 47.500000 corb : black corp : tomato
+delf 1864
+id : 1864 forma : c raio : 2.500000 x : 658.000000 y : 167.500000 corb : black corp : tomato
+delf 546
+id : 546 forma : c raio : 2.500000 x : 1300.000000 y : 47.500000 corb : black corp : tomato
+delf 1943
+id : 1943 forma : c raio : 2.500000 x : 780.000000 y : 198.750000 corb : black corp : tomato
+delf 591
+id : 591 forma : c raio : 2.500000 x : 62.000000 y : 87.500000 corb : black corp : tomato
+delf 1123
+id : 1123 forma : c raio : 2.500000 x : 172.000000 y : 115.000000 corb : black corp : tomato
+delf 967
+id : 967 forma : c raio : 2.500000 x : 952.000000 y : 62.500000 corb : black corp : tomato
+delf 1065
+id : 1065 forma : c raio : 2.500000 x : 1144.000000 y : 81.250000 corb : black corp : tomato
+delf 956
+id : 956 forma : c raio : 2.500000 x : 930.000000 y : 100.000000 corb : black corp : tomato
+delf 725
+id : 725 forma : c raio : 2.500000 x : 468.000000 y : 68.750000 corb : black corp : tomato
+delf 136
+id : 136 forma : c raio : 2.500000 x : 322.000000 y : 41.250000 corb : black corp : tomato
+delf 1536
+id : 1536 forma : c raio : 2.500000 x : 1196.000000 y : 133.750000 corb : black corp : tomato
+delf 654
+id : 654 forma : c raio : 2.500000 x : 242.000000 y : 62.500000 corb : black corp : tomato
+delf 2289
+id : 2289 forma : c raio : 2.500000 x : 1570.000000 y : 186.250000 corb : black corp : tomato
+delf 1013
+id : 1013 forma : c raio : 2.500000 x : 1022.000000 y : 87.500000 corb : black corp : tomato
+delf 767
+id : 767 forma : c raio : 2.500000 x : 490.000000 y : 106.250000 corb : black corp : tomato
+delf 762
+id : 762 forma : c raio : 2.500000 x : 520.000000 y : 93.750000 corb : black corp : tomato
+delf 929
+id : 929 forma : c raio : 2.500000 x : 842.000000 y : 100.000000 corb : black corp : tomato
+delf 1603
+id : 1603 forma : c raio : 2.500000 x : 34.000000 y : 211.250000 corb : black corp : tomato
+delf 1917
+id : 1917 forma : c raio : 2.500000 x : 728.000000 y : 198.750000 corb : black corp : tomato
+delf 789
+id : 789 forma : c raio : 2.500000 x : 542.000000 y : 87.500000 corb : black corp : tomato
+delf 1990
+id : 1990 forma : c raio : 2.500000 x : 842.000000 y : 173.750000 corb : black corp : tomato
+delf 2098
+id : 2098 forma : c raio : 2.500000 x : 1248.000000 y : 186.250000 corb : black corp : tomato
+delf 1176
+id : 1176 forma : c raio : 2.500000 x : 254.000000 y : 158.750000 corb : black corp : tomato
+delf 588
+id : 588 forma : c raio : 2.500000 x : 80.000000 y : 81.250000 corb : black corp : tomato
+delf 13
+id : 13 forma : c raio : 2.500000 x : 40.000000 y : 28.750000 corb : black corp : tomato
+delf 2297
+id : 2297 forma : c raio : 2.500000 x : 1576.000000 y : 211.250000 corb : black corp : tomato
+delf 1828
+id : 1828 forma : c raio : 2.500000 x : 536.000000 y : 211.250000 corb : black corp : tomato
+delf 881
+id : 881 forma : c raio : 2.500000 x : 780.000000 y : 100.000000 corb : black corp : tomato
+delf 1312
+id : 1312 forma : c raio : 2.500000 x : 652.000000 y : 121.250000 corb : black corp : tomato
+delf 792
+id : 792 forma : c raio : 2.500000 x : 530.000000 y : 100.000000 corb : black corp : tomato
+delf 387
+id : 387 forma : c raio : 2.500000 x : 970.000000 y : 35.000000 corb : black corp : tomato
+delf 1462
+id : 1462 forma : c raio : 2.500000 x : 1080.000000 y : 115.000000 corb : black corp : tomato
+delf 1072
+id : 1072 forma : c raio : 2.500000 x : 1108.000000 y : 106.250000 corb : black corp : tomato
+delf 794
+id : 794 forma : c raio : 2.500000 x : 530.000000 y : 106.250000 corb : black corp : tomato
+delf 2256
+id : 2256 forma : c raio : 2.500000 x : 1536.000000 y : 167.500000 corb : black corp : tomato
+delf 467
+id : 467 forma : c raio : 2.500000 x : 1108.000000 y : 53.750000 corb : black corp : tomato
+delf 256
+id : 256 forma : c raio : 2.500000 x : 634.000000 y : 16.250000 corb : black corp : tomato
+delf 1053
+id : 1053 forma : c raio : 2.500000 x : 1092.000000 y : 106.250000 corb : black corp : tomato
+delf 1112
+id : 1112 forma : c raio : 2.500000 x : 62.000000 y : 146.250000 corb : black corp : tomato
+delf 1480
+id : 1480 forma : c raio : 2.500000 x : 1050.000000 y : 152.500000 corb : black corp : tomato
+delf 1137
+id : 1137 forma : c raio : 2.500000 x : 166.000000 y : 140.000000 corb : black corp : tomato
+delf 1643
+id : 1643 forma : c raio : 2.500000 x : 150.000000 y : 173.750000 corb : black corp : tomato
+delf 432
+id : 432 forma : c raio : 2.500000 x : 1086.000000 y : 47.500000 corb : black corp : tomato
+delf 1601
+id : 1601 forma : c raio : 2.500000 x : 22.000000 y : 211.250000 corb : black corp : tomato
+delf 769
+id : 769 forma : c raio : 2.500000 x : 502.000000 y : 106.250000 corb : black corp : tomato
+delf 1272
+id : 1272 forma : c raio : 2.500000 x : 502.000000 y : 158.750000 corb : black corp : tomato
+delf 1419
+id : 1419 forma : c raio : 2.500000 x : 988.000000 y : 140.000000 corb : black corp : tomato
+delf 2167
+id : 2167 forma : c raio : 2.500000 x : 1362.000000 y : 167.500000 corb : black corp : tomato
+delf 1288
+id : 1288 forma : c raio : 2.500000 x : 530.000000 y : 140.000000 corb : black corp : tomato
+delf 2148
+id : 2148 forma : c raio : 2.500000 x : 1334.000000 y : 180.000000 corb : black corp : tomato
+delf 2086
+id : 2086 forma : c raio : 2.500000 x : 1138.000000 y : 211.250000 corb : black corp : tomato
+delf 1721
+id : 1721 forma : c raio : 2.500000 x : 248.000000 y : 198.750000 corb : black corp : tomato
+delf 1905
+id : 1905 forma : c raio : 2.500000 x : 710.000000 y : 186.250000 corb : black corp : tomato
+delf 129
+id : 129 forma : c raio : 2.500000 x : 364.000000 y : 16.250000 corb : black corp : tomato
+delf 2189
+id : 2189 forma : c raio : 2.500000 x : 1362.000000 y : 211.250000 corb : black corp : tomato
+delf 1120
+id : 1120 forma : c raio : 2.500000 x : 92.000000 y : 158.750000 corb : black corp : tomato
+delf 849
+id : 849 forma : c raio : 2.500000 x : 722.000000 y : 81.250000 corb : black corp : tomato
+delf 20
+id : 20 forma : c raio : 2.500000 x : 22.000000 y : 53.750000 corb : black corp : tomato
+delf 1189
+id : 1189 forma : c raio : 2.500000 x : 328.000000 y : 133.750000 corb : black corp : tomato
+delf 368
+id : 368 forma : c raio : 2.500000 x : 894.000000 y : 41.250000 corb : black corp : tomato
+delf 465
+delf 926
+id : 926 forma : c raio : 2.500000 x : 866.000000 y : 87.500000 corb : black corp : tomato
+delf 1889
+id : 1889 forma : c raio : 2.500000 x : 722.000000 y : 167.500000 corb : black corp : tomato
+delf 2015
+id : 2015 forma : c raio : 2.500000 x : 988.000000 y : 167.500000 corb : black corp : tomato
+delf 601
+id : 601 forma : c raio : 2.500000 x : 132.000000 y : 62.500000 corb : black corp : tomato
+delf 2063
+id : 2063 forma : c raio : 2.500000 x : 1108.000000 y : 167.500000 corb : black corp : tomato
+delf 1582
+id : 1582 forma : c raio : 2.500000 x : 22.000000 y : 167.500000 corb : black corp : tomato
+delf 2124
+id : 2124 forma : c raio : 2.500000 x : 1282.000000 y : 186.250000 corb : black corp : tomato
+delf 1470
+id : 1470 forma : c raio : 2.500000 x : 1050.000000 y : 140.000000 corb : black corp : tomato
+delf 45
+delf 2132
+id : 2132 forma : c raio : 2.500000 x : 1294.000000 y : 205.000000 corb : black corp : tomato
+delf 384
+id : 384 forma : c raio : 2.500000 x : 952.000000 y : 35.000000 corb : black corp : tomato
+delf 1976
+delf 1571
+id : 1571 forma : c raio : 2.500000 x : 1248.000000 y : 152.500000 corb : black corp : tomato
+delf 171
+id : 171 forma : c raio : 2.500000 x : 484.000000 y : 10.000000 corb : black corp : tomato
+delf 481
+delf 2144
+id : 2144 forma : c raio : 2.500000 x : 1328.000000 y : 173.750000 corb : black corp : tomato
+delf 463
+id : 463 forma : c raio : 2.500000 x : 1120.000000 y : 47.500000 corb : black corp : tomato
+delf 1566
+id : 1566 forma : c raio : 2.500000 x : 1212.000000 y : 140.000000 corb : black corp : tomato
+delf 378
+id : 378 forma : c raio : 2.500000 x : 988.000000 y : 16.250000 corb : black corp : tomato
+delf 1257
+id : 1257 forma : c raio : 2.500000 x : 478.000000 y : 121.250000 corb : black corp : tomato
+delf 1475
+id : 1475 forma : c raio : 2.500000 x : 1080.000000 y : 140.000000 corb : black corp : tomato
+delf 2123
+id : 2123 forma : c raio : 2.500000 x : 1276.000000 y : 186.250000 corb : black corp : tomato
+delf 409
+id : 409 forma : c raio : 2.500000 x : 998.000000 y : 47.500000 corb : black corp : tomato
+delf 21
+id : 21 forma : c raio : 2.500000 x : 28.000000 y : 53.750000 corb : black corp : tomato
+delf 938
+id : 938 forma : c raio : 2.500000 x : 872.000000 y : 106.250000 corb : black corp : tomato
+delf 1898
+id : 1898 forma : c raio : 2.500000 x : 698.000000 y : 180.000000 corb : black corp : tomato
+delf 2196
+id : 2196 forma : c raio : 2.500000 x : 1444.000000 y : 167.500000 corb : black corp : tomato
+delf 1472
+id : 1472 forma : c raio : 2.500000 x : 1062.000000 y : 140.000000 corb : black corp : tomato
+delf 435
+id : 435 forma : c raio : 2.500000 x : 1056.000000 y : 53.750000 corb : black corp : tomato
+delf 261
+id : 261 forma : c raio : 2.500000 x : 676.000000 y : 28.750000 corb : black corp : tomato
+delf 931
+id : 931 forma : c raio : 2.500000 x : 866.000000 y : 100.000000 corb : black corp : tomato
+delf 1233
+id : 1233 forma : c raio : 2.500000 x : 468.000000 y : 127.500000 corb : black corp : tomato
+delf 539
+id : 539 forma : c raio : 2.500000 x : 1282.000000 y : 35.000000 corb : black corp : tomato
+delf 2074
+id : 2074 forma : c raio : 2.500000 x : 1144.000000 y : 186.250000 corb : black corp : tomato
+delf 1569
+id : 1569 forma : c raio : 2.500000 x : 1206.000000 y : 146.250000 corb : black corp : tomato
+delf 2170
+id : 2170 forma : c raio : 2.500000 x : 1404.000000 y : 167.500000 corb : black corp : tomato
+delf 495
+delf 1958
+id : 1958 forma : c raio : 2.500000 x : 820.000000 y : 167.500000 corb : black corp : tomato
+delf 631
+id : 631 forma : c raio : 2.500000 x : 202.000000 y : 62.500000 corb : black corp : tomato
+delf 310
+id : 310 forma : c raio : 2.500000 x : 780.000000 y : 28.750000 corb : black corp : tomato
+delf 1800
+id : 1800 forma : c raio : 2.500000 x : 438.000000 y : 211.250000 corb : black corp : tomato
+delf 843
+id : 843 forma : c raio : 2.500000 x : 686.000000 y : 81.250000 corb : black corp : tomato
+delf 2161
+id : 2161 forma : c raio : 2.500000 x : 1322.000000 y : 211.250000 corb : black corp : tomato
+delf 2126
+id : 2126 forma : c raio : 2.500000 x : 1294.000000 y : 186.250000 corb : black corp : tomato
+delf 1456
+id : 1456 forma : c raio : 2.500000 x : 998.000000 y : 158.750000 corb : black corp : tomato
+delf 243
+id : 243 forma : c raio : 2.500000 x : 588.000000 y : 53.750000 corb : black corp : tomato
+delf 1339
+id : 1339 forma : c raio : 2.500000 x : 686.000000 y : 152.500000 corb : black corp : tomato
+delf 1433
+id : 1433 forma : c raio : 2.500000 x : 1004.000000 y : 115.000000 corb : black corp : tomato
+delf 1078
+id : 1078 forma : c raio : 2.500000 x : 10.000000 y : 115.000000 corb : black corp : tomato
+delf 1
+id : 1 forma : c raio : 2.500000 x : 22.000000 y : 10.000000 corb : black corp : tomato
+delf 1908
+id : 1908 forma : c raio : 2.500000 x : 686.000000 y : 192.500000 corb : black corp : tomato
+delf 2176
+id : 2176 forma : c raio : 2.500000 x : 1374.000000 y : 180.000000 corb : black corp : tomato
+delf 151
+id : 151 forma : c raio : 2.500000 x : 456.000000 y : 10.000000 corb : black corp : tomato
+delf 1037
+id : 1037 forma : c raio : 2.500000 x : 1050.000000 y : 75.000000 corb : black corp : tomato
+delf 868
+id : 868 forma : c raio : 2.500000 x : 738.000000 y : 81.250000 corb : black corp : tomato
+delf 519
+id : 519 forma : c raio : 2.500000 x : 1224.000000 y : 47.500000 corb : black corp : tomato
+delf 10
+id : 10 forma : c raio : 2.500000 x : 22.000000 y : 28.750000 corb : black corp : tomato
+delf 879
+id : 879 forma : c raio : 2.500000 x : 780.000000 y : 93.750000 corb : black corp : tomato
+delf 1633
+id : 1633 forma : c raio : 2.500000 x : 92.000000 y : 211.250000 corb : black corp : tomato
+delf 1084
+id : 1084 forma : c raio : 2.500000 x : 46.000000 y : 115.000000 corb : black corp : tomato
+delf 938
+delf 1858
+id : 1858 forma : c raio : 2.500000 x : 618.000000 y : 205.000000 corb : black corp : tomato
+delf 759
+id : 759 forma : c raio : 2.500000 x : 508.000000 y : 87.500000 corb : black corp : tomato
+delf 2071
+id : 2071 forma : c raio : 2.500000 x : 1102.000000 y : 180.000000 corb : black corp : tomato
+delf 1363
+id : 1363 forma : c raio : 2.500000 x : 796.000000 y : 140.000000 corb : black corp : tomato
+delf 872
+id : 872 forma : c raio : 2.500000 x : 750.000000 y : 87.500000 corb : black corp : tomato
+delf 1637
+id : 1637 forma : c raio : 2.500000 x : 120.000000 y : 167.500000 corb : black corp : tomato
+delf 161
+id : 161 forma : c raio : 2.500000 x : 450.000000 y : 28.750000 corb : black corp : tomato
+delf 1777
+id : 1777 forma : c raio : 2.500000 x : 398.000000 y : 211.250000 corb : black corp : tomato
+delf 1491
+id : 1491 forma : c raio : 2.500000 x : 1138.000000 y : 121.250000 corb : black corp : tomato
+delf 1354
+id : 1354 forma : c raio : 2.500000 x : 832.000000 y : 115.000000 corb : black corp : tomato
+delf 699
+id : 699 forma : c raio : 2.500000 x : 374.000000 y : 68.750000 corb : black corp : tomato
+delf 438
+delf 22
+id : 22 forma : c raio : 2.500000 x : 34.000000 y : 53.750000 corb : black corp : tomato
+delf 1489
+id : 1489 forma : c raio : 2.500000 x : 1108.000000 y : 121.250000 corb : black corp : tomato
+delf 141
+id : 141 forma : c raio : 2.500000 x : 334.000000 y : 53.750000 corb : black corp : tomato
+delf 1783
+id : 1783 forma : c raio : 2.500000 x : 450.000000 y : 167.500000 corb : black corp : tomato
+delf 1081
+id : 1081 forma : c raio : 2.500000 x : 28.000000 y : 115.000000 corb : black corp : tomato
+delf 292
+id : 292 forma : c raio : 2.500000 x : 692.000000 y : 53.750000 corb : black corp : tomato
+delf 250
+id : 250 forma : c raio : 2.500000 x : 640.000000 y : 10.000000 corb : black corp : tomato
+delf 1170
+id : 1170 forma : c raio : 2.500000 x : 218.000000 y : 158.750000 corb : black corp : tomato
+delf 2262
+id : 2262 forma : c raio : 2.500000 x : 1518.000000 y : 180.000000 corb : black corp : tomato
+delf 555
+id : 555 forma : c raio : 2.500000 x : 10.000000 y : 68.750000 corb : black corp : tomato
+delf 652
+id : 652 forma : c raio : 2.500000 x : 230.000000 y : 62.500000 corb : black corp : tomato
+delf 907
+delf 740
+id : 740 forma : c raio : 2.500000 x : 456.000000 y : 106.250000 corb : black corp : tomato
+delf 2208
+id : 2208 forma : c raio : 2.500000 x : 1426.000000 y : 192.500000 corb : black corp : tomato
+delf 1334
+id : 1334 forma : c raio : 2.500000 x : 728.000000 y : 133.750000 corb : black corp : tomato
+delf 1096
+id : 1096 forma : c raio : 2.500000 x : 28.000000 y : 146.250000 corb : black corp : tomato
+delf 2151
+id : 2151 forma : c raio : 2.500000 x : 1328.000000 y : 192.500000 corb : black corp : tomato
+delf 390
+id : 390 forma : c raio : 2.500000 x : 988.000000 y : 35.000000 corb : black corp : tomato
+delf 2100
+delf 421
+id : 421 forma : c raio : 2.500000 x : 1050.000000 y : 22.500000 corb : black corp : tomato
+delf 1904
+id : 1904 forma : c raio : 2.500000 x : 704.000000 y : 186.250000 corb : black corp : tomato
+delf 53
+id : 53 forma : c raio : 2.500000 x : 114.000000 y : 16.250000 corb : black corp : tomato
+delf 1691
+id : 1691 forma : c raio : 2.500000 x : 190.000000 y : 186.250000 corb : black corp : tomato
+delf 596
+id : 596 forma : c raio : 2.500000 x : 104.000000 y : 100.000000 corb : black corp : tomato
+delf 868
+delf 1647
+id : 1647 forma : c raio : 2.500000 x : 126.000000 y : 180.000000 corb : black corp : tomato
+delf 831
+id : 831 forma : c raio : 2.500000 x : 670.000000 y : 106.250000 corb : black corp : tomato
+delf 1058
+id : 1058 forma : c raio : 2.500000 x : 1132.000000 y : 62.500000 corb : black corp : tomato
+delf 2129
+id : 2129 forma : c raio : 2.500000 x : 1258.000000 y : 198.750000 corb : black corp : tomato
+delf 689
+delf 1938
+id : 1938 forma : c raio : 2.500000 x : 744.000000 y : 186.250000 corb : black corp : tomato
+delf 504
+id : 504 forma : c raio : 2.500000 x : 1236.000000 y : 10.000000 corb : black corp : tomato
+delf 2152
+id : 2152 forma : c raio : 2.500000 x : 1334.000000 y : 192.500000 corb : black corp : tomato
+delf 1844
+id : 1844 forma : c raio : 2.500000 x : 582.000000 y : 180.000000 corb : black corp : tomato
+delf 2254
+id : 2254 forma : c raio : 2.500000 x : 1524.000000 y : 167.500000 corb : black corp : tomato
+delf 24
+id : 24 forma : c raio : 2.500000 x : 46.000000 y : 53.750000 corb : black corp : tomato
+delf 245
+delf 1301
+id : 1301 forma : c raio : 2.500000 x : 566.000000 y : 158.750000 corb : black corp : tomato
+delf 1339
+delf 302
+id : 302 forma : c raio : 2.500000 x : 762.000000 y : 10.000000 corb : black corp : tomato
+delf 1914
+delf 1732
+id : 1732 forma : c raio : 2.500000 x : 306.000000 y : 167.500000 corb : black corp : tomato
+delf 1201
+id : 1201 forma : c raio : 2.500000 x : 392.000000 y : 115.000000 corb : black corp : tomato
+delf 986
+id : 986 forma : c raio : 2.500000 x : 946.000000 y : 100.000000 corb : black corp : tomato
+delf 547
+id : 547 forma : c raio : 2.500000 x : 1258.000000 y : 53.750000 corb : black corp : tomato
+delf 1550
+id : 1550 forma : c raio : 2.500000 x : 1206.000000 y : 115.000000 corb : black corp : tomato
+delf 1979
+id : 1979 forma : c raio : 2.500000 x : 814.000000 y : 211.250000 corb : black corp : tomato
+delf 1231
+id : 1231 forma : c raio : 2.500000 x : 468.000000 y : 121.250000 corb : black corp : tomato
+delf 1797
+id : 1797 forma : c raio : 2.500000 x : 468.000000 y : 205.000000 corb : black corp : tomato
+delf 229
+id : 229 forma : c raio : 2.500000 x : 588.000000 y : 10.000000 corb : black corp : tomato
+delf 594
+id : 594 forma : c raio : 2.500000 x : 104.000000 y : 93.750000 corb : black corp : tomato
+delf 1694
+id : 1694 forma : c raio : 2.500000 x : 184.000000 y : 198.750000 corb : black corp : tomato
+delf 1632
+id : 1632 forma : c raio : 2.500000 x : 86.000000 y : 211.250000 corb : black corp : tomato
+delf 1450
+id : 1450 forma : c raio : 2.500000 x : 998.000000 y : 140.000000 corb : black corp : tomato
+delf 1608
+id : 1608 forma : c raio : 2.500000 x : 74.000000 y : 167.500000 corb : black corp : tomato
+delf 1732
+delf 1424
+id : 1424 forma : c raio : 2.500000 x : 946.000000 y : 158.750000 corb : black corp : tomato
+delf 770
+id : 770 forma : c raio : 2.500000 x : 508.000000 y : 106.250000 corb : black corp : tomato
+delf 1100
+id : 1100 forma : c raio : 2.500000 x : 28.000000 y : 158.750000 corb : black corp : tomato
+delf 2050
+id : 2050 forma : c raio : 2.500000 x : 1022.000000 y : 186.250000 corb : black corp : tomato
+delf 1915
+id : 1915 forma : c raio : 2.500000 x : 716.000000 y : 198.750000 corb : black corp : tomato
+delf 2283
+id : 2283 forma : c raio : 2.500000 x : 1600.000000 y : 167.500000 corb : black corp : tomato
+delf 1607
+id : 1607 forma : c raio : 2.500000 x : 68.000000 y : 167.500000 corb : black corp : tomato
+delf 1340
+id : 1340 forma : c raio : 2.500000 x : 728.000000 y : 152.500000 corb : black corp : tomato
+delf 90
+id : 90 forma : c raio : 2.500000 x : 184.000000 y : 53.750000 corb : black corp : tomato
+delf 1425
+id : 1425 forma : c raio : 2.500000 x : 952.000000 y : 158.750000 corb : black corp : tomato
+delf 940
+id : 940 forma : c raio : 2.500000 x : 884.000000 y : 106.250000 corb : black corp : tomato
+delf 1455
+id : 1455 forma : c raio : 2.500000 x : 1034.000000 y : 152.500000 corb : black corp : tomato
+delf 1514
+id : 1514 forma : c raio : 2.500000 x : 1144.000000 y : 146.250000 corb : black corp : tomato
+delf 1472
+delf 1398
+id : 1398 forma : c raio : 2.500000 x : 860.000000 y : 158.750000 corb : black corp : tomato
+delf 1254
+id : 1254 forma : c raio : 2.500000 x : 508.000000 y : 115.000000 corb : black corp : tomato
+delf 1235
+id : 1235 forma : c raio : 2.500000 x : 432.000000 y : 133.750000 corb : black corp : tomato
+delf 2043
+id : 2043 forma : c raio : 2.500000 x : 1034.000000 y : 167.500000 corb : black corp : tomato
+delf 742
+delf 689
+delf 1291
+id : 1291 forma : c raio : 2.500000 x : 548.000000 y : 140.000000 corb : black corp : tomato
+delf 383
+id : 383 forma : c raio : 2.500000 x : 946.000000 y : 35.000000 corb : black corp : tomato
+delf 2046
+id : 2046 forma : c raio : 2.500000 x : 998.000000 y : 180.000000 corb : black corp : tomato
+delf 1546
+id : 1546 forma : c raio : 2.500000 x : 1172.000000 y : 158.750000 corb : black corp : tomato
+delf 2229
+id : 2229 forma : c raio : 2.500000 x : 1466.000000 y : 173.750000 corb : black corp : tomato
+delf 158
+delf 1708
+id : 1708 forma : c raio : 2.500000 x : 260.000000 y : 173.750000 corb : black corp : tomato
+delf 1945
+id : 1945 forma : c raio : 2.500000 x : 780.000000 y : 205.000000 corb : black corp : tomato
+delf 329
+id : 329 forma : c raio : 2.500000 x : 826.000000 y : 10.000000 corb : black corp : tomato
+delf 1556
+id : 1556 forma : c raio : 2.500000 x : 1242.000000 y : 115.000000 corb : black corp : tomato
+delf 1316
+id : 1316 forma : c raio : 2.500000 x : 658.000000 y : 127.500000 corb : black corp : tomato
+delf 2016
+id : 2016 forma : c raio : 2.500000 x : 946.000000 y : 173.750000 corb : black corp : tomato
+delf 812
+id : 812 forma : c raio : 2.500000 x : 676.000000 y : 75.000000 corb : black corp : tomato
+delf 1075
+id : 1075 forma : c raio : 2.500000 x : 1126.000000 y : 106.250000 corb : black corp : tomato
+delf 1509
+id : 1509 forma : c raio : 2.500000 x : 1144.000000 y : 140.000000 corb : black corp : tomato
+delf 1938
+delf 2223
+id : 2223 forma : c raio : 2.500000 x : 1478.000000 y : 167.500000 corb : black corp : tomato
+delf 448
+id : 448 forma : c raio : 2.500000 x : 1138.000000 y : 10.000000 corb : black corp : tomato
+delf 529
+delf 2007
+id : 2007 forma : c raio : 2.500000 x : 878.000000 y : 211.250000 corb : black corp : tomato
+delf 994
+id : 994 forma : c raio : 2.500000 x : 982.000000 y : 106.250000 corb : black corp : tomato
+delf 1911
+id : 1911 forma : c raio : 2.500000 x : 722.000000 y : 192.500000 corb : black corp : tomato
+delf 1751
+delf 350
+id : 350 forma : c raio : 2.500000 x : 906.000000 y : 10.000000 corb : black corp : tomato
+delf 1084
+delf 72
+id : 72 forma : c raio : 2.500000 x : 138.000000 y : 53.750000 corb : black corp : tomato
+delf 499
+id : 499 forma : c raio : 2.500000 x : 1206.000000 y : 10.000000 corb : black corp : tomato
+delf 22
+delf 1220
+id : 1220 forma : c raio : 2.500000 x : 398.000000 y : 158.750000 corb : black corp : tomato
+delf 1923
+id : 1923 forma : c raio : 2.500000 x : 686.000000 y : 211.250000 corb : black corp : tomato
+delf 1310
+id : 1310 forma : c raio : 2.500000 x : 676.000000 y : 115.000000 corb : black corp : tomato
+delf 1964
+id : 1964 forma : c raio : 2.500000 x : 790.000000 y : 186.250000 corb : black corp : tomato
+delf 1830
+id : 1830 forma : c raio : 2.500000 x : 548.000000 y : 211.250000 corb : black corp : tomato
+delf 490
+id : 490 forma : c raio : 2.500000 x : 1196.000000 y : 41.250000 corb : black corp : tomato
+delf 234
+id : 234 forma : c raio : 2.500000 x : 618.000000 y : 10.000000 corb : black corp : tomato
+delf 286
+id : 286 forma : c raio : 2.500000 x : 728.000000 y : 41.250000 corb : black corp : tomato
+delf 983
+id : 983 forma : c raio : 2.500000 x : 958.000000 y : 87.500000 corb : black corp : tomato
+delf 1834
+id : 1834 forma : c raio : 2.500000 x : 572.000000 y : 211.250000 corb : black corp : tomato
+delf 1928
+id : 1928 forma : c raio : 2.500000 x : 744.000000 y : 167.500000 corb : black corp : tomato
+delf 509
+id : 509 forma : c raio : 2.500000 x : 1230.000000 y : 16.250000 corb : black corp : tomato
+delf 359
+id : 359 forma : c raio : 2.500000 x : 894.000000 y : 28.750000 corb : black corp : tomato
+delf 1248
+id : 1248 forma : c raio : 2.500000 x : 468.000000 y : 158.750000 corb : black corp : tomato
+delf 1726
+id : 1726 forma : c raio : 2.500000 x : 270.000000 y : 167.500000 corb : black corp : tomato
+delf 1321
+id : 1321 forma : c raio : 2.500000 x : 652.000000 y : 146.250000 corb : black corp : tomato
+delf 1994
+id : 1994 forma : c raio : 2.500000 x : 860.000000 y : 186.250000 corb : black corp : tomato
+delf 2299
+id : 2299 forma : c raio : 2.500000 x : 1588.000000 y : 211.250000 corb : black corp : tomato
+delf 1700
+id : 1700 forma : c raio : 2.500000 x : 218.000000 y : 167.500000 corb : black corp : tomato
+delf 1050
+id : 1050 forma : c raio : 2.500000 x : 1050.000000 y : 100.000000 corb : black corp : tomato
+delf 1195
+id : 1195 forma : c raio : 2.500000 x : 340.000000 y : 140.000000 corb : black corp : tomato
+delf 1418
+id : 1418 forma : c raio : 2.500000 x : 982.000000 y : 140.000000 corb : black corp : tomato
+delf 989
+id : 989 forma : c raio : 2.500000 x : 952.000000 y : 106.250000 corb : black corp : tomato
+delf 1869
+id : 1869 forma : c raio : 2.500000 x : 634.000000 y : 180.000000 corb : black corp : tomato
+delf 621
+id : 621 forma : c raio : 2.500000 x : 114.000000 y : 100.000000 corb : black corp : tomato
+delf 1991
+id : 1991 forma : c raio : 2.500000 x : 842.000000 y : 180.000000 corb : black corp : tomato
+delf 1764
+id : 1764 forma : c raio : 2.500000 x : 374.000000 y : 180.000000 corb : black corp : tomato
+delf 224
+id : 224 forma : c raio : 2.500000 x : 554.000000 y : 53.750000 corb : black corp : tomato
+delf 2250
+id : 2250 forma : c raio : 2.500000 x : 1496.000000 y : 211.250000 corb : black corp : tomato
+delf 1384
+id : 1384 forma : c raio : 2.500000 x : 842.000000 y : 121.250000 corb : black corp : tomato
+delf 869
+id : 869 forma : c raio : 2.500000 x : 780.000000 y : 81.250000 corb : black corp : tomato
+delf 2291
+delf 1310
+delf 576
+id : 576 forma : c raio : 2.500000 x : 68.000000 y : 62.500000 corb : black corp : tomato
+delf 1297
+id : 1297 forma : c raio : 2.500000 x : 542.000000 y : 158.750000 corb : black corp : tomato
+delf 595
+id : 595 forma : c raio : 2.500000 x : 62.000000 y : 100.000000 corb : black corp : tomato
+delf 1812
+id : 1812 forma : c raio : 2.500000 x : 572.000000 y : 167.500000 corb : black corp : tomato
+delf 690
+id : 690 forma : c raio : 2.500000 x : 328.000000 y : 106.250000 corb : black corp : tomato
+delf 967
+delf 1567
+id : 1567 forma : c raio : 2.500000 x : 1218.000000 y : 140.000000 corb : black corp : tomato
+delf 1443
+id : 1443 forma : c raio : 2.500000 x : 998.000000 y : 133.750000 corb : black corp : tomato
+delf 245
+delf 355
+id : 355 forma : c raio : 2.500000 x : 894.000000 y : 16.250000 corb : black corp : tomato
+delf 1305
+id : 1305 forma : c raio : 2.500000 x : 646.000000 y : 115.000000 corb : black corp : tomato
+delf 1270
+id : 1270 forma : c raio : 2.500000 x : 502.000000 y : 152.500000 corb : black corp : tomato
+delf 385
+id : 385 forma : c raio : 2.500000 x : 958.000000 y : 35.000000 corb : black corp : tomato
+delf 478
+id : 478 forma : c raio : 2.500000 x : 1184.000000 y : 10.000000 corb : black corp : tomato
+delf 1281
+id : 1281 forma : c raio : 2.500000 x : 530.000000 y : 121.250000 corb : black corp : tomato
+delf 1522
+id : 1522 forma : c raio : 2.500000 x : 1138.000000 y : 158.750000 corb : black corp : tomato
+delf 820
+id : 820 forma : c raio : 2.500000 x : 670.000000 y : 87.500000 corb : black corp : tomato
+delf 1727
+id : 1727 forma : c raio : 2.500000 x : 276.000000 y : 167.500000 corb : black corp : tomato
+delf 1806
+id : 1806 forma : c raio : 2.500000 x : 536.000000 y : 167.500000 corb : black corp : tomato
+delf 464
+id : 464 forma : c raio : 2.500000 x : 1126.000000 y : 47.500000 corb : black corp : tomato
+delf 1187
+id : 1187 forma : c raio : 2.500000 x : 322.000000 y : 127.500000 corb : black corp : tomato
+delf 1026
+id : 1026 forma : c raio : 2.500000 x : 1034.000000 y : 106.250000 corb : black corp : tomato
+delf 2279
+id : 2279 forma : c raio : 2.500000 x : 1576.000000 y : 167.500000 corb : black corp : tomato
+delf 86
+id : 86 forma : c raio : 2.500000 x : 178.000000 y : 41.250000 corb : black corp : tomato
+delf 2221
+id : 2221 forma : c raio : 2.500000 x : 1466.000000 y : 167.500000 corb : black corp : tomato
+delf 37
+id : 37 forma : c raio : 2.500000 x : 62.000000 y : 35.000000 corb : black corp : tomato
+delf 2032
+id : 2032 forma : c raio : 2.500000 x : 958.000000 y : 211.250000 corb : black corp : tomato
+delf 782
+id : 782 forma : c raio : 2.500000 x : 530.000000 y : 75.000000 corb : black corp : tomato
+delf 1976
+delf 2224
+id : 2224 forma : c raio : 2.500000 x : 1484.000000 y : 167.500000 corb : black corp : tomato
+delf 356
+id : 356 forma : c raio : 2.500000 x : 936.000000 y : 16.250000 corb : black corp : tomato
+delf 188
+id : 188 forma : c raio : 2.500000 x : 478.000000 y : 35.000000 corb : black corp : tomato
+delf 242
+id : 242 forma : c raio : 2.500000 x : 582.000000 y : 53.750000 corb : black corp : tomato
+delf 2184
+id : 2184 forma : c raio : 2.500000 x : 1404.000000 y : 192.500000 corb : black corp : tomato
+delf 1782
+id : 1782 forma : c raio : 2.500000 x : 444.000000 y : 167.500000 corb : black corp : tomato
+delf 1347
+id : 1347 forma : c raio : 2.500000 x : 790.000000 y : 115.000000 corb : black corp : tomato
+delf 1250
+id : 1250 forma : c raio : 2.500000 x : 484.000000 y : 115.000000 corb : black corp : tomato
+delf 468
+id : 468 forma : c raio : 2.500000 x : 1114.000000 y : 53.750000 corb : black corp : tomato
+delf 316
+id : 316 forma : c raio : 2.500000 x : 780.000000 y : 47.500000 corb : black corp : tomato
+delf 1507
+id : 1507 forma : c raio : 2.500000 x : 1126.000000 y : 140.000000 corb : black corp : tomato
+delf 2250
+delf 1922
+id : 1922 forma : c raio : 2.500000 x : 728.000000 y : 205.000000 corb : black corp : tomato
+delf 1927
+id : 1927 forma : c raio : 2.500000 x : 738.000000 y : 167.500000 corb : black corp : tomato
+delf 132
+id : 132 forma : c raio : 2.500000 x : 322.000000 y : 28.750000 corb : black corp : tomato
+delf 546
+delf 1099
+id : 1099 forma : c raio : 2.500000 x : 34.000000 y : 152.500000 corb : black corp : tomato
+delf 1976
+delf 2072
+id : 2072 forma : c raio : 2.500000 x : 1144.000000 y : 180.000000 corb : black corp : tomato
+delf 806
+id : 806 forma : c raio : 2.500000 x : 658.000000 y : 62.500000 corb : black corp : tomato
+delf 845
+id : 845 forma : c raio : 2.500000 x : 698.000000 y : 81.250000 corb : black corp : tomato
+delf 847
+id : 847 forma : c raio : 2.500000 x : 710.000000 y : 81.250000 corb : black corp : tomato
+delf 1795
+id : 1795 forma : c raio : 2.500000 x : 468.000000 y : 192.500000 corb : black corp : tomato
+delf 1940
+delf 1028
+delf 497
+id : 497 forma : c raio : 2.500000 x : 1184.000000 y : 53.750000 corb : black corp : tomato
+delf 345
+id : 345 forma : c raio : 2.500000 x : 790.000000 y : 47.500000 corb : black corp : tomato
+delf 824
+id : 824 forma : c raio : 2.500000 x : 676.000000 y : 100.000000 corb : black corp : tomato
+delf 470
+id : 470 forma : c raio : 2.500000 x : 1126.000000 y : 53.750000 corb : black corp : tomato
+delf 2184
+delf 1559
+id : 1559 forma : c raio : 2.500000 x : 1248.000000 y : 121.250000 corb : black corp : tomato
+delf 372
+id : 372 forma : c raio : 2.500000 x : 958.000000 y : 10.000000 corb : black corp : tomato
+delf 1663
+id : 1663 forma : c raio : 2.500000 x : 120.000000 y : 198.750000 corb : black corp : tomato
+delf 432
+delf 2058
+id : 2058 forma : c raio : 2.500000 x : 1010.000000 y : 211.250000 corb : black corp : tomato
+delf 1411
+id : 1411 forma : c raio : 2.500000 x : 946.000000 y : 127.500000 corb : black corp : tomato
+delf 424
+id : 424 forma : c raio : 2.500000 x : 1056.000000 y : 28.750000 corb : black corp : tomato
+delf 2004
+id : 2004 forma : c raio : 2.500000 x : 860.000000 y : 211.250000 corb : black corp : tomato
+delf 2240
+id : 2240 forma : c raio : 2.500000 x : 1490.000000 y : 198.750000 corb : black corp : tomato
+delf 1481
+id : 1481 forma : c raio : 2.500000 x : 1092.000000 y : 152.500000 corb : black corp : tomato
+delf 1785
+id : 1785 forma : c raio : 2.500000 x : 462.000000 y : 167.500000 corb : black corp : tomato
+delf 1710
+id : 1710 forma : c raio : 2.500000 x : 260.000000 y : 180.000000 corb : black corp : tomato
+delf 1588
+id : 1588 forma : c raio : 2.500000 x : 52.000000 y : 173.750000 corb : black corp : tomato
+delf 881
+delf 791
+id : 791 forma : c raio : 2.500000 x : 530.000000 y : 93.750000 corb : black corp : tomato
+delf 186
+id : 186 forma : c raio : 2.500000 x : 508.000000 y : 28.750000 corb : black corp : tomato
+delf 1944
+id : 1944 forma : c raio : 2.500000 x : 744.000000 y : 205.000000 corb : black corp : tomato
+delf 104
+id : 104 forma : c raio : 2.500000 x : 224.000000 y : 28.750000 corb : black corp : tomato
+delf 1566
+delf 2191
+id : 2191 forma : c raio : 2.500000 x : 1414.000000 y : 167.500000 corb : black corp : tomato
+delf 1155
+id : 1155 forma : c raio : 2.500000 x : 242.000000 y : 115.000000 corb : black corp : tomato
+delf 1984
+id : 1984 forma : c raio : 2.500000 x : 854.000000 y : 167.500000 corb : black corp : tomato
+delf 456
+id : 456 forma : c raio : 2.500000 x : 1120.000000 y : 28.750000 corb : black corp : tomato
+delf 963
+id : 963 forma : c raio : 2.500000 x : 924.000000 y : 106.250000 corb : black corp : tomato
+delf 2
+id : 2 forma : c raio : 2.500000 x : 28.000000 y : 10.000000 corb : black corp : tomato
+delf 1893
+id : 1893 forma : c raio : 2.500000 x : 698.000000 y : 173.750000 corb : black corp : tomato
+delf 1860
+id : 1860 forma : c raio : 2.500000 x : 624.000000 y : 211.250000 corb : black corp : tomato
+delf 505
+id : 505 forma : c raio : 2.500000 x : 1242.000000 y : 10.000000 corb : black corp : tomato
+delf 158
+delf 887
+id : 887 forma : c raio : 2.500000 x : 814.000000 y : 62.500000 corb : black corp : tomato
+delf 1174
+id : 1174 forma : c raio : 2.500000 x : 242.000000 y : 158.750000 corb : black corp : tomato
+delf 1919
+id : 1919 forma : c raio : 2.500000 x : 692.000000 y : 205.000000 corb : black corp : tomato
+delf 1237
+id : 1237 forma : c raio : 2.500000 x : 444.000000 y : 133.750000 corb : black corp : tomato
+delf 165
+id : 165 forma : c raio : 2.500000 x : 450.000000 y : 41.250000 corb : black corp : tomato
+delf 248
+id : 248 forma : c raio : 2.500000 x : 618.000000 y : 53.750000 corb : black corp : tomato
+delf 968
+id : 968 forma : c raio : 2.500000 x : 958.000000 y : 62.500000 corb : black corp : tomato
+delf 2165
+id : 2165 forma : c raio : 2.500000 x : 1346.000000 y : 211.250000 corb : black corp : tomato
+delf 1429
+id : 1429 forma : c raio : 2.500000 x : 976.000000 y : 158.750000 corb : black corp : tomato
+delf 2210
+id : 2210 forma : c raio : 2.500000 x : 1414.000000 y : 198.750000 corb : black corp : tomato
+delf 147
+id : 147 forma : c raio : 2.500000 x : 432.000000 y : 10.000000 corb : black corp : tomato
+delf 437
+id : 437 forma : c raio : 2.500000 x : 1068.000000 y : 53.750000 corb : black corp : tomato
+delf 735
+id : 735 forma : c raio : 2.500000 x : 468.000000 y : 100.000000 corb : black corp : tomato
+delf 888
+delf 541
+id : 541 forma : c raio : 2.500000 x : 1294.000000 y : 35.000000 corb : black corp : tomato
+delf 2148
+delf 1171
+id : 1171 forma : c raio : 2.500000 x : 224.000000 y : 158.750000 corb : black corp : tomato
+delf 1998
+id : 1998 forma : c raio : 2.500000 x : 884.000000 y : 192.500000 corb : black corp : tomato
+delf 2200
+id : 2200 forma : c raio : 2.500000 x : 1456.000000 y : 173.750000 corb : black corp : tomato
+delf 1909
+id : 1909 forma : c raio : 2.500000 x : 692.000000 y : 192.500000 corb : black corp : tomato
+delf 93
+id : 93 forma : c raio : 2.500000 x : 224.000000 y : 10.000000 corb : black corp : tomato
+delf 267
+id : 267 forma : c raio : 2.500000 x : 676.000000 y : 47.500000 corb : black corp : tomato
+delf 91
+id : 91 forma : c raio : 2.500000 x : 190.000000 y : 53.750000 corb : black corp : tomato
+delf 228
+id : 228 forma : c raio : 2.500000 x : 582.000000 y : 10.000000 corb : black corp : tomato
+delf 857
+id : 857 forma : c raio : 2.500000 x : 728.000000 y : 106.250000 corb : black corp : tomato
+delf 1183
+id : 1183 forma : c raio : 2.500000 x : 358.000000 y : 115.000000 corb : black corp : tomato
+delf 57
+id : 57 forma : c raio : 2.500000 x : 114.000000 y : 28.750000 corb : black corp : tomato
+delf 481
+delf 1327
+id : 1327 forma : c raio : 2.500000 x : 686.000000 y : 115.000000 corb : black corp : tomato
+delf 947
+id : 947 forma : c raio : 2.500000 x : 894.000000 y : 81.250000 corb : black corp : tomato
+delf 1452
+id : 1452 forma : c raio : 2.500000 x : 998.000000 y : 146.250000 corb : black corp : tomato
+delf 1607
+delf 718
+id : 718 forma : c raio : 2.500000 x : 398.000000 y : 106.250000 corb : black corp : tomato
+delf 948
+id : 948 forma : c raio : 2.500000 x : 900.000000 y : 81.250000 corb : black corp : tomato
+delf 810
+id : 810 forma : c raio : 2.500000 x : 676.000000 y : 68.750000 corb : black corp : tomato
+delf 1139
+id : 1139 forma : c raio : 2.500000 x : 178.000000 y : 140.000000 corb : black corp : tomato
+delf 1982
+id : 1982 forma : c raio : 2.500000 x : 832.000000 y : 211.250000 corb : black corp : tomato
+delf 1963
+id : 1963 forma : c raio : 2.500000 x : 790.000000 y : 180.000000 corb : black corp : tomato
+delf 801
+id : 801 forma : c raio : 2.500000 x : 572.000000 y : 106.250000 corb : black corp : tomato
+delf 1475
+delf 890
+id : 890 forma : c raio : 2.500000 x : 832.000000 y : 62.500000 corb : black corp : tomato
+delf 1607
+delf 719
+id : 719 forma : c raio : 2.500000 x : 404.000000 y : 106.250000 corb : black corp : tomato
+delf 1720
+id : 1720 forma : c raio : 2.500000 x : 218.000000 y : 198.750000 corb : black corp : tomato
+delf 132
+delf 977
+id : 977 forma : c raio : 2.500000 x : 946.000000 y : 81.250000 corb : black corp : tomato
+delf 1374
+id : 1374 forma : c raio : 2.500000 x : 820.000000 y : 158.750000 corb : black corp : tomato
+delf 932
+id : 932 forma : c raio : 2.500000 x : 884.000000 y : 100.000000 corb : black corp : tomato
+delf 1061
+id : 1061 forma : c raio : 2.500000 x : 1144.000000 y : 68.750000 corb : black corp : tomato
+delf 597
+id : 597 forma : c raio : 2.500000 x : 62.000000 y : 106.250000 corb : black corp : tomato
+delf 1750
+id : 1750 forma : c raio : 2.500000 x : 282.000000 y : 211.250000 corb : black corp : tomato
+delf 1560
+delf 1432
+id : 1432 forma : c raio : 2.500000 x : 998.000000 y : 115.000000 corb : black corp : tomato
+delf 819
+id : 819 forma : c raio : 2.500000 x : 664.000000 y : 87.500000 corb : black corp : tomato
+delf 421
+delf 978
+id : 978 forma : c raio : 2.500000 x : 952.000000 y : 81.250000 corb : black corp : tomato
+delf 1715
+id : 1715 forma : c raio : 2.500000 x : 242.000000 y : 186.250000 corb : black corp : tomato
+delf 264
+id : 264 forma : c raio : 2.500000 x : 634.000000 y : 41.250000 corb : black corp : tomato
+delf 1379
+id : 1379 forma : c raio : 2.500000 x : 860.000000 y : 115.000000 corb : black corp : tomato
+delf 288
+id : 288 forma : c raio : 2.500000 x : 692.000000 y : 47.500000 corb : black corp : tomato
+delf 475
+id : 475 forma : c raio : 2.500000 x : 1166.000000 y : 10.000000 corb : black corp : tomato
+delf 1556
+delf 1608
+delf 475
+delf 1719
+id : 1719 forma : c raio : 2.500000 x : 242.000000 y : 192.500000 corb : black corp : tomato
+delf 1002
+id : 1002 forma : c raio : 2.500000 x : 1034.000000 y : 62.500000 corb : black corp : tomato
+delf 1885
+id : 1885 forma : c raio : 2.500000 x : 634.000000 y : 211.250000 corb : black corp : tomato
+delf 2043
+delf 162
+id : 162 forma : c raio : 2.500000 x : 444.000000 y : 35.000000 corb : black corp : tomato
+delf 728
+id : 728 forma : c raio : 2.500000 x : 426.000000 y : 81.250000 corb : black corp : tomato
+delf 597
+delf 663
+id : 663 forma : c raio : 2.500000 x : 218.000000 y : 87.500000 corb : black corp : tomato
+delf 1854
+id : 1854 forma : c raio : 2.500000 x : 606.000000 y : 192.500000 corb : black corp : tomato
+delf 1314
+id : 1314 forma : c raio : 2.500000 x : 676.000000 y : 121.250000 corb : black corp : tomato
+delf 1676
+id : 1676 forma : c raio : 2.500000 x : 166.000000 y : 167.500000 corb : black corp : tomato
+delf 595
+delf 251
+id : 251 forma : c raio : 2.500000 x : 646.000000 y : 10.000000 corb : black corp : tomato
+delf 1953
+id : 1953 forma : c raio : 2.500000 x : 790.000000 y : 167.500000 corb : black corp : tomato
+delf 1605
+id : 1605 forma : c raio : 2.500000 x : 46.000000 y : 211.250000 corb : black corp : tomato
+delf 2190
+id : 2190 forma : c raio : 2.500000 x : 1404.000000 y : 211.250000 corb : black corp : tomato
+delf 413
+id : 413 forma : c raio : 2.500000 x : 1016.000000 y : 53.750000 corb : black corp : tomato
+delf 228
+delf 1805
+id : 1805 forma : c raio : 2.500000 x : 530.000000 y : 167.500000 corb : black corp : tomato
+delf 1784
+id : 1784 forma : c raio : 2.500000 x : 456.000000 y : 167.500000 corb : black corp : tomato
+delf 699
+delf 842
+id : 842 forma : c raio : 2.500000 x : 728.000000 y : 75.000000 corb : black corp : tomato
+delf 2238
+id : 2238 forma : c raio : 2.500000 x : 1490.000000 y : 192.500000 corb : black corp : tomato
+delf 1482
+id : 1482 forma : c raio : 2.500000 x : 1050.000000 y : 158.750000 corb : black corp : tomato
+delf 584
+id : 584 forma : c raio : 2.500000 x : 74.000000 y : 75.000000 corb : black corp : tomato
+delf 1152
+id : 1152 forma : c raio : 2.500000 x : 224.000000 y : 115.000000 corb : black corp : tomato
+delf 1032
+id : 1032 forma : c raio : 2.500000 x : 1074.000000 y : 62.500000 corb : black corp : tomato
+delf 1489
+delf 125
+id : 125 forma : c raio : 2.500000 x : 346.000000 y : 10.000000 corb : black corp : tomato
+delf 2
+delf 1625
+id : 1625 forma : c raio : 2.500000 x : 62.000000 y : 198.750000 corb : black corp : tomato
+delf 1060
+id : 1060 forma : c raio : 2.500000 x : 1102.000000 y : 68.750000 corb : black corp : tomato
+delf 1493
+id : 1493 forma : c raio : 2.500000 x : 1102.000000 y : 127.500000 corb : black corp : tomato
+delf 119
+id : 119 forma : c raio : 2.500000 x : 248.000000 y : 53.750000 corb : black corp : tomato
+delf 791
+delf 2072
+delf 1656
+id : 1656 forma : c raio : 2.500000 x : 156.000000 y : 186.250000 corb : black corp : tomato
+delf 570
+id : 570 forma : c raio : 2.500000 x : 52.000000 y : 93.750000 corb : black corp : tomato
+delf 1955
+id : 1955 forma : c raio : 2.500000 x : 802.000000 y : 167.500000 corb : black corp : tomato
+delf 2063
+delf 1775
+id : 1775 forma : c raio : 2.500000 x : 386.000000 y : 211.250000 corb : black corp : tomato
+delf 1871
+id : 1871 forma : c raio : 2.500000 x : 634.000000 y : 186.250000 corb : black corp : tomato
+delf 763
+id : 763 forma : c raio : 2.500000 x : 484.000000 y : 100.000000 corb : black corp : tomato
+delf 1837
+id : 1837 forma : c raio : 2.500000 x : 594.000000 y : 167.500000 corb : black corp : tomato
+delf 792
+delf 2057
+id : 2057 forma : c raio : 2.500000 x : 1004.000000 y : 211.250000 corb : black corp : tomato
+delf 1489
+delf 1928
+delf 1258
+id : 1258 forma : c raio : 2.500000 x : 496.000000 y : 121.250000 corb : black corp : tomato
+delf 1817
+id : 1817 forma : c raio : 2.500000 x : 530.000000 y : 192.500000 corb : black corp : tomato
+delf 337
+id : 337 forma : c raio : 2.500000 x : 808.000000 y : 28.750000 corb : black corp : tomato
+delf 1647
+delf 882
+id : 882 forma : c raio : 2.500000 x : 738.000000 y : 106.250000 corb : black corp : tomato
+delf 1729
+id : 1729 forma : c raio : 2.500000 x : 288.000000 y : 167.500000 corb : black corp : tomato
+delf 241
+id : 241 forma : c raio : 2.500000 x : 582.000000 y : 47.500000 corb : black corp : tomato
+delf 744
+id : 744 forma : c raio : 2.500000 x : 490.000000 y : 62.500000 corb : black corp : tomato
+delf 2035
+id : 2035 forma : c raio : 2.500000 x : 976.000000 y : 211.250000 corb : black corp : tomato
+delf 81
+id : 81 forma : c raio : 2.500000 x : 202.000000 y : 22.500000 corb : black corp : tomato
+delf 1465
+id : 1465 forma : c raio : 2.500000 x : 1092.000000 y : 121.250000 corb : black corp : tomato

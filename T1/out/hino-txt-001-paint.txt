@@ -1,0 +1,16 @@
+pnt 4 red red 
+x : 5.000000 y : 63.000000 
+pnt 10 red red 
+x : 5.000000 y : 159.000000 
+pnt 3 red red 
+x : 5.000000 y : 47.000000 
+pnt 7 red red 
+x : 5.000000 y : 111.000000 
+pnt 11 red red 
+x : 5.000000 y : 175.000000 
+pnt 10 red red 
+x : 5.000000 y : 159.000000 
+pnt 9 red red 
+x : 5.000000 y : 143.000000 
+pnt 12 red red 
+x : 5.000000 y : 191.000000 

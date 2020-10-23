@@ -1,0 +1,33 @@
+o? 123 196
+123: círculo 196: retângulo NÃO
+o? 189 145
+189: círculo 145: círculo NÃOo? 56 40
+56: retângulo 40: retângulo NÃO
+o? 118 50
+118: retângulo 50: retângulo NÃO
+o? 105 48
+105: círculo 48: círculo NÃOo? 84 119
+84: círculo 119: retângulo NÃO
+o? 62 65
+62: retângulo 65: retângulo NÃO
+o? 128 67
+128: retângulo 67: círculo NÃO
+o? 27 150
+27: círculo 150: círculo NÃOo? 65 141
+65: retângulo 141: círculo NÃO
+o? 5 179
+5: retângulo 179: retângulo NÃO
+o? 129 177
+129: círculo 177: círculo NÃOo? 43 148
+43: círculo 148: retângulo NÃO
+o? 168 27
+168: círculo 27: círculo NÃOo? 96 121
+96: círculo 121: círculo NÃOo? 147 173
+147: círculo 173: retângulo NÃO
+o? 39 150
+39: círculo 150: círculo NÃOo? 8 78
+8: retângulo 78: círculo NÃO
+o? 154 163
+154: retângulo 163: círculo NÃO
+o? 132 192
+132: círculo 192: círculo NÃO

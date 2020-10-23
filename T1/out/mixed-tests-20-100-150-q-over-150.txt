@@ -1,0 +1,255 @@
+o? 35 17
+35: retângulo 17: retângulo NÃO
+o? 11 5
+11: retângulo 5: retângulo NÃO
+o? 36 4
+36: círculo 4: retângulo NÃO
+o? 3 27
+3: círculo 27: círculo NÃOo? 24 17
+24: círculo 17: retângulo NÃO
+o? 20 38
+20: retângulo 38: retângulo NÃO
+o? 22 0
+o? 19 13
+19: círculo 13: círculo NÃOo? 16 15
+16: retângulo 15: círculo NÃO
+o? 37 11
+37: círculo 11: retângulo NÃO
+o? 24 2
+24: círculo 2: retângulo NÃO
+o? 11 5
+11: retângulo 5: retângulo NÃO
+o? 27 22
+27: círculo 22: retângulo NÃO
+o? 32 14
+32: retângulo 14: retângulo NÃO
+o? 17 14
+17: retângulo 14: retângulo NÃO
+o? 3 7
+3: círculo 7: círculo NÃOo? 33 32
+33: círculo 32: retângulo NÃO
+o? 32 3
+32: retângulo 3: círculo NÃO
+o? 37 23
+37: círculo 23: retângulo NÃO
+o? 25 12
+25: círculo 12: círculo NÃOo? 19 17
+19: círculo 17: retângulo NÃO
+o? 37 29
+37: círculo 29: retângulo NÃO
+o? 39 5
+39: círculo 5: retângulo NÃO
+o? 34 24
+34: retângulo 24: círculo NÃO
+o? 12 2
+12: círculo 2: retângulo NÃO
+o? 19 30
+19: círculo 30: círculo NÃOo? 32 31
+32: retângulo 31: círculo NÃO
+o? 9 17
+9: círculo 17: retângulo NÃO
+o? 2 11
+2: retângulo 11: retângulo NÃO
+o? 35 2
+35: retângulo 2: retângulo NÃO
+o? 9 39
+9: círculo 39: círculo NÃOo? 5 15
+5: retângulo 15: círculo NÃO
+o? 3 28
+3: círculo 28: retângulo NÃO
+o? 1 24
+1: círculo 24: círculo NÃOo? 4 27
+4: retângulo 27: círculo NÃO
+o? 0 3
+o? 31 11
+31: círculo 11: retângulo NÃO
+o? 36 33
+36: círculo 33: círculo NÃOo? 26 3
+26: retângulo 3: círculo NÃO
+o? 15 14
+15: círculo 14: retângulo NÃO
+o? 31 10
+31: círculo 10: retângulo NÃO
+o? 1 26
+1: círculo 26: retângulo NÃO
+o? 23 7
+23: retângulo 7: círculo NÃO
+o? 11 39
+11: retângulo 39: círculo NÃO
+o? 29 30
+29: retângulo 30: círculo NÃO
+o? 13 5
+13: círculo 5: retângulo NÃO
+o? 21 6
+21: círculo 6: círculo NÃOo? 31 34
+31: círculo 34: retângulo NÃO
+o? 28 21
+28: retângulo 21: círculo NÃO
+o? 0 17
+o? 29 1
+29: retângulo 1: círculo NÃO
+o? 24 14
+24: círculo 14: retângulo NÃO
+o? 28 19
+28: retângulo 19: círculo NÃO
+o? 27 21
+27: círculo 21: círculo NÃOo? 1 8
+1: círculo 8: retângulo NÃO
+o? 36 25
+36: círculo 25: círculo NÃOo? 6 23
+6: círculo 23: retângulo NÃO
+o? 19 3
+19: círculo 3: círculo NÃOo? 34 27
+34: retângulo 27: círculo NÃO
+o? 12 11
+12: círculo 11: retângulo NÃO
+o? 24 30
+24: círculo 30: círculo NÃOo? 24 26
+24: círculo 26: retângulo NÃO
+o? 15 36
+15: círculo 36: círculo NÃOo? 19 30
+19: círculo 30: círculo NÃOo? 28 9
+28: retângulo 9: círculo NÃO
+o? 30 11
+30: círculo 11: retângulo NÃO
+o? 13 38
+13: círculo 38: retângulo NÃO
+o? 36 9
+36: círculo 9: círculo NÃOo? 1 14
+1: círculo 14: retângulo NÃO
+o? 24 37
+24: círculo 37: círculo NÃOo? 0 5
+o? 34 27
+34: retângulo 27: círculo NÃO
+o? 13 10
+13: círculo 10: retângulo NÃO
+o? 11 7
+11: retângulo 7: círculo NÃO
+o? 27 33
+27: círculo 33: círculo NÃOo? 0 36
+o? 3 31
+3: círculo 31: círculo NÃOo? 29 3
+29: retângulo 3: círculo NÃO
+o? 18 28
+18: círculo 28: retângulo NÃO
+o? 37 1
+37: círculo 1: círculo NÃOo? 22 4
+22: retângulo 4: retângulo NÃO
+o? 15 11
+15: círculo 11: retângulo NÃO
+o? 7 11
+7: círculo 11: retângulo NÃO
+o? 9 23
+9: círculo 23: retângulo NÃO
+o? 39 34
+39: círculo 34: retângulo NÃO
+o? 29 23
+29: retângulo 23: retângulo NÃO
+o? 25 11
+25: círculo 11: retângulo NÃO
+o? 9 8
+9: círculo 8: retângulo NÃO
+o? 32 6
+32: retângulo 6: círculo NÃO
+o? 1 38
+1: círculo 38: retângulo NÃO
+o? 28 5
+28: retângulo 5: retângulo NÃO
+o? 18 6
+18: círculo 6: círculo NÃOo? 27 32
+27: círculo 32: retângulo NÃO
+o? 37 21
+37: círculo 21: círculo NÃOo? 20 14
+20: retângulo 14: retângulo NÃO
+o? 0 39
+o? 20 35
+20: retângulo 35: retângulo NÃO
+o? 15 16
+15: círculo 16: retângulo NÃO
+o? 24 12
+24: círculo 12: círculo NÃOo? 4 17
+4: retângulo 17: retângulo NÃO
+o? 5 10
+5: retângulo 10: retângulo NÃO
+o? 37 33
+37: círculo 33: círculo NÃOo? 8 27
+8: retângulo 27: círculo NÃO
+o? 25 3
+25: círculo 3: círculo NÃOo? 2 29
+2: retângulo 29: retângulo NÃO
+o? 16 36
+16: retângulo 36: círculo NÃO
+o? 13 1
+13: círculo 1: círculo NÃOo? 37 19
+37: círculo 19: círculo NÃOo? 22 9
+22: retângulo 9: círculo NÃO
+o? 34 21
+34: retângulo 21: círculo NÃO
+o? 39 13
+39: círculo 13: círculo NÃOo? 0 22
+o? 20 32
+20: retângulo 32: retângulo NÃO
+o? 2 4
+2: retângulo 4: retângulo NÃO
+o? 38 11
+38: retângulo 11: retângulo NÃO
+o? 12 15
+12: círculo 15: círculo NÃOo? 17 15
+17: retângulo 15: círculo NÃO
+o? 28 4
+28: retângulo 4: retângulo NÃO
+o? 5 1
+5: retângulo 1: círculo NÃO
+o? 3 28
+3: círculo 28: retângulo NÃO
+o? 17 21
+17: retângulo 21: círculo NÃO
+o? 35 13
+35: retângulo 13: círculo NÃO
+o? 8 31
+8: retângulo 31: círculo NÃO
+o? 4 6
+4: retângulo 6: círculo NÃO
+o? 12 21
+12: círculo 21: círculo NÃOo? 13 32
+13: círculo 32: retângulo NÃO
+o? 6 31
+6: círculo 31: círculo NÃOo? 25 36
+25: círculo 36: círculo NÃOo? 6 39
+6: círculo 39: círculo NÃOo? 15 32
+15: círculo 32: retângulo NÃO
+o? 39 19
+39: círculo 19: círculo NÃOo? 4 26
+4: retângulo 26: retângulo NÃO
+o? 0 31
+o? 6 34
+6: círculo 34: retângulo NÃO
+o? 39 35
+39: círculo 35: retângulo NÃO
+o? 10 3
+10: retângulo 3: círculo NÃO
+o? 17 9
+17: retângulo 9: círculo NÃO
+o? 13 24
+13: círculo 24: círculo NÃOo? 17 28
+17: retângulo 28: retângulo NÃO
+o? 26 7
+26: retângulo 7: círculo NÃO
+o? 38 16
+38: retângulo 16: retângulo NÃO
+o? 24 9
+24: círculo 9: círculo NÃOo? 35 18
+35: retângulo 18: círculo NÃO
+o? 12 8
+12: círculo 8: retângulo NÃO
+o? 38 24
+38: retângulo 24: círculo NÃO
+o? 22 12
+22: retângulo 12: círculo NÃO
+o? 25 13
+25: círculo 13: círculo NÃOo? 15 5
+15: círculo 5: retângulo NÃO
+o? 32 25
+32: retângulo 25: círculo NÃO
+o? 5 33
+5: retângulo 33: círculo NÃO

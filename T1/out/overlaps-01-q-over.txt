@@ -1,0 +1,5 @@
+o? 0 1
+o? 2 3
+2: retângulo 3: círculo NÃO
+o? 4 5
+4: retângulo 5: retângulo SIM

@@ -1,0 +1,7 @@
+<svg> 
+
+	<circle cx="597.200012" cy="35.299999" r="30.000000" fill="yellow" stroke="black" />
+	<circle cx="624.200012" cy="35.299999" r="30.000000" fill="blue" stroke="black" />
+	<circle cx="624.200012" cy="35.299999" r="1" fill="magenta" stroke="magenta" />
+	<line x1="615.033325" y1="845.545105" x2="624.200012" y2="35.299999" stroke="magenta" />
+</svg>

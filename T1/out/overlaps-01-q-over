@@ -1,0 +1,17 @@
+<svg> 
+
+	<circle cx="349.799988" cy="624.700012" r="40.000000" fill="yellow" stroke="black" />
+	<circle cx="379.799988" cy="624.700012" r="40.000000" fill="blue" stroke="black" />
+	<rect x="111.781334" y="310.016357" width="40.000000" height="30.000000" fill="yellow" stroke="black" />
+	<circle cx="88.800003" cy="329.299988" r="40.000000" fill="blue" stroke="black" />
+	<rect x="194.800003" y="191.699997" width="40.000000" height="40.000000" fill="yellow" stroke="black" />
+	<rect x="224.800003" y="221.699997" width="40.000000" height="40.000000" fill="blue" stroke="black" />
+	<circle cx="364.700012" cy="595.599976" r="40.000000" fill="yellow" stroke="black" />
+	<circle cx="474.700012" cy="595.599976" r="40.000000" fill="blue" stroke="black" />
+	<rect x="589.489685" y="681.253784" width="40.000000" height="30.000000" fill="yellow" stroke="black" />
+	<circle cx="649.400024" cy="589.000000" r="40.000000" fill="blue" stroke="black" />
+	<rect x="203.500000" y="871.500000" width="40.000000" height="40.000000" fill="yellow" stroke="black" />
+	<rect x="313.500000" y="981.500000" width="40.000000" height="40.000000" fill="blue" stroke="black" />
+	<rect x="48.800003" y="289.299988" width="102.981339" height="80.000000" fill="none" stroke="black" stroke-width= "1" />
+	<rect x="191.699997" y="194.800003" width="69.999985" height="70.000015" fill="none" stroke="black" stroke-dasharray="5" stroke-width="1" />
+</svg>

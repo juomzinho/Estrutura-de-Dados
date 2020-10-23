@@ -1,0 +1,1095 @@
+delf 1753
+id : 1753 forma : c raio : 2.500000 x : 300.000000 y : 211.250000 corb : black corp : dimgray
+delf 1633
+id : 1633 forma : c raio : 2.500000 x : 92.000000 y : 211.250000 corb : black corp : dimgray
+delf 437
+id : 437 forma : c raio : 2.500000 x : 1068.000000 y : 53.750000 corb : black corp : dimgray
+delf 1643
+id : 1643 forma : c raio : 2.500000 x : 150.000000 y : 173.750000 corb : black corp : dimgray
+delf 1117
+id : 1117 forma : c raio : 2.500000 x : 74.000000 y : 158.750000 corb : black corp : dimgray
+delf 2201
+id : 2201 forma : c raio : 2.500000 x : 1414.000000 y : 180.000000 corb : black corp : dimgray
+delf 2237
+id : 2237 forma : c raio : 2.500000 x : 1484.000000 y : 192.500000 corb : black corp : dimgray
+delf 1168
+id : 1168 forma : c raio : 2.500000 x : 260.000000 y : 146.250000 corb : black corp : dimgray
+delf 1854
+id : 1854 forma : c raio : 2.500000 x : 606.000000 y : 192.500000 corb : black corp : dimgray
+delf 309
+id : 309 forma : c raio : 2.500000 x : 738.000000 y : 28.750000 corb : black corp : dimgray
+delf 2250
+id : 2250 forma : c raio : 2.500000 x : 1496.000000 y : 211.250000 corb : black corp : dimgray
+delf 1140
+id : 1140 forma : c raio : 2.500000 x : 184.000000 y : 140.000000 corb : black corp : dimgray
+delf 368
+id : 368 forma : c raio : 2.500000 x : 894.000000 y : 41.250000 corb : black corp : dimgray
+delf 909
+id : 909 forma : c raio : 2.500000 x : 842.000000 y : 62.500000 corb : black corp : dimgray
+delf 310
+id : 310 forma : c raio : 2.500000 x : 780.000000 y : 28.750000 corb : black corp : dimgray
+delf 848
+id : 848 forma : c raio : 2.500000 x : 716.000000 y : 81.250000 corb : black corp : dimgray
+delf 2216
+id : 2216 forma : c raio : 2.500000 x : 1432.000000 y : 211.250000 corb : black corp : dimgray
+delf 504
+id : 504 forma : c raio : 2.500000 x : 1236.000000 y : 10.000000 corb : black corp : dimgray
+delf 1105
+id : 1105 forma : c raio : 2.500000 x : 104.000000 y : 121.250000 corb : black corp : dimgray
+delf 774
+id : 774 forma : c raio : 2.500000 x : 542.000000 y : 62.500000 corb : black corp : dimgray
+delf 570
+id : 570 forma : c raio : 2.500000 x : 52.000000 y : 93.750000 corb : black corp : dimgray
+delf 2175
+id : 2175 forma : c raio : 2.500000 x : 1362.000000 y : 180.000000 corb : black corp : dimgray
+delf 1385
+id : 1385 forma : c raio : 2.500000 x : 842.000000 y : 127.500000 corb : black corp : dimgray
+delf 1286
+id : 1286 forma : c raio : 2.500000 x : 542.000000 y : 133.750000 corb : black corp : dimgray
+delf 429
+id : 429 forma : c raio : 2.500000 x : 1092.000000 y : 41.250000 corb : black corp : dimgray
+delf 901
+id : 901 forma : c raio : 2.500000 x : 832.000000 y : 100.000000 corb : black corp : dimgray
+delf 1184
+id : 1184 forma : c raio : 2.500000 x : 364.000000 y : 115.000000 corb : black corp : dimgray
+delf 35
+id : 35 forma : c raio : 2.500000 x : 62.000000 y : 28.750000 corb : black corp : dimgray
+delf 2285
+id : 2285 forma : c raio : 2.500000 x : 1570.000000 y : 173.750000 corb : black corp : dimgray
+delf 597
+id : 597 forma : c raio : 2.500000 x : 62.000000 y : 106.250000 corb : black corp : dimgray
+delf 1006
+id : 1006 forma : c raio : 2.500000 x : 1022.000000 y : 68.750000 corb : black corp : dimgray
+delf 553
+id : 553 forma : c raio : 2.500000 x : 40.000000 y : 62.500000 corb : black corp : dimgray
+delf 228
+id : 228 forma : c raio : 2.500000 x : 582.000000 y : 10.000000 corb : black corp : dimgray
+delf 992
+id : 992 forma : c raio : 2.500000 x : 970.000000 y : 106.250000 corb : black corp : dimgray
+delf 1735
+id : 1735 forma : c raio : 2.500000 x : 312.000000 y : 173.750000 corb : black corp : dimgray
+delf 2159
+id : 2159 forma : c raio : 2.500000 x : 1310.000000 y : 211.250000 corb : black corp : dimgray
+delf 1568
+id : 1568 forma : c raio : 2.500000 x : 1224.000000 y : 140.000000 corb : black corp : dimgray
+delf 1264
+id : 1264 forma : c raio : 2.500000 x : 502.000000 y : 133.750000 corb : black corp : dimgray
+delf 684
+id : 684 forma : c raio : 2.500000 x : 322.000000 y : 75.000000 corb : black corp : dimgray
+delf 1100
+id : 1100 forma : c raio : 2.500000 x : 28.000000 y : 158.750000 corb : black corp : dimgray
+delf 1877
+id : 1877 forma : c raio : 2.500000 x : 658.000000 y : 192.500000 corb : black corp : dimgray
+delf 106
+id : 106 forma : c raio : 2.500000 x : 236.000000 y : 28.750000 corb : black corp : dimgray
+delf 489
+id : 489 forma : c raio : 2.500000 x : 1196.000000 y : 35.000000 corb : black corp : dimgray
+delf 1368
+id : 1368 forma : c raio : 2.500000 x : 832.000000 y : 152.500000 corb : black corp : dimgray
+delf 1601
+id : 1601 forma : c raio : 2.500000 x : 22.000000 y : 211.250000 corb : black corp : dimgray
+delf 595
+id : 595 forma : c raio : 2.500000 x : 62.000000 y : 100.000000 corb : black corp : dimgray
+delf 2202
+id : 2202 forma : c raio : 2.500000 x : 1414.000000 y : 186.250000 corb : black corp : dimgray
+delf 1217
+id : 1217 forma : c raio : 2.500000 x : 380.000000 y : 158.750000 corb : black corp : dimgray
+delf 227
+id : 227 forma : c raio : 2.500000 x : 572.000000 y : 53.750000 corb : black corp : dimgray
+delf 588
+id : 588 forma : c raio : 2.500000 x : 80.000000 y : 81.250000 corb : black corp : dimgray
+delf 1164
+id : 1164 forma : c raio : 2.500000 x : 242.000000 y : 133.750000 corb : black corp : dimgray
+delf 977
+id : 977 forma : c raio : 2.500000 x : 946.000000 y : 81.250000 corb : black corp : dimgray
+delf 408
+id : 408 forma : c raio : 2.500000 x : 1040.000000 y : 41.250000 corb : black corp : dimgray
+delf 860
+id : 860 forma : c raio : 2.500000 x : 756.000000 y : 62.500000 corb : black corp : dimgray
+delf 721
+id : 721 forma : c raio : 2.500000 x : 416.000000 y : 106.250000 corb : black corp : dimgray
+delf 289
+id : 289 forma : c raio : 2.500000 x : 722.000000 y : 47.500000 corb : black corp : dimgray
+delf 637
+id : 637 forma : c raio : 2.500000 x : 208.000000 y : 81.250000 corb : black corp : dimgray
+delf 1925
+id : 1925 forma : c raio : 2.500000 x : 722.000000 y : 211.250000 corb : black corp : dimgray
+delf 1157
+id : 1157 forma : c raio : 2.500000 x : 254.000000 y : 115.000000 corb : black corp : dimgray
+delf 1533
+id : 1533 forma : c raio : 2.500000 x : 1160.000000 y : 127.500000 corb : black corp : dimgray
+delf 1964
+id : 1964 forma : c raio : 2.500000 x : 790.000000 y : 186.250000 corb : black corp : dimgray
+delf 131
+id : 131 forma : c raio : 2.500000 x : 364.000000 y : 22.500000 corb : black corp : dimgray
+delf 1293
+id : 1293 forma : c raio : 2.500000 x : 530.000000 y : 152.500000 corb : black corp : dimgray
+delf 204
+id : 204 forma : c raio : 2.500000 x : 530.000000 y : 16.250000 corb : black corp : dimgray
+delf 1039
+id : 1039 forma : c raio : 2.500000 x : 1050.000000 y : 81.250000 corb : black corp : dimgray
+delf 754
+id : 754 forma : c raio : 2.500000 x : 520.000000 y : 81.250000 corb : black corp : dimgray
+delf 595
+delf 756
+id : 756 forma : c raio : 2.500000 x : 490.000000 y : 87.500000 corb : black corp : dimgray
+delf 1334
+id : 1334 forma : c raio : 2.500000 x : 728.000000 y : 133.750000 corb : black corp : dimgray
+delf 2264
+id : 2264 forma : c raio : 2.500000 x : 1518.000000 y : 186.250000 corb : black corp : dimgray
+delf 425
+id : 425 forma : c raio : 2.500000 x : 1050.000000 y : 35.000000 corb : black corp : dimgray
+delf 1830
+id : 1830 forma : c raio : 2.500000 x : 548.000000 y : 211.250000 corb : black corp : dimgray
+delf 1097
+id : 1097 forma : c raio : 2.500000 x : 34.000000 y : 146.250000 corb : black corp : dimgray
+delf 712
+id : 712 forma : c raio : 2.500000 x : 410.000000 y : 100.000000 corb : black corp : dimgray
+delf 1210
+id : 1210 forma : c raio : 2.500000 x : 416.000000 y : 133.750000 corb : black corp : dimgray
+delf 2264
+delf 581
+id : 581 forma : c raio : 2.500000 x : 98.000000 y : 68.750000 corb : black corp : dimgray
+delf 1414
+id : 1414 forma : c raio : 2.500000 x : 946.000000 y : 140.000000 corb : black corp : dimgray
+delf 670
+id : 670 forma : c raio : 2.500000 x : 230.000000 y : 106.250000 corb : black corp : dimgray
+delf 1666
+id : 1666 forma : c raio : 2.500000 x : 156.000000 y : 198.750000 corb : black corp : dimgray
+delf 880
+id : 880 forma : c raio : 2.500000 x : 738.000000 y : 100.000000 corb : black corp : dimgray
+delf 1817
+id : 1817 forma : c raio : 2.500000 x : 530.000000 y : 192.500000 corb : black corp : dimgray
+delf 39
+id : 39 forma : c raio : 2.500000 x : 74.000000 y : 35.000000 corb : black corp : dimgray
+delf 167
+id : 167 forma : c raio : 2.500000 x : 450.000000 y : 47.500000 corb : black corp : dimgray
+delf 677
+id : 677 forma : c raio : 2.500000 x : 334.000000 y : 62.500000 corb : black corp : dimgray
+delf 1022
+id : 1022 forma : c raio : 2.500000 x : 1010.000000 y : 106.250000 corb : black corp : dimgray
+delf 574
+id : 574 forma : c raio : 2.500000 x : 52.000000 y : 106.250000 corb : black corp : dimgray
+delf 906
+id : 906 forma : c raio : 2.500000 x : 814.000000 y : 106.250000 corb : black corp : dimgray
+delf 1087
+id : 1087 forma : c raio : 2.500000 x : 28.000000 y : 121.250000 corb : black corp : dimgray
+delf 1441
+id : 1441 forma : c raio : 2.500000 x : 998.000000 y : 127.500000 corb : black corp : dimgray
+delf 1638
+id : 1638 forma : c raio : 2.500000 x : 150.000000 y : 167.500000 corb : black corp : dimgray
+delf 473
+id : 473 forma : c raio : 2.500000 x : 1144.000000 y : 53.750000 corb : black corp : dimgray
+delf 1569
+id : 1569 forma : c raio : 2.500000 x : 1206.000000 y : 146.250000 corb : black corp : dimgray
+delf 1294
+id : 1294 forma : c raio : 2.500000 x : 572.000000 y : 152.500000 corb : black corp : dimgray
+delf 426
+id : 426 forma : c raio : 2.500000 x : 1056.000000 y : 35.000000 corb : black corp : dimgray
+delf 1877
+delf 692
+id : 692 forma : c raio : 2.500000 x : 340.000000 y : 106.250000 corb : black corp : dimgray
+delf 868
+id : 868 forma : c raio : 2.500000 x : 738.000000 y : 81.250000 corb : black corp : dimgray
+delf 1485
+id : 1485 forma : c raio : 2.500000 x : 1108.000000 y : 115.000000 corb : black corp : dimgray
+delf 1902
+id : 1902 forma : c raio : 2.500000 x : 686.000000 y : 186.250000 corb : black corp : dimgray
+delf 292
+id : 292 forma : c raio : 2.500000 x : 692.000000 y : 53.750000 corb : black corp : dimgray
+delf 724
+id : 724 forma : c raio : 2.500000 x : 426.000000 y : 68.750000 corb : black corp : dimgray
+delf 672
+id : 672 forma : c raio : 2.500000 x : 242.000000 y : 106.250000 corb : black corp : dimgray
+delf 1649
+id : 1649 forma : c raio : 2.500000 x : 150.000000 y : 180.000000 corb : black corp : dimgray
+delf 1633
+delf 715
+id : 715 forma : c raio : 2.500000 x : 380.000000 y : 106.250000 corb : black corp : dimgray
+delf 714
+id : 714 forma : c raio : 2.500000 x : 374.000000 y : 106.250000 corb : black corp : dimgray
+delf 1120
+id : 1120 forma : c raio : 2.500000 x : 92.000000 y : 158.750000 corb : black corp : dimgray
+delf 1455
+id : 1455 forma : c raio : 2.500000 x : 1034.000000 y : 152.500000 corb : black corp : dimgray
+delf 1905
+id : 1905 forma : c raio : 2.500000 x : 710.000000 y : 186.250000 corb : black corp : dimgray
+delf 1582
+id : 1582 forma : c raio : 2.500000 x : 22.000000 y : 167.500000 corb : black corp : dimgray
+delf 1386
+id : 1386 forma : c raio : 2.500000 x : 848.000000 y : 133.750000 corb : black corp : dimgray
+delf 2163
+id : 2163 forma : c raio : 2.500000 x : 1334.000000 y : 211.250000 corb : black corp : dimgray
+delf 1989
+id : 1989 forma : c raio : 2.500000 x : 884.000000 y : 167.500000 corb : black corp : dimgray
+delf 1279
+id : 1279 forma : c raio : 2.500000 x : 566.000000 y : 115.000000 corb : black corp : dimgray
+delf 1019
+id : 1019 forma : c raio : 2.500000 x : 1040.000000 y : 100.000000 corb : black corp : dimgray
+delf 1387
+id : 1387 forma : c raio : 2.500000 x : 854.000000 y : 133.750000 corb : black corp : dimgray
+delf 611
+id : 611 forma : c raio : 2.500000 x : 114.000000 y : 87.500000 corb : black corp : dimgray
+delf 2211
+id : 2211 forma : c raio : 2.500000 x : 1414.000000 y : 205.000000 corb : black corp : dimgray
+delf 2085
+id : 2085 forma : c raio : 2.500000 x : 1132.000000 y : 211.250000 corb : black corp : dimgray
+delf 1949
+id : 1949 forma : c raio : 2.500000 x : 756.000000 y : 211.250000 corb : black corp : dimgray
+delf 1694
+id : 1694 forma : c raio : 2.500000 x : 184.000000 y : 198.750000 corb : black corp : dimgray
+delf 2253
+id : 2253 forma : c raio : 2.500000 x : 1518.000000 y : 167.500000 corb : black corp : dimgray
+delf 789
+id : 789 forma : c raio : 2.500000 x : 542.000000 y : 87.500000 corb : black corp : dimgray
+delf 1159
+id : 1159 forma : c raio : 2.500000 x : 218.000000 y : 121.250000 corb : black corp : dimgray
+delf 1159
+delf 1598
+id : 1598 forma : c raio : 2.500000 x : 52.000000 y : 205.000000 corb : black corp : dimgray
+delf 51
+id : 51 forma : c raio : 2.500000 x : 114.000000 y : 10.000000 corb : black corp : dimgray
+delf 422
+id : 422 forma : c raio : 2.500000 x : 1056.000000 y : 22.500000 corb : black corp : dimgray
+delf 2177
+id : 2177 forma : c raio : 2.500000 x : 1392.000000 y : 180.000000 corb : black corp : dimgray
+delf 96
+id : 96 forma : c raio : 2.500000 x : 242.000000 y : 10.000000 corb : black corp : dimgray
+delf 629
+id : 629 forma : c raio : 2.500000 x : 190.000000 y : 62.500000 corb : black corp : dimgray
+delf 973
+id : 973 forma : c raio : 2.500000 x : 988.000000 y : 62.500000 corb : black corp : dimgray
+delf 1448
+id : 1448 forma : c raio : 2.500000 x : 1028.000000 y : 133.750000 corb : black corp : dimgray
+delf 321
+id : 321 forma : c raio : 2.500000 x : 768.000000 y : 53.750000 corb : black corp : dimgray
+delf 477
+id : 477 forma : c raio : 2.500000 x : 1178.000000 y : 10.000000 corb : black corp : dimgray
+delf 779
+id : 779 forma : c raio : 2.500000 x : 572.000000 y : 62.500000 corb : black corp : dimgray
+delf 965
+id : 965 forma : c raio : 2.500000 x : 936.000000 y : 106.250000 corb : black corp : dimgray
+delf 1293
+delf 1719
+id : 1719 forma : c raio : 2.500000 x : 242.000000 y : 192.500000 corb : black corp : dimgray
+delf 1287
+id : 1287 forma : c raio : 2.500000 x : 548.000000 y : 133.750000 corb : black corp : dimgray
+delf 652
+id : 652 forma : c raio : 2.500000 x : 230.000000 y : 62.500000 corb : black corp : dimgray
+delf 218
+id : 218 forma : c raio : 2.500000 x : 554.000000 y : 47.500000 corb : black corp : dimgray
+delf 906
+delf 1901
+id : 1901 forma : c raio : 2.500000 x : 728.000000 y : 180.000000 corb : black corp : dimgray
+delf 1210
+delf 337
+id : 337 forma : c raio : 2.500000 x : 808.000000 y : 28.750000 corb : black corp : dimgray
+delf 1696
+id : 1696 forma : c raio : 2.500000 x : 184.000000 y : 205.000000 corb : black corp : dimgray
+delf 49
+id : 49 forma : c raio : 2.500000 x : 62.000000 y : 53.750000 corb : black corp : dimgray
+delf 1144
+id : 1144 forma : c raio : 2.500000 x : 166.000000 y : 158.750000 corb : black corp : dimgray
+delf 1638
+delf 1928
+id : 1928 forma : c raio : 2.500000 x : 744.000000 y : 167.500000 corb : black corp : dimgray
+delf 1056
+id : 1056 forma : c raio : 2.500000 x : 1120.000000 y : 62.500000 corb : black corp : dimgray
+delf 814
+id : 814 forma : c raio : 2.500000 x : 676.000000 y : 81.250000 corb : black corp : dimgray
+delf 1480
+id : 1480 forma : c raio : 2.500000 x : 1050.000000 y : 152.500000 corb : black corp : dimgray
+delf 2047
+id : 2047 forma : c raio : 2.500000 x : 1004.000000 y : 186.250000 corb : black corp : dimgray
+delf 966
+id : 966 forma : c raio : 2.500000 x : 946.000000 y : 62.500000 corb : black corp : dimgray
+delf 1014
+id : 1014 forma : c raio : 2.500000 x : 1016.000000 y : 93.750000 corb : black corp : dimgray
+delf 307
+id : 307 forma : c raio : 2.500000 x : 738.000000 y : 22.500000 corb : black corp : dimgray
+delf 243
+id : 243 forma : c raio : 2.500000 x : 588.000000 y : 53.750000 corb : black corp : dimgray
+delf 262
+id : 262 forma : c raio : 2.500000 x : 634.000000 y : 35.000000 corb : black corp : dimgray
+delf 1253
+id : 1253 forma : c raio : 2.500000 x : 502.000000 y : 115.000000 corb : black corp : dimgray
+delf 271
+id : 271 forma : c raio : 2.500000 x : 658.000000 y : 53.750000 corb : black corp : dimgray
+delf 1645
+id : 1645 forma : c raio : 2.500000 x : 114.000000 y : 180.000000 corb : black corp : dimgray
+delf 583
+id : 583 forma : c raio : 2.500000 x : 62.000000 y : 75.000000 corb : black corp : dimgray
+delf 1768
+id : 1768 forma : c raio : 2.500000 x : 374.000000 y : 192.500000 corb : black corp : dimgray
+delf 977
+delf 1873
+id : 1873 forma : c raio : 2.500000 x : 634.000000 y : 192.500000 corb : black corp : dimgray
+delf 1487
+id : 1487 forma : c raio : 2.500000 x : 1144.000000 y : 115.000000 corb : black corp : dimgray
+delf 1707
+id : 1707 forma : c raio : 2.500000 x : 218.000000 y : 173.750000 corb : black corp : dimgray
+delf 109
+id : 109 forma : c raio : 2.500000 x : 230.000000 y : 35.000000 corb : black corp : dimgray
+delf 1503
+id : 1503 forma : c raio : 2.500000 x : 1138.000000 y : 133.750000 corb : black corp : dimgray
+delf 1934
+id : 1934 forma : c raio : 2.500000 x : 744.000000 y : 173.750000 corb : black corp : dimgray
+delf 766
+id : 766 forma : c raio : 2.500000 x : 484.000000 y : 106.250000 corb : black corp : dimgray
+delf 376
+id : 376 forma : c raio : 2.500000 x : 982.000000 y : 10.000000 corb : black corp : dimgray
+delf 2023
+id : 2023 forma : c raio : 2.500000 x : 946.000000 y : 192.500000 corb : black corp : dimgray
+delf 1542
+id : 1542 forma : c raio : 2.500000 x : 1196.000000 y : 152.500000 corb : black corp : dimgray
+delf 2224
+id : 2224 forma : c raio : 2.500000 x : 1484.000000 y : 167.500000 corb : black corp : dimgray
+delf 856
+id : 856 forma : c raio : 2.500000 x : 686.000000 y : 106.250000 corb : black corp : dimgray
+delf 488
+id : 488 forma : c raio : 2.500000 x : 1190.000000 y : 28.750000 corb : black corp : dimgray
+delf 507
+id : 507 forma : c raio : 2.500000 x : 1206.000000 y : 16.250000 corb : black corp : dimgray
+delf 1704
+id : 1704 forma : c raio : 2.500000 x : 242.000000 y : 167.500000 corb : black corp : dimgray
+delf 1434
+id : 1434 forma : c raio : 2.500000 x : 1010.000000 y : 115.000000 corb : black corp : dimgray
+delf 2078
+id : 2078 forma : c raio : 2.500000 x : 1144.000000 y : 198.750000 corb : black corp : dimgray
+delf 1383
+id : 1383 forma : c raio : 2.500000 x : 884.000000 y : 115.000000 corb : black corp : dimgray
+delf 636
+id : 636 forma : c raio : 2.500000 x : 172.000000 y : 81.250000 corb : black corp : dimgray
+delf 1128
+id : 1128 forma : c raio : 2.500000 x : 202.000000 y : 115.000000 corb : black corp : dimgray
+delf 2136
+id : 2136 forma : c raio : 2.500000 x : 1316.000000 y : 167.500000 corb : black corp : dimgray
+delf 1064
+id : 1064 forma : c raio : 2.500000 x : 1102.000000 y : 81.250000 corb : black corp : dimgray
+delf 1739
+id : 1739 forma : c raio : 2.500000 x : 282.000000 y : 186.250000 corb : black corp : dimgray
+delf 1545
+id : 1545 forma : c raio : 2.500000 x : 1166.000000 y : 158.750000 corb : black corp : dimgray
+delf 1436
+id : 1436 forma : c raio : 2.500000 x : 1022.000000 y : 115.000000 corb : black corp : dimgray
+delf 392
+id : 392 forma : c raio : 2.500000 x : 988.000000 y : 41.250000 corb : black corp : dimgray
+delf 432
+id : 432 forma : c raio : 2.500000 x : 1086.000000 y : 47.500000 corb : black corp : dimgray
+delf 5
+id : 5 forma : c raio : 2.500000 x : 46.000000 y : 10.000000 corb : black corp : dimgray
+delf 125
+id : 125 forma : c raio : 2.500000 x : 346.000000 y : 10.000000 corb : black corp : dimgray
+delf 212
+id : 212 forma : c raio : 2.500000 x : 548.000000 y : 35.000000 corb : black corp : dimgray
+delf 109
+delf 2248
+id : 2248 forma : c raio : 2.500000 x : 1484.000000 y : 211.250000 corb : black corp : dimgray
+delf 1899
+id : 1899 forma : c raio : 2.500000 x : 704.000000 y : 180.000000 corb : black corp : dimgray
+delf 777
+id : 777 forma : c raio : 2.500000 x : 560.000000 y : 62.500000 corb : black corp : dimgray
+delf 780
+id : 780 forma : c raio : 2.500000 x : 530.000000 y : 68.750000 corb : black corp : dimgray
+delf 371
+id : 371 forma : c raio : 2.500000 x : 952.000000 y : 10.000000 corb : black corp : dimgray
+delf 272
+id : 272 forma : c raio : 2.500000 x : 664.000000 y : 53.750000 corb : black corp : dimgray
+delf 82
+id : 82 forma : c raio : 2.500000 x : 172.000000 y : 28.750000 corb : black corp : dimgray
+delf 1273
+id : 1273 forma : c raio : 2.500000 x : 530.000000 y : 115.000000 corb : black corp : dimgray
+delf 1716
+id : 1716 forma : c raio : 2.500000 x : 248.000000 y : 186.250000 corb : black corp : dimgray
+delf 1376
+id : 1376 forma : c raio : 2.500000 x : 832.000000 y : 158.750000 corb : black corp : dimgray
+delf 99
+id : 99 forma : c raio : 2.500000 x : 260.000000 y : 10.000000 corb : black corp : dimgray
+delf 181
+id : 181 forma : c raio : 2.500000 x : 478.000000 y : 28.750000 corb : black corp : dimgray
+delf 1219
+id : 1219 forma : c raio : 2.500000 x : 392.000000 y : 158.750000 corb : black corp : dimgray
+delf 373
+id : 373 forma : c raio : 2.500000 x : 964.000000 y : 10.000000 corb : black corp : dimgray
+delf 1840
+id : 1840 forma : c raio : 2.500000 x : 612.000000 y : 167.500000 corb : black corp : dimgray
+delf 1461
+id : 1461 forma : c raio : 2.500000 x : 1074.000000 y : 115.000000 corb : black corp : dimgray
+delf 1783
+id : 1783 forma : c raio : 2.500000 x : 450.000000 y : 167.500000 corb : black corp : dimgray
+delf 974
+id : 974 forma : c raio : 2.500000 x : 946.000000 y : 68.750000 corb : black corp : dimgray
+delf 449
+id : 449 forma : c raio : 2.500000 x : 1144.000000 y : 10.000000 corb : black corp : dimgray
+delf 500
+id : 500 forma : c raio : 2.500000 x : 1212.000000 y : 10.000000 corb : black corp : dimgray
+delf 467
+id : 467 forma : c raio : 2.500000 x : 1108.000000 y : 53.750000 corb : black corp : dimgray
+delf 2034
+id : 2034 forma : c raio : 2.500000 x : 970.000000 y : 211.250000 corb : black corp : dimgray
+delf 1299
+id : 1299 forma : c raio : 2.500000 x : 554.000000 y : 158.750000 corb : black corp : dimgray
+delf 2013
+id : 2013 forma : c raio : 2.500000 x : 976.000000 y : 167.500000 corb : black corp : dimgray
+delf 2206
+id : 2206 forma : c raio : 2.500000 x : 1414.000000 y : 192.500000 corb : black corp : dimgray
+delf 1206
+id : 1206 forma : c raio : 2.500000 x : 416.000000 y : 121.250000 corb : black corp : dimgray
+delf 1526
+id : 1526 forma : c raio : 2.500000 x : 1166.000000 y : 115.000000 corb : black corp : dimgray
+delf 345
+id : 345 forma : c raio : 2.500000 x : 790.000000 y : 47.500000 corb : black corp : dimgray
+delf 2131
+id : 2131 forma : c raio : 2.500000 x : 1258.000000 y : 205.000000 corb : black corp : dimgray
+delf 302
+id : 302 forma : c raio : 2.500000 x : 762.000000 y : 10.000000 corb : black corp : dimgray
+delf 1337
+id : 1337 forma : c raio : 2.500000 x : 686.000000 y : 146.250000 corb : black corp : dimgray
+delf 2239
+id : 2239 forma : c raio : 2.500000 x : 1484.000000 y : 198.750000 corb : black corp : dimgray
+delf 1004
+id : 1004 forma : c raio : 2.500000 x : 998.000000 y : 68.750000 corb : black corp : dimgray
+delf 1142
+id : 1142 forma : c raio : 2.500000 x : 166.000000 y : 152.500000 corb : black corp : dimgray
+delf 133
+id : 133 forma : c raio : 2.500000 x : 364.000000 y : 28.750000 corb : black corp : dimgray
+delf 1575
+id : 1575 forma : c raio : 2.500000 x : 1224.000000 y : 158.750000 corb : black corp : dimgray
+delf 312
+id : 312 forma : c raio : 2.500000 x : 780.000000 y : 35.000000 corb : black corp : dimgray
+delf 275
+id : 275 forma : c raio : 2.500000 x : 692.000000 y : 10.000000 corb : black corp : dimgray
+delf 2014
+id : 2014 forma : c raio : 2.500000 x : 982.000000 y : 167.500000 corb : black corp : dimgray
+delf 144
+id : 144 forma : c raio : 2.500000 x : 352.000000 y : 53.750000 corb : black corp : dimgray
+delf 472
+id : 472 forma : c raio : 2.500000 x : 1138.000000 y : 53.750000 corb : black corp : dimgray
+delf 904
+id : 904 forma : c raio : 2.500000 x : 802.000000 y : 106.250000 corb : black corp : dimgray
+delf 836
+id : 836 forma : c raio : 2.500000 x : 710.000000 y : 62.500000 corb : black corp : dimgray
+delf 2268
+id : 2268 forma : c raio : 2.500000 x : 1542.000000 y : 186.250000 corb : black corp : dimgray
+delf 2104
+id : 2104 forma : c raio : 2.500000 x : 1236.000000 y : 192.500000 corb : black corp : dimgray
+delf 250
+id : 250 forma : c raio : 2.500000 x : 640.000000 y : 10.000000 corb : black corp : dimgray
+delf 166
+id : 166 forma : c raio : 2.500000 x : 444.000000 y : 47.500000 corb : black corp : dimgray
+delf 53
+id : 53 forma : c raio : 2.500000 x : 114.000000 y : 16.250000 corb : black corp : dimgray
+delf 2274
+id : 2274 forma : c raio : 2.500000 x : 1548.000000 y : 198.750000 corb : black corp : dimgray
+delf 1285
+id : 1285 forma : c raio : 2.500000 x : 536.000000 y : 133.750000 corb : black corp : dimgray
+delf 405
+id : 405 forma : c raio : 2.500000 x : 998.000000 y : 35.000000 corb : black corp : dimgray
+delf 528
+id : 528 forma : c raio : 2.500000 x : 1294.000000 y : 10.000000 corb : black corp : dimgray
+delf 1535
+id : 1535 forma : c raio : 2.500000 x : 1160.000000 y : 133.750000 corb : black corp : dimgray
+delf 1384
+id : 1384 forma : c raio : 2.500000 x : 842.000000 y : 121.250000 corb : black corp : dimgray
+delf 1256
+id : 1256 forma : c raio : 2.500000 x : 520.000000 y : 115.000000 corb : black corp : dimgray
+delf 658
+id : 658 forma : c raio : 2.500000 x : 260.000000 y : 68.750000 corb : black corp : dimgray
+delf 20
+id : 20 forma : c raio : 2.500000 x : 22.000000 y : 53.750000 corb : black corp : dimgray
+delf 1205
+id : 1205 forma : c raio : 2.500000 x : 374.000000 y : 121.250000 corb : black corp : dimgray
+delf 1478
+id : 1478 forma : c raio : 2.500000 x : 1050.000000 y : 146.250000 corb : black corp : dimgray
+delf 2245
+id : 2245 forma : c raio : 2.500000 x : 1466.000000 y : 211.250000 corb : black corp : dimgray
+delf 1270
+id : 1270 forma : c raio : 2.500000 x : 502.000000 y : 152.500000 corb : black corp : dimgray
+delf 1888
+id : 1888 forma : c raio : 2.500000 x : 692.000000 y : 167.500000 corb : black corp : dimgray
+delf 1336
+id : 1336 forma : c raio : 2.500000 x : 728.000000 y : 140.000000 corb : black corp : dimgray
+delf 1666
+delf 776
+id : 776 forma : c raio : 2.500000 x : 554.000000 y : 62.500000 corb : black corp : dimgray
+delf 1633
+delf 1430
+id : 1430 forma : c raio : 2.500000 x : 982.000000 y : 158.750000 corb : black corp : dimgray
+delf 755
+id : 755 forma : c raio : 2.500000 x : 484.000000 y : 87.500000 corb : black corp : dimgray
+delf 2037
+id : 2037 forma : c raio : 2.500000 x : 988.000000 y : 211.250000 corb : black corp : dimgray
+delf 2252
+id : 2252 forma : c raio : 2.500000 x : 1508.000000 y : 211.250000 corb : black corp : dimgray
+delf 659
+id : 659 forma : c raio : 2.500000 x : 218.000000 y : 75.000000 corb : black corp : dimgray
+delf 2125
+id : 2125 forma : c raio : 2.500000 x : 1288.000000 y : 186.250000 corb : black corp : dimgray
+delf 884
+id : 884 forma : c raio : 2.500000 x : 796.000000 y : 62.500000 corb : black corp : dimgray
+delf 1580
+id : 1580 forma : c raio : 2.500000 x : 10.000000 y : 167.500000 corb : black corp : dimgray
+delf 1528
+id : 1528 forma : c raio : 2.500000 x : 1178.000000 y : 115.000000 corb : black corp : dimgray
+delf 1003
+id : 1003 forma : c raio : 2.500000 x : 1040.000000 y : 62.500000 corb : black corp : dimgray
+delf 612
+id : 612 forma : c raio : 2.500000 x : 120.000000 y : 87.500000 corb : black corp : dimgray
+delf 716
+id : 716 forma : c raio : 2.500000 x : 386.000000 y : 106.250000 corb : black corp : dimgray
+delf 1852
+id : 1852 forma : c raio : 2.500000 x : 618.000000 y : 186.250000 corb : black corp : dimgray
+delf 1346
+id : 1346 forma : c raio : 2.500000 x : 722.000000 y : 158.750000 corb : black corp : dimgray
+delf 2064
+id : 2064 forma : c raio : 2.500000 x : 1114.000000 y : 167.500000 corb : black corp : dimgray
+delf 227
+delf 1825
+id : 1825 forma : c raio : 2.500000 x : 530.000000 y : 205.000000 corb : black corp : dimgray
+delf 535
+id : 535 forma : c raio : 2.500000 x : 1258.000000 y : 35.000000 corb : black corp : dimgray
+delf 139
+id : 139 forma : c raio : 2.500000 x : 364.000000 y : 47.500000 corb : black corp : dimgray
+delf 1997
+id : 1997 forma : c raio : 2.500000 x : 878.000000 y : 186.250000 corb : black corp : dimgray
+delf 2134
+id : 2134 forma : c raio : 2.500000 x : 1300.000000 y : 211.250000 corb : black corp : dimgray
+delf 1251
+id : 1251 forma : c raio : 2.500000 x : 490.000000 y : 115.000000 corb : black corp : dimgray
+delf 1658
+id : 1658 forma : c raio : 2.500000 x : 120.000000 y : 192.500000 corb : black corp : dimgray
+delf 1716
+delf 1669
+id : 1669 forma : c raio : 2.500000 x : 144.000000 y : 205.000000 corb : black corp : dimgray
+delf 1584
+id : 1584 forma : c raio : 2.500000 x : 34.000000 y : 167.500000 corb : black corp : dimgray
+delf 985
+id : 985 forma : c raio : 2.500000 x : 946.000000 y : 93.750000 corb : black corp : dimgray
+delf 405
+delf 1928
+delf 2005
+id : 2005 forma : c raio : 2.500000 x : 866.000000 y : 211.250000 corb : black corp : dimgray
+delf 1576
+id : 1576 forma : c raio : 2.500000 x : 1230.000000 y : 158.750000 corb : black corp : dimgray
+delf 1093
+id : 1093 forma : c raio : 2.500000 x : 34.000000 y : 133.750000 corb : black corp : dimgray
+delf 1947
+id : 1947 forma : c raio : 2.500000 x : 744.000000 y : 211.250000 corb : black corp : dimgray
+delf 1883
+id : 1883 forma : c raio : 2.500000 x : 634.000000 y : 205.000000 corb : black corp : dimgray
+delf 410
+id : 410 forma : c raio : 2.500000 x : 1040.000000 y : 47.500000 corb : black corp : dimgray
+delf 1065
+id : 1065 forma : c raio : 2.500000 x : 1144.000000 y : 81.250000 corb : black corp : dimgray
+delf 169
+id : 169 forma : c raio : 2.500000 x : 450.000000 y : 53.750000 corb : black corp : dimgray
+delf 859
+id : 859 forma : c raio : 2.500000 x : 750.000000 y : 62.500000 corb : black corp : dimgray
+delf 581
+delf 104
+id : 104 forma : c raio : 2.500000 x : 224.000000 y : 28.750000 corb : black corp : dimgray
+delf 514
+id : 514 forma : c raio : 2.500000 x : 1230.000000 y : 28.750000 corb : black corp : dimgray
+delf 764
+id : 764 forma : c raio : 2.500000 x : 520.000000 y : 100.000000 corb : black corp : dimgray
+delf 113
+id : 113 forma : c raio : 2.500000 x : 260.000000 y : 47.500000 corb : black corp : dimgray
+delf 268
+id : 268 forma : c raio : 2.500000 x : 640.000000 y : 53.750000 corb : black corp : dimgray
+delf 1767
+id : 1767 forma : c raio : 2.500000 x : 416.000000 y : 186.250000 corb : black corp : dimgray
+delf 1517
+id : 1517 forma : c raio : 2.500000 x : 1132.000000 y : 152.500000 corb : black corp : dimgray
+delf 1562
+id : 1562 forma : c raio : 2.500000 x : 1212.000000 y : 133.750000 corb : black corp : dimgray
+delf 1843
+id : 1843 forma : c raio : 2.500000 x : 624.000000 y : 173.750000 corb : black corp : dimgray
+delf 1771
+id : 1771 forma : c raio : 2.500000 x : 416.000000 y : 198.750000 corb : black corp : dimgray
+delf 1682
+id : 1682 forma : c raio : 2.500000 x : 202.000000 y : 167.500000 corb : black corp : dimgray
+delf 259
+id : 259 forma : c raio : 2.500000 x : 676.000000 y : 22.500000 corb : black corp : dimgray
+delf 1449
+id : 1449 forma : c raio : 2.500000 x : 1034.000000 y : 133.750000 corb : black corp : dimgray
+delf 528
+delf 1442
+id : 1442 forma : c raio : 2.500000 x : 1040.000000 y : 127.500000 corb : black corp : dimgray
+delf 1203
+id : 1203 forma : c raio : 2.500000 x : 404.000000 y : 115.000000 corb : black corp : dimgray
+delf 1548
+id : 1548 forma : c raio : 2.500000 x : 1184.000000 y : 158.750000 corb : black corp : dimgray
+delf 291
+id : 291 forma : c raio : 2.500000 x : 686.000000 y : 53.750000 corb : black corp : dimgray
+delf 1478
+delf 1055
+id : 1055 forma : c raio : 2.500000 x : 1114.000000 y : 62.500000 corb : black corp : dimgray
+delf 1246
+id : 1246 forma : c raio : 2.500000 x : 462.000000 y : 152.500000 corb : black corp : dimgray
+delf 175
+id : 175 forma : c raio : 2.500000 x : 508.000000 y : 10.000000 corb : black corp : dimgray
+delf 1164
+delf 99
+delf 1185
+id : 1185 forma : c raio : 2.500000 x : 322.000000 y : 121.250000 corb : black corp : dimgray
+delf 635
+id : 635 forma : c raio : 2.500000 x : 208.000000 y : 75.000000 corb : black corp : dimgray
+delf 488
+delf 1505
+id : 1505 forma : c raio : 2.500000 x : 1102.000000 y : 140.000000 corb : black corp : dimgray
+delf 85
+id : 85 forma : c raio : 2.500000 x : 196.000000 y : 35.000000 corb : black corp : dimgray
+delf 91
+id : 91 forma : c raio : 2.500000 x : 190.000000 y : 53.750000 corb : black corp : dimgray
+delf 1823
+id : 1823 forma : c raio : 2.500000 x : 530.000000 y : 198.750000 corb : black corp : dimgray
+delf 1044
+id : 1044 forma : c raio : 2.500000 x : 1080.000000 y : 81.250000 corb : black corp : dimgray
+delf 1792
+id : 1792 forma : c raio : 2.500000 x : 450.000000 y : 186.250000 corb : black corp : dimgray
+delf 1961
+id : 1961 forma : c raio : 2.500000 x : 790.000000 y : 173.750000 corb : black corp : dimgray
+delf 1439
+id : 1439 forma : c raio : 2.500000 x : 998.000000 y : 121.250000 corb : black corp : dimgray
+delf 2066
+id : 2066 forma : c raio : 2.500000 x : 1126.000000 y : 167.500000 corb : black corp : dimgray
+delf 1801
+id : 1801 forma : c raio : 2.500000 x : 444.000000 y : 211.250000 corb : black corp : dimgray
+delf 2225
+id : 2225 forma : c raio : 2.500000 x : 1490.000000 y : 167.500000 corb : black corp : dimgray
+delf 1853
+id : 1853 forma : c raio : 2.500000 x : 582.000000 y : 192.500000 corb : black corp : dimgray
+delf 84
+id : 84 forma : c raio : 2.500000 x : 178.000000 y : 35.000000 corb : black corp : dimgray
+delf 2051
+id : 2051 forma : c raio : 2.500000 x : 1028.000000 y : 186.250000 corb : black corp : dimgray
+delf 122
+id : 122 forma : c raio : 2.500000 x : 328.000000 y : 10.000000 corb : black corp : dimgray
+delf 2102
+id : 2102 forma : c raio : 2.500000 x : 1224.000000 y : 192.500000 corb : black corp : dimgray
+delf 1150
+id : 1150 forma : c raio : 2.500000 x : 202.000000 y : 158.750000 corb : black corp : dimgray
+delf 639
+id : 639 forma : c raio : 2.500000 x : 208.000000 y : 87.500000 corb : black corp : dimgray
+delf 135
+id : 135 forma : c raio : 2.500000 x : 364.000000 y : 35.000000 corb : black corp : dimgray
+delf 97
+id : 97 forma : c raio : 2.500000 x : 248.000000 y : 10.000000 corb : black corp : dimgray
+delf 1812
+id : 1812 forma : c raio : 2.500000 x : 572.000000 y : 167.500000 corb : black corp : dimgray
+delf 978
+id : 978 forma : c raio : 2.500000 x : 952.000000 y : 81.250000 corb : black corp : dimgray
+delf 970
+id : 970 forma : c raio : 2.500000 x : 970.000000 y : 62.500000 corb : black corp : dimgray
+delf 270
+id : 270 forma : c raio : 2.500000 x : 652.000000 y : 53.750000 corb : black corp : dimgray
+delf 1372
+id : 1372 forma : c raio : 2.500000 x : 808.000000 y : 158.750000 corb : black corp : dimgray
+delf 1434
+delf 2041
+id : 2041 forma : c raio : 2.500000 x : 1022.000000 y : 167.500000 corb : black corp : dimgray
+delf 1517
+delf 483
+id : 483 forma : c raio : 2.500000 x : 1160.000000 y : 28.750000 corb : black corp : dimgray
+delf 920
+id : 920 forma : c raio : 2.500000 x : 884.000000 y : 68.750000 corb : black corp : dimgray
+delf 576
+id : 576 forma : c raio : 2.500000 x : 68.000000 y : 62.500000 corb : black corp : dimgray
+delf 1108
+id : 1108 forma : c raio : 2.500000 x : 62.000000 y : 133.750000 corb : black corp : dimgray
+delf 334
+id : 334 forma : c raio : 2.500000 x : 790.000000 y : 28.750000 corb : black corp : dimgray
+delf 909
+delf 1156
+id : 1156 forma : c raio : 2.500000 x : 248.000000 y : 115.000000 corb : black corp : dimgray
+delf 779
+delf 1438
+id : 1438 forma : c raio : 2.500000 x : 1034.000000 y : 115.000000 corb : black corp : dimgray
+delf 1046
+id : 1046 forma : c raio : 2.500000 x : 1050.000000 y : 87.500000 corb : black corp : dimgray
+delf 283
+id : 283 forma : c raio : 2.500000 x : 692.000000 y : 35.000000 corb : black corp : dimgray
+delf 1153
+id : 1153 forma : c raio : 2.500000 x : 230.000000 y : 115.000000 corb : black corp : dimgray
+delf 1578
+id : 1578 forma : c raio : 2.500000 x : 1242.000000 y : 158.750000 corb : black corp : dimgray
+delf 20
+delf 915
+id : 915 forma : c raio : 2.500000 x : 878.000000 y : 62.500000 corb : black corp : dimgray
+delf 2183
+id : 2183 forma : c raio : 2.500000 x : 1362.000000 y : 192.500000 corb : black corp : dimgray
+delf 1230
+id : 1230 forma : c raio : 2.500000 x : 426.000000 y : 121.250000 corb : black corp : dimgray
+delf 1370
+id : 1370 forma : c raio : 2.500000 x : 796.000000 y : 158.750000 corb : black corp : dimgray
+delf 2237
+delf 1847
+id : 1847 forma : c raio : 2.500000 x : 588.000000 y : 186.250000 corb : black corp : dimgray
+delf 1399
+id : 1399 forma : c raio : 2.500000 x : 866.000000 y : 158.750000 corb : black corp : dimgray
+delf 2092
+id : 2092 forma : c raio : 2.500000 x : 1242.000000 y : 167.500000 corb : black corp : dimgray
+delf 491
+id : 491 forma : c raio : 2.500000 x : 1196.000000 y : 47.500000 corb : black corp : dimgray
+delf 200
+id : 200 forma : c raio : 2.500000 x : 554.000000 y : 10.000000 corb : black corp : dimgray
+delf 2054
+id : 2054 forma : c raio : 2.500000 x : 1040.000000 y : 198.750000 corb : black corp : dimgray
+delf 30
+id : 30 forma : c raio : 2.500000 x : 98.000000 y : 10.000000 corb : black corp : dimgray
+delf 1081
+id : 1081 forma : c raio : 2.500000 x : 28.000000 y : 115.000000 corb : black corp : dimgray
+delf 1194
+id : 1194 forma : c raio : 2.500000 x : 334.000000 y : 140.000000 corb : black corp : dimgray
+delf 52
+id : 52 forma : c raio : 2.500000 x : 120.000000 y : 10.000000 corb : black corp : dimgray
+delf 2256
+id : 2256 forma : c raio : 2.500000 x : 1536.000000 y : 167.500000 corb : black corp : dimgray
+delf 1095
+id : 1095 forma : c raio : 2.500000 x : 34.000000 y : 140.000000 corb : black corp : dimgray
+delf 1704
+delf 1207
+id : 1207 forma : c raio : 2.500000 x : 374.000000 y : 127.500000 corb : black corp : dimgray
+delf 314
+id : 314 forma : c raio : 2.500000 x : 780.000000 y : 41.250000 corb : black corp : dimgray
+delf 503
+id : 503 forma : c raio : 2.500000 x : 1230.000000 y : 10.000000 corb : black corp : dimgray
+delf 1729
+id : 1729 forma : c raio : 2.500000 x : 288.000000 y : 167.500000 corb : black corp : dimgray
+delf 821
+id : 821 forma : c raio : 2.500000 x : 640.000000 y : 93.750000 corb : black corp : dimgray
+delf 1470
+id : 1470 forma : c raio : 2.500000 x : 1050.000000 y : 140.000000 corb : black corp : dimgray
+delf 2005
+delf 278
+id : 278 forma : c raio : 2.500000 x : 686.000000 y : 22.500000 corb : black corp : dimgray
+delf 2179
+id : 2179 forma : c raio : 2.500000 x : 1362.000000 y : 186.250000 corb : black corp : dimgray
+delf 702
+id : 702 forma : c raio : 2.500000 x : 380.000000 y : 75.000000 corb : black corp : dimgray
+delf 288
+id : 288 forma : c raio : 2.500000 x : 692.000000 y : 47.500000 corb : black corp : dimgray
+delf 711
+id : 711 forma : c raio : 2.500000 x : 380.000000 y : 100.000000 corb : black corp : dimgray
+delf 14
+id : 14 forma : c raio : 2.500000 x : 46.000000 y : 28.750000 corb : black corp : dimgray
+delf 668
+id : 668 forma : c raio : 2.500000 x : 260.000000 y : 100.000000 corb : black corp : dimgray
+delf 111
+id : 111 forma : c raio : 2.500000 x : 218.000000 y : 41.250000 corb : black corp : dimgray
+delf 1133
+id : 1133 forma : c raio : 2.500000 x : 166.000000 y : 133.750000 corb : black corp : dimgray
+delf 2282
+id : 2282 forma : c raio : 2.500000 x : 1594.000000 y : 167.500000 corb : black corp : dimgray
+delf 1831
+id : 1831 forma : c raio : 2.500000 x : 554.000000 y : 211.250000 corb : black corp : dimgray
+delf 1784
+id : 1784 forma : c raio : 2.500000 x : 456.000000 y : 167.500000 corb : black corp : dimgray
+delf 985
+delf 2074
+id : 2074 forma : c raio : 2.500000 x : 1144.000000 y : 186.250000 corb : black corp : dimgray
+delf 2025
+id : 2025 forma : c raio : 2.500000 x : 958.000000 y : 192.500000 corb : black corp : dimgray
+delf 258
+id : 258 forma : c raio : 2.500000 x : 634.000000 y : 22.500000 corb : black corp : dimgray
+delf 926
+id : 926 forma : c raio : 2.500000 x : 866.000000 y : 87.500000 corb : black corp : dimgray
+delf 804
+id : 804 forma : c raio : 2.500000 x : 646.000000 y : 62.500000 corb : black corp : dimgray
+delf 1823
+delf 129
+id : 129 forma : c raio : 2.500000 x : 364.000000 y : 16.250000 corb : black corp : dimgray
+delf 2129
+id : 2129 forma : c raio : 2.500000 x : 1258.000000 y : 198.750000 corb : black corp : dimgray
+delf 1542
+delf 2089
+id : 2089 forma : c raio : 2.500000 x : 1224.000000 y : 167.500000 corb : black corp : dimgray
+delf 1230
+delf 529
+id : 529 forma : c raio : 2.500000 x : 1258.000000 y : 16.250000 corb : black corp : dimgray
+delf 2027
+id : 2027 forma : c raio : 2.500000 x : 946.000000 y : 198.750000 corb : black corp : dimgray
+delf 869
+id : 869 forma : c raio : 2.500000 x : 780.000000 y : 81.250000 corb : black corp : dimgray
+delf 849
+id : 849 forma : c raio : 2.500000 x : 722.000000 y : 81.250000 corb : black corp : dimgray
+delf 1534
+id : 1534 forma : c raio : 2.500000 x : 1196.000000 y : 127.500000 corb : black corp : dimgray
+delf 673
+id : 673 forma : c raio : 2.500000 x : 248.000000 y : 106.250000 corb : black corp : dimgray
+delf 1503
+delf 787
+id : 787 forma : c raio : 2.500000 x : 530.000000 y : 87.500000 corb : black corp : dimgray
+delf 938
+id : 938 forma : c raio : 2.500000 x : 872.000000 y : 106.250000 corb : black corp : dimgray
+delf 1088
+id : 1088 forma : c raio : 2.500000 x : 34.000000 y : 121.250000 corb : black corp : dimgray
+delf 1805
+id : 1805 forma : c raio : 2.500000 x : 530.000000 y : 167.500000 corb : black corp : dimgray
+delf 1864
+id : 1864 forma : c raio : 2.500000 x : 658.000000 y : 167.500000 corb : black corp : dimgray
+delf 889
+id : 889 forma : c raio : 2.500000 x : 826.000000 y : 62.500000 corb : black corp : dimgray
+delf 2088
+id : 2088 forma : c raio : 2.500000 x : 1218.000000 y : 167.500000 corb : black corp : dimgray
+delf 2130
+id : 2130 forma : c raio : 2.500000 x : 1288.000000 y : 198.750000 corb : black corp : dimgray
+delf 1283
+id : 1283 forma : c raio : 2.500000 x : 530.000000 y : 127.500000 corb : black corp : dimgray
+delf 2072
+id : 2072 forma : c raio : 2.500000 x : 1144.000000 y : 180.000000 corb : black corp : dimgray
+delf 702
+delf 25
+id : 25 forma : c raio : 2.500000 x : 68.000000 y : 10.000000 corb : black corp : dimgray
+delf 1951
+id : 1951 forma : c raio : 2.500000 x : 768.000000 y : 211.250000 corb : black corp : dimgray
+delf 1332
+id : 1332 forma : c raio : 2.500000 x : 728.000000 y : 127.500000 corb : black corp : dimgray
+delf 718
+id : 718 forma : c raio : 2.500000 x : 398.000000 y : 106.250000 corb : black corp : dimgray
+delf 1994
+id : 1994 forma : c raio : 2.500000 x : 860.000000 y : 186.250000 corb : black corp : dimgray
+delf 1689
+id : 1689 forma : c raio : 2.500000 x : 190.000000 y : 180.000000 corb : black corp : dimgray
+delf 1351
+id : 1351 forma : c raio : 2.500000 x : 814.000000 y : 115.000000 corb : black corp : dimgray
+delf 172
+id : 172 forma : c raio : 2.500000 x : 490.000000 y : 10.000000 corb : black corp : dimgray
+delf 647
+id : 647 forma : c raio : 2.500000 x : 184.000000 y : 106.250000 corb : black corp : dimgray
+delf 120
+id : 120 forma : c raio : 2.500000 x : 254.000000 y : 53.750000 corb : black corp : dimgray
+delf 1791
+id : 1791 forma : c raio : 2.500000 x : 444.000000 y : 186.250000 corb : black corp : dimgray
+delf 2146
+id : 2146 forma : c raio : 2.500000 x : 1352.000000 y : 173.750000 corb : black corp : dimgray
+delf 2013
+delf 694
+id : 694 forma : c raio : 2.500000 x : 352.000000 y : 106.250000 corb : black corp : dimgray
+delf 392
+delf 498
+id : 498 forma : c raio : 2.500000 x : 1190.000000 y : 53.750000 corb : black corp : dimgray
+delf 2140
+id : 2140 forma : c raio : 2.500000 x : 1340.000000 y : 167.500000 corb : black corp : dimgray
+delf 2281
+id : 2281 forma : c raio : 2.500000 x : 1588.000000 y : 167.500000 corb : black corp : dimgray
+delf 1659
+id : 1659 forma : c raio : 2.500000 x : 138.000000 y : 192.500000 corb : black corp : dimgray
+delf 2230
+id : 2230 forma : c raio : 2.500000 x : 1484.000000 y : 173.750000 corb : black corp : dimgray
+delf 620
+id : 620 forma : c raio : 2.500000 x : 156.000000 y : 93.750000 corb : black corp : dimgray
+delf 420
+id : 420 forma : c raio : 2.500000 x : 1056.000000 y : 16.250000 corb : black corp : dimgray
+delf 1639
+id : 1639 forma : c raio : 2.500000 x : 156.000000 y : 167.500000 corb : black corp : dimgray
+delf 950
+id : 950 forma : c raio : 2.500000 x : 900.000000 y : 87.500000 corb : black corp : dimgray
+delf 62
+id : 62 forma : c raio : 2.500000 x : 120.000000 y : 41.250000 corb : black corp : dimgray
+delf 2228
+id : 2228 forma : c raio : 2.500000 x : 1508.000000 y : 167.500000 corb : black corp : dimgray
+delf 1919
+id : 1919 forma : c raio : 2.500000 x : 692.000000 y : 205.000000 corb : black corp : dimgray
+delf 2124
+id : 2124 forma : c raio : 2.500000 x : 1282.000000 y : 186.250000 corb : black corp : dimgray
+delf 654
+id : 654 forma : c raio : 2.500000 x : 242.000000 y : 62.500000 corb : black corp : dimgray
+delf 1235
+id : 1235 forma : c raio : 2.500000 x : 432.000000 y : 133.750000 corb : black corp : dimgray
+delf 571
+id : 571 forma : c raio : 2.500000 x : 10.000000 y : 100.000000 corb : black corp : dimgray
+delf 1511
+id : 1511 forma : c raio : 2.500000 x : 1108.000000 y : 146.250000 corb : black corp : dimgray
+delf 582
+id : 582 forma : c raio : 2.500000 x : 104.000000 y : 68.750000 corb : black corp : dimgray
+delf 10
+id : 10 forma : c raio : 2.500000 x : 22.000000 y : 28.750000 corb : black corp : dimgray
+delf 1378
+id : 1378 forma : c raio : 2.500000 x : 854.000000 y : 115.000000 corb : black corp : dimgray
+delf 258
+delf 990
+id : 990 forma : c raio : 2.500000 x : 958.000000 y : 106.250000 corb : black corp : dimgray
+delf 210
+id : 210 forma : c raio : 2.500000 x : 548.000000 y : 28.750000 corb : black corp : dimgray
+delf 25
+delf 55
+id : 55 forma : c raio : 2.500000 x : 114.000000 y : 22.500000 corb : black corp : dimgray
+delf 1455
+delf 1529
+id : 1529 forma : c raio : 2.500000 x : 1184.000000 y : 115.000000 corb : black corp : dimgray
+delf 88
+id : 88 forma : c raio : 2.500000 x : 184.000000 y : 47.500000 corb : black corp : dimgray
+delf 784
+id : 784 forma : c raio : 2.500000 x : 536.000000 y : 81.250000 corb : black corp : dimgray
+delf 1798
+id : 1798 forma : c raio : 2.500000 x : 426.000000 y : 211.250000 corb : black corp : dimgray
+delf 2143
+id : 2143 forma : c raio : 2.500000 x : 1310.000000 y : 173.750000 corb : black corp : dimgray
+delf 1737
+id : 1737 forma : c raio : 2.500000 x : 270.000000 y : 186.250000 corb : black corp : dimgray
+delf 2067
+id : 2067 forma : c raio : 2.500000 x : 1132.000000 y : 167.500000 corb : black corp : dimgray
+delf 1140
+delf 2200
+id : 2200 forma : c raio : 2.500000 x : 1456.000000 y : 173.750000 corb : black corp : dimgray
+delf 533
+id : 533 forma : c raio : 2.500000 x : 1258.000000 y : 28.750000 corb : black corp : dimgray
+delf 168
+id : 168 forma : c raio : 2.500000 x : 444.000000 y : 53.750000 corb : black corp : dimgray
+delf 733
+id : 733 forma : c raio : 2.500000 x : 468.000000 y : 93.750000 corb : black corp : dimgray
+delf 1358
+id : 1358 forma : c raio : 2.500000 x : 790.000000 y : 133.750000 corb : black corp : dimgray
+delf 137
+id : 137 forma : c raio : 2.500000 x : 364.000000 y : 41.250000 corb : black corp : dimgray
+delf 368
+delf 683
+id : 683 forma : c raio : 2.500000 x : 322.000000 y : 68.750000 corb : black corp : dimgray
+delf 2260
+id : 2260 forma : c raio : 2.500000 x : 1518.000000 y : 173.750000 corb : black corp : dimgray
+delf 1446
+id : 1446 forma : c raio : 2.500000 x : 1016.000000 y : 133.750000 corb : black corp : dimgray
+delf 1315
+id : 1315 forma : c raio : 2.500000 x : 652.000000 y : 127.500000 corb : black corp : dimgray
+delf 1743
+id : 1743 forma : c raio : 2.500000 x : 282.000000 y : 192.500000 corb : black corp : dimgray
+delf 1266
+id : 1266 forma : c raio : 2.500000 x : 502.000000 y : 140.000000 corb : black corp : dimgray
+delf 908
+id : 908 forma : c raio : 2.500000 x : 826.000000 y : 106.250000 corb : black corp : dimgray
+delf 1314
+id : 1314 forma : c raio : 2.500000 x : 676.000000 y : 121.250000 corb : black corp : dimgray
+delf 1549
+id : 1549 forma : c raio : 2.500000 x : 1190.000000 y : 158.750000 corb : black corp : dimgray
+delf 825
+id : 825 forma : c raio : 2.500000 x : 634.000000 y : 106.250000 corb : black corp : dimgray
+delf 1035
+id : 1035 forma : c raio : 2.500000 x : 1050.000000 y : 68.750000 corb : black corp : dimgray
+delf 1157
+delf 506
+id : 506 forma : c raio : 2.500000 x : 1248.000000 y : 10.000000 corb : black corp : dimgray
+delf 2197
+id : 2197 forma : c raio : 2.500000 x : 1450.000000 y : 167.500000 corb : black corp : dimgray
+delf 1195
+id : 1195 forma : c raio : 2.500000 x : 340.000000 y : 140.000000 corb : black corp : dimgray
+delf 1403
+id : 1403 forma : c raio : 2.500000 x : 952.000000 y : 115.000000 corb : black corp : dimgray
+delf 162
+id : 162 forma : c raio : 2.500000 x : 444.000000 y : 35.000000 corb : black corp : dimgray
+delf 2178
+id : 2178 forma : c raio : 2.500000 x : 1404.000000 y : 180.000000 corb : black corp : dimgray
+delf 2201
+delf 1666
+delf 1676
+id : 1676 forma : c raio : 2.500000 x : 166.000000 y : 167.500000 corb : black corp : dimgray
+delf 705
+id : 705 forma : c raio : 2.500000 x : 374.000000 y : 87.500000 corb : black corp : dimgray
+delf 264
+id : 264 forma : c raio : 2.500000 x : 634.000000 y : 41.250000 corb : black corp : dimgray
+delf 99
+delf 823
+id : 823 forma : c raio : 2.500000 x : 640.000000 y : 100.000000 corb : black corp : dimgray
+delf 660
+id : 660 forma : c raio : 2.500000 x : 260.000000 y : 75.000000 corb : black corp : dimgray
+delf 1785
+id : 1785 forma : c raio : 2.500000 x : 462.000000 y : 167.500000 corb : black corp : dimgray
+delf 457
+id : 457 forma : c raio : 2.500000 x : 1126.000000 y : 28.750000 corb : black corp : dimgray
+delf 1073
+id : 1073 forma : c raio : 2.500000 x : 1114.000000 y : 106.250000 corb : black corp : dimgray
+delf 993
+id : 993 forma : c raio : 2.500000 x : 976.000000 y : 106.250000 corb : black corp : dimgray
+delf 878
+id : 878 forma : c raio : 2.500000 x : 738.000000 y : 93.750000 corb : black corp : dimgray
+delf 1977
+id : 1977 forma : c raio : 2.500000 x : 802.000000 y : 211.250000 corb : black corp : dimgray
+delf 643
+id : 643 forma : c raio : 2.500000 x : 208.000000 y : 100.000000 corb : black corp : dimgray
+delf 120
+delf 2191
+id : 2191 forma : c raio : 2.500000 x : 1414.000000 y : 167.500000 corb : black corp : dimgray
+delf 350
+id : 350 forma : c raio : 2.500000 x : 906.000000 y : 10.000000 corb : black corp : dimgray
+delf 2120
+id : 2120 forma : c raio : 2.500000 x : 1258.000000 y : 186.250000 corb : black corp : dimgray
+delf 1577
+id : 1577 forma : c raio : 2.500000 x : 1236.000000 y : 158.750000 corb : black corp : dimgray
+delf 1317
+id : 1317 forma : c raio : 2.500000 x : 652.000000 y : 133.750000 corb : black corp : dimgray
+delf 2115
+id : 2115 forma : c raio : 2.500000 x : 1294.000000 y : 167.500000 corb : black corp : dimgray
+delf 733
+delf 243
+delf 1561
+id : 1561 forma : c raio : 2.500000 x : 1206.000000 y : 133.750000 corb : black corp : dimgray
+delf 119
+id : 119 forma : c raio : 2.500000 x : 248.000000 y : 53.750000 corb : black corp : dimgray
+delf 1350
+id : 1350 forma : c raio : 2.500000 x : 808.000000 y : 115.000000 corb : black corp : dimgray
+delf 823
+delf 1311
+id : 1311 forma : c raio : 2.500000 x : 634.000000 y : 121.250000 corb : black corp : dimgray
+delf 671
+id : 671 forma : c raio : 2.500000 x : 236.000000 y : 106.250000 corb : black corp : dimgray
+delf 662
+id : 662 forma : c raio : 2.500000 x : 260.000000 y : 81.250000 corb : black corp : dimgray
+delf 1057
+id : 1057 forma : c raio : 2.500000 x : 1126.000000 y : 62.500000 corb : black corp : dimgray
+delf 15
+id : 15 forma : c raio : 2.500000 x : 52.000000 y : 35.000000 corb : black corp : dimgray
+delf 558
+id : 558 forma : c raio : 2.500000 x : 52.000000 y : 75.000000 corb : black corp : dimgray
+delf 2163
+delf 950
+delf 967
+id : 967 forma : c raio : 2.500000 x : 952.000000 y : 62.500000 corb : black corp : dimgray
+delf 1397
+id : 1397 forma : c raio : 2.500000 x : 854.000000 y : 158.750000 corb : black corp : dimgray
+delf 34
+id : 34 forma : c raio : 2.500000 x : 104.000000 y : 22.500000 corb : black corp : dimgray
+delf 76
+id : 76 forma : c raio : 2.500000 x : 166.000000 y : 10.000000 corb : black corp : dimgray
+delf 545
+id : 545 forma : c raio : 2.500000 x : 1258.000000 y : 47.500000 corb : black corp : dimgray
+delf 505
+id : 505 forma : c raio : 2.500000 x : 1242.000000 y : 10.000000 corb : black corp : dimgray
+delf 163
+id : 163 forma : c raio : 2.500000 x : 450.000000 y : 35.000000 corb : black corp : dimgray
+delf 1130
+id : 1130 forma : c raio : 2.500000 x : 166.000000 y : 121.250000 corb : black corp : dimgray
+delf 1454
+id : 1454 forma : c raio : 2.500000 x : 998.000000 y : 152.500000 corb : black corp : dimgray
+delf 1099
+id : 1099 forma : c raio : 2.500000 x : 34.000000 y : 152.500000 corb : black corp : dimgray
+delf 1122
+id : 1122 forma : c raio : 2.500000 x : 166.000000 y : 115.000000 corb : black corp : dimgray
+delf 1661
+id : 1661 forma : c raio : 2.500000 x : 156.000000 y : 192.500000 corb : black corp : dimgray
+delf 1551
+id : 1551 forma : c raio : 2.500000 x : 1212.000000 y : 115.000000 corb : black corp : dimgray
+delf 193
+id : 193 forma : c raio : 2.500000 x : 514.000000 y : 47.500000 corb : black corp : dimgray
+delf 1619
+id : 1619 forma : c raio : 2.500000 x : 74.000000 y : 186.250000 corb : black corp : dimgray
+delf 1388
+id : 1388 forma : c raio : 2.500000 x : 860.000000 y : 133.750000 corb : black corp : dimgray
+delf 161
+id : 161 forma : c raio : 2.500000 x : 450.000000 y : 28.750000 corb : black corp : dimgray
+delf 1924
+id : 1924 forma : c raio : 2.500000 x : 692.000000 y : 211.250000 corb : black corp : dimgray
+delf 1493
+id : 1493 forma : c raio : 2.500000 x : 1102.000000 y : 127.500000 corb : black corp : dimgray
+delf 1941
+id : 1941 forma : c raio : 2.500000 x : 780.000000 y : 192.500000 corb : black corp : dimgray
+delf 666
+id : 666 forma : c raio : 2.500000 x : 260.000000 y : 93.750000 corb : black corp : dimgray
+delf 1200
+id : 1200 forma : c raio : 2.500000 x : 386.000000 y : 115.000000 corb : black corp : dimgray
+delf 666
+delf 2294
+id : 2294 forma : c raio : 2.500000 x : 1612.000000 y : 198.750000 corb : black corp : dimgray
+delf 134
+id : 134 forma : c raio : 2.500000 x : 322.000000 y : 35.000000 corb : black corp : dimgray
+delf 189
+id : 189 forma : c raio : 2.500000 x : 502.000000 y : 35.000000 corb : black corp : dimgray

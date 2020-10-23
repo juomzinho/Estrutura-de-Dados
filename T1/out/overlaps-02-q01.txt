@@ -1,0 +1,66 @@
+o? 0 1
+o? 2 3
+2: retângulo 3: círculo NÃO
+o? 4 5
+4: retângulo 5: retângulo SIM
+o? 6 7
+6: círculo 7: círculo SIMo? 8 9
+8: retângulo 9: círculo NÃO
+o? 10 11
+10: retângulo 11: retângulo SIM
+o? 12 13
+12: círculo 13: círculo SIMo? 14 15
+14: retângulo 15: círculo NÃO
+o? 16 17
+16: retângulo 17: retângulo SIM
+o? 18 19
+18: círculo 19: círculo SIMo? 19 20
+19: círculo 20: círculo NÃOo? 21 22
+21: retângulo 22: círculo NÃO
+o? 23 24
+23: retângulo 24: retângulo NÃO
+o? 25 26
+25: círculo 26: círculo SIMo? 27 28
+27: retângulo 28: círculo NÃO
+o? 29 30
+29: retângulo 30: retângulo NÃO
+o? 31 32
+31: círculo 32: círculo SIMo? 33 34
+33: retângulo 34: círculo NÃO
+o? 35 36
+35: retângulo 36: retângulo NÃO
+o? 37 38
+37: círculo 38: círculo SIMo? 39 40
+39: retângulo 40: círculo NÃO
+o? 41 42
+41: retângulo 42: retângulo NÃO
+o? 43 44
+43: círculo 44: círculo SIMo? 45 46
+45: retângulo 46: círculo NÃO
+o? 47 48
+47: retângulo 48: retângulo NÃO
+o? 49 50
+49: círculo 50: círculo SIMo? 51 52
+51: retângulo 52: círculo NÃO
+o? 53 54
+53: retângulo 54: retângulo NÃO
+o? 55 56
+55: círculo 56: círculo SIMo? 57 58
+57: retângulo 58: círculo NÃO
+o? 59 60
+59: retângulo 60: retângulo NÃO
+o? 61 62
+61: círculo 62: círculo SIMo? 63 64
+63: retângulo 64: círculo NÃO
+o? 65 66
+65: retângulo 66: retângulo NÃO
+o? 67 68
+67: círculo 68: círculo SIMo? 69 70
+69: retângulo 70: círculo NÃO
+o? 71 72
+71: retângulo 72: retângulo NÃO
+o? 73 74
+73: círculo 74: círculo SIMo? 75 76
+75: retângulo 76: círculo NÃO
+o? 77 78
+77: retângulo 78: retângulo NÃO

@@ -1,0 +1,19 @@
+delf* 4 12
+id : 4 forma : t  x : 20.000000 y : 39.000000 corb : blue corp : magenta texto :  Dentre os grandes es o primeiro
+
+id : 5 forma : t  x : 25.000000 y : 47.000000 corb : blue corp : magenta texto :  Tu es forte, tu es grande
+
+id : 6 forma : t  x : 30.000000 y : 55.000000 corb : blue corp : magenta texto :  Dentre os grandes es o primeiro
+
+id : 7 forma : t  x : 35.000000 y : 63.000000 corb : blue corp : magenta texto :  Oh, Tricolor
+
+id : 8 forma : t  x : 40.000000 y : 71.000000 corb : blue corp : magenta texto :  Clube bem amado
+
+id : 9 forma : t  x : 45.000000 y : 79.000000 corb : blue corp : magenta texto :  As tuas gloriasVem do passado
+
+id : 10 forma : t  x : 50.000000 y : 87.000000 corb : blue corp : magenta texto :  Sao teus guias brasileiros
+
+id : 11 forma : t  x : 55.000000 y : 95.000000 corb : blue corp : magenta texto :  Que te amam eternamente
+
+id : 12 forma : t  x : 60.000000 y : 103.000000 corb : blue corp : magenta texto :  De São Paulo tens o nome
+

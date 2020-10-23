@@ -1,0 +1,9 @@
+<svg> 
+
+	<circle cx="901.900024" cy="897.799988" r="30.000000" fill="yellow" stroke="black" />
+	<circle cx="928.900024" cy="897.799988" r="30.000000" fill="blue" stroke="black" />
+	<rect x="65.886047" y="136.146545" width="30.000000" height="22.500000" fill="yellow" stroke="black" />
+	<circle cx="84.300003" cy="116.400002" r="30.000000" fill="blue" stroke="black" />
+	<circle cx="901.900024" cy="897.799988" r="1" fill="magenta" stroke="magenta" />
+	<line x1="498.129700" y1="860.487671" x2="901.900024" y2="897.799988" stroke="magenta" />
+</svg>

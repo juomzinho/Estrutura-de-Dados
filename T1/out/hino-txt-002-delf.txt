@@ -1,0 +1,10 @@
+delf 15
+id : 15 forma : t  x : 285.000000 y : 239.000000 corb : orange corp : lightyellow texto :  Que ostentas dignamente
+
+delf 10
+id : 10 forma : t  x : 185.000000 y : 159.000000 corb : orange corp : lightyellow texto :  Sao teus guias brasileiros
+
+delf 11
+id : 11 forma : t  x : 205.000000 y : 175.000000 corb : orange corp : lightyellow texto :  Que te amam eternamente
+
+delf 16

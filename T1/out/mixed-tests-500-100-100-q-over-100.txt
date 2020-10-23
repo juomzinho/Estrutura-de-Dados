@@ -1,0 +1,185 @@
+o? 36 242
+36: círculo 242: retângulo NÃO
+o? 367 262
+367: círculo 262: retângulo NÃO
+o? 932 969
+932: retângulo 969: círculo NÃO
+o? 63 992
+63: círculo 992: retângulo NÃO
+o? 399 364
+399: círculo 364: retângulo NÃO
+o? 433 142
+433: círculo 142: retângulo NÃO
+o? 280 545
+280: retângulo 545: retângulo NÃO
+o? 812 689
+812: retângulo 689: retângulo NÃO
+o? 194 406
+194: retângulo 406: retângulo NÃO
+o? 884 588
+884: retângulo 588: círculo NÃO
+o? 385 212
+385: círculo 212: retângulo NÃO
+o? 701 115
+701: retângulo 115: círculo NÃO
+o? 103 33
+103: círculo 33: círculo NÃOo? 144 355
+144: círculo 355: círculo NÃOo? 307 207
+307: círculo 207: círculo NÃOo? 10 957
+10: retângulo 957: círculo NÃO
+o? 426 513
+426: círculo 513: círculo NÃOo? 179 690
+179: retângulo 690: círculo NÃO
+o? 281 872
+281: retângulo 872: retângulo NÃO
+o? 301 267
+301: círculo 267: círculo NÃOo? 777 224
+777: círculo 224: retângulo NÃO
+o? 239 984
+239: retângulo 984: círculo NÃO
+o? 209 632
+209: retângulo 632: retângulo NÃO
+o? 504 739
+504: círculo 739: círculo NÃOo? 774 58
+774: círculo 58: retângulo NÃO
+o? 486 657
+486: círculo 657: círculo NÃOo? 122 282
+122: retângulo 282: círculo NÃO
+o? 376 612
+376: retângulo 612: círculo NÃO
+o? 650 43
+650: retângulo 43: círculo NÃO
+o? 574 615
+574: retângulo 615: círculo NÃO
+o? 844 890
+844: retângulo 890: retângulo NÃO
+o? 656 651
+656: retângulo 651: círculo NÃO
+o? 174 66
+174: círculo 66: círculo NÃOo? 635 138
+635: retângulo 138: círculo NÃO
+o? 751 368
+751: círculo 368: retângulo NÃO
+o? 934 34
+934: retângulo 34: retângulo NÃO
+o? 26 20
+26: retângulo 20: retângulo NÃO
+o? 50 489
+50: retângulo 489: círculo NÃO
+o? 569 934
+569: retângulo 934: retângulo NÃO
+o? 291 318
+291: círculo 318: círculo NÃOo? 212 650
+212: retângulo 650: retângulo NÃO
+o? 206 203
+206: retângulo 203: retângulo NÃO
+o? 634 835
+634: retângulo 835: círculo NÃO
+o? 923 346
+923: retângulo 346: retângulo NÃO
+o? 743 700
+743: retângulo 700: retângulo NÃO
+o? 539 117
+539: retângulo 117: círculo NÃO
+o? 661 226
+661: círculo 226: retângulo NÃO
+o? 70 970
+70: retângulo 970: retângulo NÃO
+o? 578 149
+578: retângulo 149: retângulo NÃO
+o? 565 107
+565: círculo 107: retângulo NÃO
+o? 198 46
+198: círculo 46: retângulo NÃO
+o? 239 995
+239: retângulo 995: retângulo NÃO
+o? 989 521
+989: retângulo 521: retângulo NÃO
+o? 184 658
+184: retângulo 658: retângulo NÃO
+o? 761 636
+761: retângulo 636: círculo NÃO
+o? 21 692
+21: círculo 692: retângulo NÃO
+o? 350 435
+350: retângulo 435: círculo NÃO
+o? 26 231
+26: retângulo 231: círculo NÃO
+o? 961 851
+961: círculo 851: retângulo NÃO
+o? 734 683
+734: retângulo 683: retângulo NÃO
+o? 433 428
+433: círculo 428: retângulo NÃO
+o? 147 982
+147: círculo 982: retângulo NÃO
+o? 321 883
+321: círculo 883: círculo NÃOo? 541 956
+541: círculo 956: retângulo NÃO
+o? 705 212
+705: círculo 212: retângulo NÃO
+o? 886 224
+886: retângulo 224: retângulo NÃO
+o? 347 200
+347: retângulo 200: retângulo NÃO
+o? 388 29
+388: retângulo 29: retângulo NÃO
+o? 761 451
+761: retângulo 451: círculo NÃO
+o? 268 554
+268: retângulo 554: retângulo NÃO
+o? 45 351
+45: círculo 351: círculo NÃOo? 758 424
+758: retângulo 424: retângulo NÃO
+o? 589 722
+589: círculo 722: retângulo NÃO
+o? 971 350
+971: retângulo 350: retângulo NÃO
+o? 265 621
+265: círculo 621: círculo NÃOo? 135 995
+135: círculo 995: retângulo NÃO
+o? 870 48
+870: círculo 48: círculo NÃOo? 943 513
+943: círculo 513: círculo NÃOo? 923 971
+923: retângulo 971: retângulo NÃO
+o? 247 737
+247: círculo 737: retângulo NÃO
+o? 618 548
+618: círculo 548: retângulo NÃO
+o? 586 473
+586: retângulo 473: retângulo NÃO
+o? 590 289
+590: retângulo 289: círculo NÃO
+o? 491 813
+491: retângulo 813: círculo NÃO
+o? 572 665
+572: retângulo 665: retângulo NÃO
+o? 351 953
+351: círculo 953: retângulo NÃO
+o? 347 822
+347: retângulo 822: círculo NÃO
+o? 572 299
+572: retângulo 299: retângulo NÃO
+o? 487 218
+487: círculo 218: retângulo NÃO
+o? 883 748
+883: círculo 748: retângulo NÃO
+o? 451 266
+451: círculo 266: retângulo NÃO
+o? 583 728
+583: círculo 728: retângulo NÃO
+o? 197 795
+197: retângulo 795: círculo NÃO
+o? 977 996
+977: retângulo 996: círculo NÃO
+o? 387 586
+387: círculo 586: retângulo NÃO
+o? 586 998
+586: retângulo 998: retângulo NÃO
+o? 546 577
+546: círculo 577: círculo NÃOo? 629 472
+629: retângulo 472: retângulo NÃO
+o? 518 94
+518: retângulo 94: retângulo NÃO
+o? 838 615
+838: retângulo 615: círculo NÃO

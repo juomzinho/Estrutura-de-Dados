@@ -1,0 +1,4409 @@
+o? 2285 8493
+2285: retângulo 8493: círculo NÃO
+o? 9889 7329
+9889: círculo 7329: círculo NÃOo? 4291 2467
+4291: círculo 2467: círculo NÃOo? 6804 4108
+6804: círculo 4108: retângulo NÃO
+o? 7553 2275
+7553: retângulo 2275: círculo NÃO
+o? 8795 2020
+8795: retângulo 2020: retângulo NÃO
+o? 3659 977
+3659: retângulo 977: retângulo NÃO
+o? 3945 2505
+3945: círculo 2505: círculo NÃOo? 865 8472
+865: círculo 8472: círculo NÃOo? 1167 4272
+1167: círculo 4272: círculo NÃOo? 8645 6771
+8645: retângulo 6771: círculo NÃO
+o? 8442 7803
+8442: círculo 7803: círculo NÃOo? 3904 7607
+3904: retângulo 7607: retângulo NÃO
+o? 2396 383
+2396: retângulo 383: retângulo NÃO
+o? 6790 8580
+6790: retângulo 8580: círculo NÃO
+o? 685 1921
+685: círculo 1921: círculo NÃOo? 2740 5936
+2740: retângulo 5936: retângulo NÃO
+o? 7349 4759
+7349: retângulo 4759: círculo NÃO
+o? 6158 3966
+6158: retângulo 3966: círculo NÃO
+o? 3597 157
+3597: círculo 157: círculo NÃOo? 1065 2833
+1065: círculo 2833: círculo NÃOo? 2818 1183
+2818: retângulo 1183: círculo NÃO
+o? 928 2439
+928: retângulo 2439: círculo NÃO
+o? 2230 1810
+2230: retângulo 1810: retângulo NÃO
+o? 4048 7483
+4048: retângulo 7483: círculo NÃO
+o? 9556 7072
+9556: retângulo 7072: retângulo NÃO
+o? 6703 9191
+6703: círculo 9191: retângulo NÃO
+o? 3469 7132
+3469: círculo 7132: retângulo NÃO
+o? 4573 2774
+4573: círculo 2774: retângulo NÃO
+o? 2157 3879
+2157: círculo 3879: círculo NÃOo? 9993 2051
+9993: círculo 2051: retângulo NÃO
+o? 3137 9060
+3137: retângulo 9060: círculo NÃO
+o? 202 5052
+202: retângulo 5052: círculo NÃO
+o? 8671 2291
+8671: círculo 2291: retângulo NÃO
+o? 3163 4347
+3163: círculo 4347: círculo NÃOo? 448 9163
+448: retângulo 9163: círculo NÃO
+o? 7618 9440
+7618: retângulo 9440: retângulo NÃO
+o? 9993 2963
+9993: círculo 2963: retângulo NÃO
+o? 8647 49
+8647: círculo 49: círculo NÃOo? 6544 6418
+6544: retângulo 6418: retângulo NÃO
+o? 2208 163
+2208: círculo 163: círculo NÃOo? 8110 1687
+8110: retângulo 1687: círculo NÃO
+o? 5881 8819
+5881: círculo 8819: retângulo NÃO
+o? 5431 4415
+5431: círculo 4415: retângulo NÃO
+o? 2089 9148
+2089: círculo 9148: retângulo NÃO
+o? 1174 9863
+1174: retângulo 9863: retângulo NÃO
+o? 5240 2849
+5240: retângulo 2849: retângulo NÃO
+o? 5711 8281
+5711: retângulo 8281: círculo NÃO
+o? 1789 8477
+1789: círculo 8477: retângulo NÃO
+o? 1716 6489
+1716: círculo 6489: círculo NÃOo? 6619 8349
+6619: círculo 8349: círculo NÃOo? 4559 180
+4559: retângulo 180: círculo NÃO
+o? 2652 3581
+2652: círculo 3581: retângulo NÃO
+o? 2897 1182
+2897: retângulo 1182: círculo NÃO
+o? 17 2769
+17: retângulo 2769: círculo NÃO
+o? 3789 9227
+3789: círculo 9227: retângulo NÃO
+o? 7448 6006
+7448: retângulo 6006: círculo NÃO
+o? 6658 1184
+6658: retângulo 1184: retângulo NÃO
+o? 2429 621
+2429: retângulo 621: círculo NÃO
+o? 6914 5665
+6914: retângulo 5665: círculo NÃO
+o? 4353 1379
+4353: círculo 1379: retângulo NÃO
+o? 5833 918
+5833: círculo 918: círculo NÃOo? 5004 5495
+5004: círculo 5495: retângulo NÃO
+o? 6286 9073
+6286: retângulo 9073: círculo NÃO
+o? 7286 7931
+7286: retângulo 7931: retângulo NÃO
+o? 7768 1895
+7768: retângulo 1895: retângulo NÃO
+o? 5556 1757
+5556: círculo 1757: retângulo NÃO
+o? 6411 3765
+6411: círculo 3765: círculo NÃOo? 6653 9438
+6653: retângulo 9438: círculo NÃO
+o? 1508 1524
+1508: retângulo 1524: círculo NÃO
+o? 1460 3745
+1460: retângulo 3745: círculo NÃO
+o? 3895 2134
+3895: círculo 2134: retângulo NÃO
+o? 1573 7231
+1573: círculo 7231: círculo NÃOo? 1999 9933
+1999: círculo 9933: círculo NÃOo? 387 7281
+387: círculo 7281: círculo NÃOo? 790 9325
+790: retângulo 9325: círculo NÃO
+o? 1626 7319
+1626: círculo 7319: retângulo NÃO
+o? 1854 2664
+1854: círculo 2664: círculo NÃOo? 8519 9043
+8519: retângulo 9043: círculo NÃO
+o? 6235 9258
+6235: círculo 9258: círculo NÃOo? 1292 8483
+1292: retângulo 8483: retângulo NÃO
+o? 1821 997
+1821: círculo 997: círculo NÃOo? 2949 4767
+2949: círculo 4767: círculo NÃOo? 9273 438
+9273: círculo 438: círculo NÃOo? 1530 8239
+1530: círculo 8239: círculo NÃOo? 3496 4160
+3496: retângulo 4160: retângulo NÃO
+o? 9612 4979
+9612: círculo 4979: retângulo NÃO
+o? 4578 3189
+4578: círculo 3189: círculo NÃOo? 4860 1806
+4860: círculo 1806: círculo NÃOo? 1372 2919
+1372: retângulo 2919: círculo NÃO
+o? 3492 9217
+3492: círculo 9217: círculo NÃOo? 5476 8047
+5476: retângulo 8047: círculo NÃO
+o? 6970 956
+6970: retângulo 956: retângulo NÃO
+o? 2528 2253
+2528: retângulo 2253: círculo NÃO
+o? 1297 4883
+1297: círculo 4883: retângulo NÃO
+o? 3236 6012
+3236: retângulo 6012: círculo NÃO
+o? 7671 4184
+7671: círculo 4184: retângulo NÃO
+o? 7684 5816
+7684: retângulo 5816: retângulo NÃO
+o? 5025 7642
+5025: círculo 7642: retângulo NÃO
+o? 3974 5911
+3974: retângulo 5911: círculo NÃO
+o? 9662 6898
+9662: retângulo 6898: retângulo NÃO
+o? 5456 8214
+5456: retângulo 8214: círculo NÃO
+o? 6509 4289
+6509: retângulo 4289: retângulo NÃO
+o? 8044 6155
+8044: retângulo 6155: retângulo NÃO
+o? 8207 4121
+8207: retângulo 4121: retângulo NÃO
+o? 5625 8791
+5625: círculo 8791: círculo NÃOo? 3944 8633
+3944: retângulo 8633: retângulo NÃO
+o? 2805 5932
+2805: círculo 5932: retângulo NÃO
+o? 8621 1389
+8621: retângulo 1389: círculo NÃO
+o? 2439 5951
+2439: círculo 5951: retângulo NÃO
+o? 1330 5729
+1330: retângulo 5729: retângulo NÃO
+o? 5938 7283
+5938: retângulo 7283: retângulo NÃO
+o? 680 8833
+680: retângulo 8833: círculo NÃO
+o? 6254 9569
+6254: retângulo 9569: retângulo NÃO
+o? 9913 3284
+9913: círculo 3284: retângulo NÃO
+o? 687 174
+687: círculo 174: círculo NÃOo? 5807 6843
+5807: retângulo 6843: círculo NÃO
+o? 3160 8869
+3160: retângulo 8869: círculo NÃO
+o? 124 7674
+124: retângulo 7674: círculo NÃO
+o? 2299 8012
+2299: círculo 8012: retângulo NÃO
+o? 6453 42
+6453: círculo 42: círculo NÃOo? 9204 7818
+9204: círculo 7818: círculo NÃOo? 8719 8774
+8719: círculo 8774: retângulo NÃO
+o? 1228 8429
+1228: retângulo 8429: retângulo NÃO
+o? 635 6219
+635: retângulo 6219: círculo NÃO
+o? 8446 7873
+8446: retângulo 7873: círculo NÃO
+o? 6822 5385
+6822: círculo 5385: círculo NÃOo? 4833 283
+4833: círculo 283: círculo NÃOo? 9254 3541
+9254: retângulo 3541: círculo NÃO
+o? 9134 847
+9134: retângulo 847: círculo NÃO
+o? 5401 8909
+5401: círculo 8909: retângulo NÃO
+o? 5623 2546
+5623: círculo 2546: retângulo NÃO
+o? 3268 4510
+3268: retângulo 4510: retângulo NÃO
+o? 3110 4355
+3110: retângulo 4355: retângulo NÃO
+o? 2605 5897
+2605: círculo 5897: retângulo NÃO
+o? 3321 3981
+3321: círculo 3981: círculo NÃOo? 5709 4028
+5709: círculo 4028: retângulo NÃO
+o? 7228 4128
+7228: retângulo 4128: círculo NÃO
+o? 1362 723
+1362: círculo 723: círculo NÃOo? 9388 2625
+9388: retângulo 2625: círculo NÃO
+o? 9926 9568
+9926: retângulo 9568: retângulo NÃO
+o? 4373 8687
+4373: retângulo 8687: retângulo NÃO
+o? 920 2350
+920: retângulo 2350: retângulo NÃO
+o? 3112 406
+3112: retângulo 406: retângulo NÃO
+o? 4937 6426
+4937: retângulo 6426: círculo NÃO
+o? 6550 5673
+6550: retângulo 5673: círculo NÃO
+o? 7366 5739
+7366: retângulo 5739: círculo NÃO
+o? 6528 5391
+6528: círculo 5391: círculo NÃOo? 5083 3661
+5083: círculo 3661: círculo NÃOo? 4048 568
+4048: retângulo 568: retângulo NÃO
+o? 9477 9274
+9477: círculo 9274: retângulo NÃO
+o? 6325 8813
+6325: círculo 8813: retângulo NÃO
+o? 5989 9338
+5989: círculo 9338: retângulo NÃO
+o? 9951 6363
+9951: círculo 6363: círculo NÃOo? 3617 2733
+3617: retângulo 2733: círculo NÃO
+o? 4607 1293
+4607: retângulo 1293: círculo NÃO
+o? 1553 6811
+1553: retângulo 6811: círculo NÃO
+o? 5558 1352
+5558: retângulo 1352: retângulo NÃO
+o? 4899 8531
+4899: círculo 8531: retângulo NÃO
+o? 8673 764
+8673: círculo 764: retângulo NÃO
+o? 1737 2917
+1737: círculo 2917: círculo NÃOo? 7569 5880
+7569: círculo 5880: círculo NÃOo? 9331 2947
+9331: círculo 2947: círculo NÃOo? 2304 6383
+2304: círculo 6383: retângulo NÃO
+o? 6402 1742
+6402: círculo 1742: retângulo NÃO
+o? 3462 303
+3462: círculo 303: círculo NÃOo? 6501 5424
+6501: círculo 5424: círculo NÃOo? 3077 6505
+3077: retângulo 6505: círculo NÃO
+o? 8262 5062
+8262: círculo 5062: retângulo NÃO
+o? 1971 2313
+1971: círculo 2313: círculo NÃOo? 3434 584
+3434: retângulo 584: retângulo NÃO
+o? 1341 7059
+1341: círculo 7059: círculo NÃOo? 1448 96
+1448: retângulo 96: círculo NÃO
+o? 4440 747
+4440: círculo 747: círculo NÃOo? 4941 5251
+4941: círculo 5251: círculo NÃOo? 6529 1760
+6529: círculo 1760: retângulo NÃO
+o? 1780 8334
+1780: retângulo 8334: círculo NÃO
+o? 7990 3728
+7990: retângulo 3728: retângulo NÃO
+o? 2042 189
+2042: retângulo 189: círculo NÃO
+o? 5168 4167
+5168: retângulo 4167: círculo NÃO
+o? 6737 6409
+6737: retângulo 6409: círculo NÃO
+o? 6992 7536
+6992: retângulo 7536: círculo NÃO
+o? 3888 4674
+3888: círculo 4674: círculo NÃOo? 2708 8783
+2708: retângulo 8783: retângulo NÃO
+o? 9574 1198
+9574: retângulo 1198: retângulo NÃO
+o? 5267 9180
+5267: retângulo 9180: círculo NÃO
+o? 9707 3894
+9707: retângulo 3894: círculo NÃO
+o? 5588 5294
+5588: retângulo 5294: retângulo NÃO
+o? 7667 578
+7667: retângulo 578: retângulo NÃO
+o? 3442 172
+3442: retângulo 172: retângulo NÃO
+o? 5424 6081
+5424: círculo 6081: círculo NÃOo? 6371 1270
+6371: retângulo 1270: retângulo NÃO
+o? 7633 4119
+7633: círculo 4119: círculo NÃOo? 5082 4
+5082: círculo 4: retângulo NÃO
+o? 3110 2350
+3110: retângulo 2350: retângulo NÃO
+o? 4672 624
+4672: retângulo 624: círculo NÃO
+o? 7839 8224
+7839: círculo 8224: retângulo NÃO
+o? 2656 1751
+2656: retângulo 1751: retângulo NÃO
+o? 5231 5108
+5231: retângulo 5108: retângulo NÃO
+o? 5840 4224
+5840: retângulo 4224: círculo NÃO
+o? 3705 9038
+3705: círculo 9038: retângulo NÃO
+o? 662 9426
+662: retângulo 9426: círculo NÃO
+o? 9031 5787
+9031: círculo 5787: círculo NÃOo? 6537 8108
+6537: círculo 8108: retângulo NÃO
+o? 3987 2105
+3987: círculo 2105: retângulo NÃO
+o? 9246 2543
+9246: círculo 2543: retângulo NÃO
+o? 6815 4630
+6815: retângulo 4630: retângulo NÃO
+o? 5109 1313
+5109: círculo 1313: retângulo NÃO
+o? 9147 8400
+9147: círculo 8400: círculo NÃOo? 1395 2988
+1395: círculo 2988: círculo NÃOo? 2611 9453
+2611: círculo 9453: círculo NÃOo? 7271 7117
+7271: retângulo 7117: círculo NÃO
+o? 1003 6570
+1003: círculo 6570: círculo NÃOo? 6694 2996
+6694: retângulo 2996: retângulo NÃO
+o? 9985 8424
+9985: círculo 8424: círculo NÃOo? 7098 9566
+7098: círculo 9566: retângulo NÃO
+o? 6075 3876
+6075: círculo 3876: círculo NÃOo? 6127 94
+6127: círculo 94: retângulo NÃO
+o? 3218 8926
+3218: retângulo 8926: retângulo NÃO
+o? 4371 3224
+4371: círculo 3224: retângulo NÃO
+o? 6728 6810
+6728: retângulo 6810: círculo NÃO
+o? 1274 1252
+1274: retângulo 1252: retângulo NÃO
+o? 5821 170
+5821: círculo 170: retângulo NÃO
+o? 6375 4216
+6375: círculo 4216: retângulo NÃO
+o? 5390 8152
+5390: retângulo 8152: retângulo NÃO
+o? 842 4714
+842: retângulo 4714: retângulo NÃO
+o? 2893 5318
+2893: círculo 5318: retângulo NÃO
+o? 5301 4600
+5301: círculo 4600: retângulo NÃO
+o? 828 1794
+828: círculo 1794: círculo NÃOo? 9940 9067
+9940: retângulo 9067: círculo NÃO
+o? 7223 2025
+7223: retângulo 2025: círculo NÃO
+o? 1111 6714
+1111: círculo 6714: círculo NÃOo? 7619 9353
+7619: retângulo 9353: retângulo NÃO
+o? 3016 2080
+3016: retângulo 2080: retângulo NÃO
+o? 7940 1288
+7940: retângulo 1288: retângulo NÃO
+o? 3660 6175
+3660: círculo 6175: círculo SIMo? 8067 6328
+8067: círculo 6328: retângulo NÃO
+o? 4194 140
+4194: círculo 140: retângulo NÃO
+o? 4528 4228
+4528: retângulo 4228: retângulo NÃO
+o? 5504 2783
+5504: retângulo 2783: retângulo NÃO
+o? 512 8018
+512: retângulo 8018: retângulo NÃO
+o? 7611 77
+7611: círculo 77: retângulo NÃO
+o? 100 47
+100: retângulo 47: retângulo NÃO
+o? 5586 571
+5586: círculo 571: círculo NÃOo? 8202 6181
+8202: círculo 6181: círculo NÃOo? 8666 8979
+8666: retângulo 8979: círculo NÃO
+o? 8345 6272
+8345: retângulo 6272: retângulo NÃO
+o? 3652 8201
+3652: retângulo 8201: retângulo NÃO
+o? 8789 8429
+8789: retângulo 8429: retângulo NÃO
+o? 8196 6916
+8196: círculo 6916: retângulo NÃO
+o? 7150 9579
+7150: retângulo 9579: círculo NÃO
+o? 7508 3932
+7508: retângulo 3932: retângulo NÃO
+o? 4095 1660
+4095: círculo 1660: retângulo NÃO
+o? 80 1821
+80: retângulo 1821: círculo NÃO
+o? 8536 8842
+8536: retângulo 8842: retângulo NÃO
+o? 9154 2727
+9154: retângulo 2727: círculo NÃO
+o? 8215 7910
+8215: círculo 7910: retângulo NÃO
+o? 4862 9108
+4862: retângulo 9108: círculo NÃO
+o? 6652 4297
+6652: retângulo 4297: círculo NÃO
+o? 2100 5736
+2100: círculo 5736: círculo NÃOo? 910 2942
+910: retângulo 2942: retângulo NÃO
+o? 7825 3677
+7825: círculo 3677: retângulo NÃO
+o? 6176 5643
+6176: retângulo 5643: círculo NÃO
+o? 4 3837
+4: retângulo 3837: círculo NÃO
+o? 3492 9216
+3492: círculo 9216: círculo NÃOo? 836 6242
+836: retângulo 6242: retângulo NÃO
+o? 5336 7733
+5336: retângulo 7733: retângulo NÃO
+o? 3861 2905
+3861: círculo 2905: círculo NÃOo? 7919 4881
+7919: retângulo 4881: círculo NÃO
+o? 5701 770
+5701: círculo 770: retângulo NÃO
+o? 4177 7682
+4177: círculo 7682: retângulo NÃO
+o? 594 9941
+594: círculo 9941: retângulo NÃO
+o? 9617 3903
+9617: retângulo 3903: círculo NÃO
+o? 2488 5271
+2488: retângulo 5271: círculo NÃO
+o? 4745 37
+4745: retângulo 37: círculo NÃO
+o? 9348 1786
+9348: círculo 1786: retângulo NÃO
+o? 7243 2022
+7243: círculo 2022: círculo NÃOo? 9544 2566
+9544: retângulo 2566: retângulo NÃO
+o? 1090 6308
+1090: retângulo 6308: retângulo NÃO
+o? 6327 659
+6327: círculo 659: retângulo NÃO
+o? 4464 8336
+4464: círculo 8336: retângulo NÃO
+o? 4888 2613
+4888: retângulo 2613: círculo NÃO
+o? 7962 682
+7962: círculo 682: retângulo NÃO
+o? 4083 6807
+4083: círculo 6807: círculo NÃOo? 8527 7730
+8527: círculo 7730: retângulo NÃO
+o? 6725 6570
+6725: retângulo 6570: círculo NÃO
+o? 6971 1074
+6971: retângulo 1074: círculo NÃO
+o? 3279 8997
+3279: círculo 8997: círculo NÃOo? 7792 7180
+7792: retângulo 7180: retângulo NÃO
+o? 5700 6378
+5700: círculo 6378: círculo NÃOo? 5005 5546
+5005: círculo 5546: retângulo NÃO
+o? 8298 74
+8298: círculo 74: retângulo NÃO
+o? 3790 972
+3790: retângulo 972: círculo NÃO
+o? 979 6391
+979: círculo 6391: círculo NÃOo? 5358 6318
+5358: círculo 6318: círculo NÃOo? 8136 4436
+8136: círculo 4436: retângulo NÃO
+o? 803 3827
+803: retângulo 3827: retângulo NÃO
+o? 2258 4069
+2258: retângulo 4069: círculo NÃO
+o? 7702 1966
+7702: retângulo 1966: retângulo NÃO
+o? 3935 7039
+3935: retângulo 7039: círculo NÃO
+o? 9318 1716
+9318: círculo 1716: círculo NÃOo? 8115 3445
+8115: círculo 3445: círculo NÃOo? 3346 8101
+3346: retângulo 8101: círculo NÃO
+o? 3672 1119
+3672: círculo 1119: círculo NÃOo? 842 1631
+842: retângulo 1631: retângulo NÃO
+o? 6368 5874
+6368: retângulo 5874: círculo NÃO
+o? 1758 496
+1758: círculo 496: retângulo NÃO
+o? 4329 3352
+4329: círculo 3352: retângulo NÃO
+o? 8657 7427
+8657: retângulo 7427: retângulo NÃO
+o? 9328 9611
+9328: retângulo 9611: retângulo NÃO
+o? 2683 8861
+2683: círculo 8861: retângulo NÃO
+o? 5989 6096
+5989: círculo 6096: círculo NÃOo? 7786 5263
+7786: retângulo 5263: círculo NÃO
+o? 2270 5953
+2270: retângulo 5953: círculo NÃO
+o? 1134 562
+1134: círculo 562: retângulo NÃO
+o? 8217 8976
+8217: círculo 8976: círculo NÃOo? 7323 2020
+7323: círculo 2020: retângulo NÃO
+o? 1749 6655
+1749: círculo 6655: círculo NÃOo? 4655 2934
+4655: retângulo 2934: círculo NÃO
+o? 8385 4208
+8385: círculo 4208: retângulo NÃO
+o? 254 9795
+254: retângulo 9795: círculo NÃO
+o? 1919 9921
+1919: retângulo 9921: círculo NÃO
+o? 5818 5937
+5818: retângulo 5937: círculo NÃO
+o? 1830 9935
+1830: círculo 9935: retângulo NÃO
+o? 9084 6184
+9084: círculo 6184: retângulo NÃO
+o? 2125 5875
+2125: círculo 5875: círculo NÃOo? 2094 2348
+2094: círculo 2348: retângulo NÃO
+o? 5434 939
+5434: retângulo 939: círculo NÃO
+o? 1970 1449
+1970: retângulo 1449: círculo NÃO
+o? 5503 4185
+5503: círculo 4185: círculo NÃOo? 7889 6617
+7889: retângulo 6617: retângulo NÃO
+o? 5057 9635
+5057: retângulo 9635: retângulo NÃO
+o? 2922 1052
+2922: círculo 1052: retângulo NÃO
+o? 4315 5304
+4315: círculo 5304: círculo NÃOo? 1054 3599
+1054: retângulo 3599: retângulo NÃO
+o? 9302 7930
+9302: retângulo 7930: retângulo NÃO
+o? 2520 9802
+2520: círculo 9802: retângulo NÃO
+o? 3021 984
+3021: círculo 984: círculo NÃOo? 9791 6648
+9791: retângulo 6648: círculo NÃO
+o? 431 103
+431: retângulo 103: círculo NÃO
+o? 867 9630
+867: círculo 9630: círculo NÃOo? 9115 7305
+9115: círculo 7305: círculo NÃOo? 9327 1078
+9327: círculo 1078: retângulo NÃO
+o? 7737 305
+7737: círculo 305: retângulo NÃO
+o? 9710 7031
+9710: retângulo 7031: retângulo NÃO
+o? 9632 1639
+9632: retângulo 1639: círculo NÃO
+o? 2374 8876
+2374: retângulo 8876: retângulo NÃO
+o? 9396 3791
+9396: círculo 3791: retângulo NÃO
+o? 7498 2982
+7498: retângulo 2982: círculo NÃO
+o? 6828 6990
+6828: círculo 6990: círculo NÃOo? 5552 8562
+5552: retângulo 8562: círculo NÃO
+o? 7161 4237
+7161: círculo 4237: círculo NÃOo? 2908 120
+2908: retângulo 120: círculo NÃO
+o? 2528 8962
+2528: retângulo 8962: retângulo NÃO
+o? 1085 4752
+1085: retângulo 4752: círculo NÃO
+o? 4201 2399
+4201: círculo 2399: retângulo NÃO
+o? 5515 5313
+5515: círculo 5313: círculo NÃOo? 1455 9691
+1455: círculo 9691: círculo NÃOo? 7655 7127
+7655: retângulo 7127: retângulo NÃO
+o? 3425 1142
+3425: retângulo 1142: retângulo NÃO
+o? 3482 8062
+3482: retângulo 8062: retângulo NÃO
+o? 2753 9171
+2753: retângulo 9171: círculo NÃO
+o? 2825 3291
+2825: retângulo 3291: círculo NÃO
+o? 1407 6170
+1407: círculo 6170: retângulo NÃO
+o? 6984 2509
+6984: círculo 2509: círculo NÃOo? 622 1286
+622: retângulo 1286: retângulo NÃO
+o? 3449 4032
+3449: retângulo 4032: círculo NÃO
+o? 1115 4644
+1115: retângulo 4644: círculo NÃO
+o? 4140 7999
+4140: círculo 7999: círculo NÃOo? 2788 8622
+2788: retângulo 8622: círculo NÃO
+o? 3505 393
+3505: círculo 393: círculo NÃOo? 4586 4072
+4586: retângulo 4072: retângulo NÃO
+o? 5480 9048
+5480: retângulo 9048: círculo NÃO
+o? 5806 6778
+5806: retângulo 6778: retângulo NÃO
+o? 2496 9591
+2496: círculo 9591: círculo NÃOo? 5618 5247
+5618: retângulo 5247: círculo NÃO
+o? 1857 1936
+1857: círculo 1936: retângulo NÃO
+o? 3410 4276
+3410: retângulo 4276: retângulo NÃO
+o? 8902 4202
+8902: retângulo 4202: retângulo NÃO
+o? 5838 7234
+5838: círculo 7234: retângulo NÃO
+o? 1690 7183
+1690: retângulo 7183: círculo NÃO
+o? 5457 2913
+5457: círculo 2913: círculo NÃOo? 1856 6802
+1856: retângulo 6802: retângulo NÃO
+o? 2825 6575
+2825: retângulo 6575: retângulo NÃO
+o? 1876 2824
+1876: retângulo 2824: retângulo NÃO
+o? 6518 6092
+6518: retângulo 6092: retângulo NÃO
+o? 1648 9959
+1648: retângulo 9959: retângulo NÃO
+o? 9653 534
+9653: retângulo 534: círculo NÃO
+o? 4172 158
+4172: retângulo 158: retângulo NÃO
+o? 1893 6610
+1893: círculo 6610: retângulo NÃO
+o? 7405 9752
+7405: círculo 9752: retângulo NÃO
+o? 6919 3375
+6919: círculo 3375: círculo NÃOo? 1896 2927
+1896: círculo 2927: retângulo NÃO
+o? 9058 2500
+9058: retângulo 2500: retângulo NÃO
+o? 4669 6539
+4669: círculo 6539: retângulo NÃO
+o? 805 5434
+805: círculo 5434: retângulo NÃO
+o? 9227 1474
+9227: retângulo 1474: retângulo NÃO
+o? 4510 5706
+4510: retângulo 5706: círculo NÃO
+o? 468 7630
+468: círculo 7630: retângulo NÃO
+o? 9283 9052
+9283: círculo 9052: retângulo NÃO
+o? 9446 9928
+9446: retângulo 9928: retângulo NÃO
+o? 6561 7826
+6561: círculo 7826: retângulo NÃO
+o? 2938 2845
+2938: retângulo 2845: círculo NÃO
+o? 846 4590
+846: círculo 4590: círculo NÃOo? 3183 1685
+3183: círculo 1685: retângulo NÃO
+o? 2155 9316
+2155: círculo 9316: retângulo NÃO
+o? 2324 4852
+2324: retângulo 4852: retângulo NÃO
+o? 432 6556
+432: círculo 6556: retângulo NÃO
+o? 5053 4880
+5053: círculo 4880: retângulo NÃO
+o? 8731 231
+8731: círculo 231: círculo NÃOo? 9764 6195
+9764: retângulo 6195: círculo NÃO
+o? 6355 457
+6355: círculo 457: círculo NÃOo? 3224 9312
+3224: retângulo 9312: círculo NÃO
+o? 8793 8967
+8793: círculo 8967: círculo NÃOo? 4339 2356
+4339: círculo 2356: retângulo NÃO
+o? 8552 8140
+8552: retângulo 8140: retângulo NÃO
+o? 9881 5497
+9881: retângulo 5497: círculo NÃO
+o? 7873 4250
+7873: círculo 4250: retângulo NÃO
+o? 6766 8013
+6766: retângulo 8013: círculo NÃO
+o? 7485 9798
+7485: círculo 9798: círculo NÃOo? 9113 9195
+9113: retângulo 9195: círculo NÃO
+o? 7221 3902
+7221: círculo 3902: retângulo NÃO
+o? 44 9935
+44: retângulo 9935: retângulo NÃO
+o? 3725 1146
+3725: retângulo 1146: círculo NÃO
+o? 4214 872
+4214: retângulo 872: retângulo NÃO
+o? 9912 6769
+9912: círculo 6769: círculo NÃOo? 1259 9776
+1259: retângulo 9776: retângulo NÃO
+o? 935 743
+935: retângulo 743: retângulo NÃO
+o? 2237 3897
+2237: retângulo 3897: círculo NÃO
+o? 4626 576
+4626: círculo 576: círculo NÃOo? 5407 6717
+5407: círculo 6717: círculo NÃOo? 6043 1403
+6043: círculo 1403: retângulo NÃO
+o? 6644 756
+6644: retângulo 756: círculo NÃO
+o? 4670 7664
+4670: retângulo 7664: retângulo NÃO
+o? 8369 5554
+8369: retângulo 5554: retângulo NÃO
+o? 8163 3760
+8163: círculo 3760: retângulo NÃO
+o? 4685 2131
+4685: retângulo 2131: círculo NÃO
+o? 7225 1248
+7225: círculo 1248: círculo NÃOo? 1840 993
+1840: retângulo 993: círculo NÃO
+o? 2569 8452
+2569: círculo 8452: retângulo NÃO
+o? 1433 2034
+1433: retângulo 2034: círculo NÃO
+o? 1354 9483
+1354: retângulo 9483: círculo NÃO
+o? 2193 381
+2193: círculo 381: círculo NÃOo? 9978 3324
+9978: círculo 3324: círculo NÃOo? 7389 2419
+7389: círculo 2419: círculo NÃOo? 9243 5322
+9243: círculo 5322: círculo NÃOo? 7077 8687
+7077: círculo 8687: retângulo NÃO
+o? 1473 1823
+1473: círculo 1823: retângulo NÃO
+o? 3070 2993
+3070: retângulo 2993: retângulo NÃO
+o? 6327 4316
+6327: círculo 4316: retângulo NÃO
+o? 4390 6734
+4390: retângulo 6734: retângulo NÃO
+o? 2620 9414
+2620: retângulo 9414: círculo NÃO
+o? 5670 2550
+5670: círculo 2550: círculo NÃOo? 2272 5383
+2272: retângulo 5383: círculo NÃO
+o? 7299 6339
+7299: círculo 6339: círculo NÃOo? 976 1287
+976: retângulo 1287: círculo NÃO
+o? 4614 3594
+4614: círculo 3594: círculo NÃOo? 3273 3520
+3273: círculo 3520: retângulo NÃO
+o? 8567 8101
+8567: retângulo 8101: círculo NÃO
+o? 3881 3561
+3881: retângulo 3561: círculo NÃO
+o? 8505 9010
+8505: círculo 9010: retângulo NÃO
+o? 6647 2747
+6647: retângulo 2747: retângulo NÃO
+o? 4892 2417
+4892: retângulo 2417: retângulo NÃO
+o? 4498 3044
+4498: retângulo 3044: retângulo NÃO
+o? 2353 2964
+2353: círculo 2964: círculo NÃOo? 7274 5785
+7274: retângulo 5785: círculo NÃO
+o? 1562 6463
+1562: retângulo 6463: círculo NÃO
+o? 5649 4576
+5649: círculo 4576: retângulo NÃO
+o? 1730 8618
+1730: retângulo 8618: retângulo NÃO
+o? 7110 3781
+7110: círculo 3781: círculo NÃOo? 5777 3925
+5777: retângulo 3925: círculo NÃO
+o? 8374 8969
+8374: retângulo 8969: retângulo NÃO
+o? 7081 7665
+7081: círculo 7665: círculo SIMo? 572 8011
+572: retângulo 8011: círculo NÃO
+o? 184 2056
+184: retângulo 2056: retângulo NÃO
+o? 7145 3215
+7145: retângulo 3215: retângulo NÃO
+o? 2246 176
+2246: retângulo 176: retângulo NÃO
+o? 1703 3941
+1703: retângulo 3941: retângulo NÃO
+o? 6787 2340
+6787: círculo 2340: círculo NÃOo? 7681 3241
+7681: círculo 3241: círculo NÃOo? 3929 2620
+3929: retângulo 2620: retângulo NÃO
+o? 6176 3571
+6176: retângulo 3571: círculo NÃO
+o? 4217 7192
+4217: retângulo 7192: retângulo NÃO
+o? 6191 6344
+6191: retângulo 6344: retângulo NÃO
+o? 7466 1537
+7466: retângulo 1537: círculo NÃO
+o? 496 8703
+496: retângulo 8703: círculo NÃO
+o? 5111 3118
+5111: retângulo 3118: retângulo NÃO
+o? 6329 3350
+6329: retângulo 3350: retângulo NÃO
+o? 6061 6982
+6061: círculo 6982: retângulo NÃO
+o? 5079 2468
+5079: círculo 2468: retângulo NÃO
+o? 8662 3096
+8662: retângulo 3096: círculo NÃO
+o? 6400 1317
+6400: retângulo 1317: círculo NÃO
+o? 4201 6457
+4201: círculo 6457: círculo NÃOo? 11 4296
+11: retângulo 4296: círculo NÃO
+o? 9715 4863
+9715: círculo 4863: círculo NÃOo? 2982 8113
+2982: círculo 8113: círculo NÃOo? 9314 2695
+9314: retângulo 2695: círculo NÃO
+o? 7341 5290
+7341: círculo 5290: retângulo NÃO
+o? 3307 5827
+3307: círculo 5827: círculo NÃOo? 3122 9282
+3122: retângulo 9282: círculo NÃO
+o? 2163 167
+2163: círculo 167: retângulo NÃO
+o? 5924 1405
+5924: retângulo 1405: círculo NÃO
+o? 9397 4913
+9397: círculo 4913: retângulo NÃO
+o? 6883 6600
+6883: círculo 6600: círculo NÃOo? 188 9179
+188: retângulo 9179: retângulo NÃO
+o? 3481 4004
+3481: círculo 4004: retângulo NÃO
+o? 3215 4254
+3215: retângulo 4254: círculo NÃO
+o? 670 9018
+670: retângulo 9018: círculo NÃO
+o? 2976 9602
+2976: círculo 9602: retângulo NÃO
+o? 8611 4432
+8611: círculo 4432: retângulo NÃO
+o? 6483 5760
+6483: círculo 5760: círculo NÃOo? 9024 446
+9024: círculo 446: retângulo NÃO
+o? 8200 132
+8200: retângulo 132: círculo NÃO
+o? 9263 6125
+9263: retângulo 6125: retângulo NÃO
+o? 7101 138
+7101: círculo 138: círculo NÃOo? 2861 8677
+2861: retângulo 8677: círculo NÃO
+o? 5603 9639
+5603: retângulo 9639: círculo NÃO
+o? 1048 1653
+1048: retângulo 1653: círculo NÃO
+o? 5972 1825
+5972: retângulo 1825: círculo NÃO
+o? 6725 7161
+6725: retângulo 7161: círculo NÃO
+o? 3953 9037
+3953: retângulo 9037: círculo NÃO
+o? 29 6348
+29: retângulo 6348: círculo NÃO
+o? 4755 4001
+4755: círculo 4001: retângulo NÃO
+o? 2966 137
+2966: retângulo 137: retângulo NÃO
+o? 562 8153
+562: retângulo 8153: retângulo NÃO
+o? 4190 7002
+4190: retângulo 7002: círculo NÃO
+o? 533 3204
+533: retângulo 3204: círculo NÃO
+o? 2593 8365
+2593: círculo 8365: círculo NÃOo? 8301 9439
+8301: círculo 9439: círculo NÃOo? 4620 67
+4620: círculo 67: círculo NÃOo? 7757 2569
+7757: retângulo 2569: círculo NÃO
+o? 1898 902
+1898: retângulo 902: retângulo NÃO
+o? 771 8068
+771: círculo 8068: retângulo NÃO
+o? 7863 5559
+7863: círculo 5559: círculo NÃOo? 2835 8117
+2835: círculo 8117: retângulo NÃO
+o? 2490 2517
+2490: círculo 2517: círculo NÃOo? 5832 3137
+5832: círculo 3137: retângulo NÃO
+o? 6395 5195
+6395: retângulo 5195: retângulo NÃO
+o? 5385 9079
+5385: círculo 9079: círculo NÃOo? 4598 257
+4598: retângulo 257: retângulo NÃO
+o? 5132 8068
+5132: retângulo 8068: retângulo NÃO
+o? 2623 6981
+2623: círculo 6981: círculo NÃOo? 1894 1746
+1894: retângulo 1746: círculo NÃO
+o? 4322 3041
+4322: retângulo 3041: retângulo NÃO
+o? 8003 5190
+8003: retângulo 5190: círculo NÃO
+o? 8515 4880
+8515: círculo 4880: retângulo NÃO
+o? 253 5918
+253: círculo 5918: retângulo NÃO
+o? 3921 5599
+3921: círculo 5599: círculo NÃOo? 8795 9440
+8795: retângulo 9440: retângulo NÃO
+o? 7270 2250
+7270: retângulo 2250: círculo NÃO
+o? 2080 9550
+2080: retângulo 9550: retângulo NÃO
+o? 7671 8675
+7671: círculo 8675: retângulo NÃO
+o? 7421 4300
+7421: retângulo 4300: retângulo NÃO
+o? 3263 1557
+3263: retângulo 1557: círculo NÃO
+o? 4168 2269
+4168: retângulo 2269: círculo NÃO
+o? 5298 2592
+5298: círculo 2592: círculo NÃOo? 133 6005
+133: círculo 6005: retângulo NÃO
+o? 7542 2024
+7542: círculo 2024: retângulo NÃO
+o? 9940 8481
+9940: retângulo 8481: círculo NÃO
+o? 7482 3433
+7482: círculo 3433: círculo NÃOo? 6148 5645
+6148: retângulo 5645: retângulo NÃO
+o? 8033 8079
+8033: retângulo 8079: círculo NÃO
+o? 4828 6036
+4828: retângulo 6036: círculo NÃO
+o? 2837 7418
+2837: retângulo 7418: retângulo NÃO
+o? 1565 2089
+1565: retângulo 2089: círculo NÃO
+o? 3656 2313
+3656: retângulo 2313: círculo NÃO
+o? 9275 6496
+9275: retângulo 6496: retângulo NÃO
+o? 5047 2896
+5047: círculo 2896: retângulo NÃO
+o? 2962 663
+2962: retângulo 663: círculo NÃO
+o? 9570 6546
+9570: círculo 6546: círculo NÃOo? 1725 9976
+1725: círculo 9976: retângulo NÃO
+o? 9121 6699
+9121: círculo 6699: círculo NÃOo? 118 9142
+118: retângulo 9142: retângulo NÃO
+o? 6332 2847
+6332: retângulo 2847: círculo NÃO
+o? 1967 6819
+1967: retângulo 6819: círculo NÃO
+o? 6227 8357
+6227: retângulo 8357: retângulo NÃO
+o? 487 2922
+487: círculo 2922: círculo NÃOo? 3289 1950
+3289: círculo 1950: círculo NÃOo? 9426 3997
+9426: círculo 3997: círculo NÃOo? 8882 2400
+8882: retângulo 2400: círculo NÃO
+o? 9472 2004
+9472: retângulo 2004: círculo NÃO
+o? 8391 4938
+8391: círculo 4938: círculo NÃOo? 571 2651
+571: círculo 2651: retângulo NÃO
+o? 725 3343
+725: retângulo 3343: círculo NÃO
+o? 131 7009
+131: retângulo 7009: círculo NÃO
+o? 1959 1850
+1959: círculo 1850: retângulo NÃO
+o? 7903 8007
+7903: círculo 8007: círculo NÃOo? 7175 8455
+7175: retângulo 8455: círculo NÃO
+o? 3834 2579
+3834: círculo 2579: retângulo NÃO
+o? 8297 3511
+8297: retângulo 3511: círculo NÃO
+o? 427 9532
+427: círculo 9532: retângulo NÃO
+o? 7595 3334
+7595: retângulo 3334: retângulo NÃO
+o? 2012 1445
+2012: retângulo 1445: retângulo NÃO
+o? 7285 4315
+7285: círculo 4315: círculo NÃOo? 592 6499
+592: retângulo 6499: círculo NÃO
+o? 1196 4192
+1196: retângulo 4192: retângulo NÃO
+o? 3402 1421
+3402: círculo 1421: retângulo NÃO
+o? 8193 8612
+8193: círculo 8612: retângulo NÃO
+o? 2734 7390
+2734: retângulo 7390: retângulo NÃO
+o? 3540 4872
+3540: círculo 4872: círculo NÃOo? 1505 7028
+1505: retângulo 7028: retângulo NÃO
+o? 2845 60
+2845: círculo 60: círculo NÃOo? 7591 8677
+7591: círculo 8677: círculo NÃOo? 1113 5339
+1113: círculo 5339: retângulo NÃO
+o? 8760 5086
+8760: círculo 5086: retângulo NÃO
+o? 1096 2833
+1096: retângulo 2833: círculo NÃO
+o? 4333 1162
+4333: círculo 1162: retângulo NÃO
+o? 5277 8528
+5277: círculo 8528: retângulo NÃO
+o? 2466 3015
+2466: círculo 3015: círculo NÃOo? 1884 6715
+1884: círculo 6715: círculo NÃOo? 8724 3743
+8724: círculo 3743: retângulo NÃO
+o? 5388 79
+5388: círculo 79: círculo NÃOo? 8424 6420
+8424: círculo 6420: círculo NÃOo? 337 8720
+337: círculo 8720: retângulo NÃO
+o? 8604 8478
+8604: círculo 8478: círculo NÃOo? 1487 4528
+1487: retângulo 4528: retângulo NÃO
+o? 1179 7198
+1179: círculo 7198: retângulo NÃO
+o? 1266 7124
+1266: círculo 7124: retângulo NÃO
+o? 9711 1457
+9711: círculo 1457: retângulo NÃO
+o? 2715 5786
+2715: círculo 5786: retângulo NÃO
+o? 7681 3961
+7681: círculo 3961: círculo NÃOo? 4511 1575
+4511: retângulo 1575: círculo NÃO
+o? 9453 4830
+9453: círculo 4830: círculo NÃOo? 934 6561
+934: retângulo 6561: círculo NÃO
+o? 6736 1613
+6736: retângulo 1613: retângulo NÃO
+o? 5825 5033
+5825: retângulo 5033: retângulo NÃO
+o? 9943 8754
+9943: círculo 8754: círculo NÃOo? 5793 9743
+5793: círculo 9743: retângulo NÃO
+o? 501 2816
+501: círculo 2816: retângulo NÃO
+o? 6525 4398
+6525: círculo 4398: círculo NÃOo? 6008 3525
+6008: retângulo 3525: círculo NÃO
+o? 2429 391
+2429: retângulo 391: círculo NÃO
+o? 8647 3712
+8647: círculo 3712: retângulo NÃO
+o? 90 6932
+90: círculo 6932: retângulo NÃO
+o? 6573 3303
+6573: círculo 3303: círculo NÃOo? 2749 6824
+2749: círculo 6824: retângulo NÃO
+o? 9455 2217
+9455: retângulo 2217: círculo NÃO
+o? 255 8950
+255: círculo 8950: retângulo NÃO
+o? 8127 270
+8127: círculo 270: círculo NÃOo? 3290 4152
+3290: retângulo 4152: círculo NÃO
+o? 7337 7326
+7337: retângulo 7326: círculo NÃO
+o? 3023 5324
+3023: retângulo 5324: retângulo NÃO
+o? 9341 1794
+9341: retângulo 1794: círculo NÃO
+o? 6686 8254
+6686: retângulo 8254: retângulo NÃO
+o? 5233 3572
+5233: círculo 3572: retângulo NÃO
+o? 1268 5446
+1268: retângulo 5446: retângulo NÃO
+o? 5799 1238
+5799: círculo 1238: retângulo NÃO
+o? 1338 2077
+1338: círculo 2077: círculo NÃOo? 395 9263
+395: retângulo 9263: retângulo NÃO
+o? 7335 6856
+7335: círculo 6856: retângulo NÃO
+o? 4210 2179
+4210: retângulo 2179: círculo NÃO
+o? 9285 4409
+9285: círculo 4409: retângulo NÃO
+o? 8210 9070
+8210: retângulo 9070: retângulo NÃO
+o? 3661 7391
+3661: círculo 7391: retângulo NÃO
+o? 7528 5648
+7528: retângulo 5648: retângulo NÃO
+o? 7216 7837
+7216: retângulo 7837: círculo NÃO
+o? 9171 3297
+9171: círculo 3297: círculo NÃOo? 7721 5379
+7721: retângulo 5379: círculo NÃO
+o? 1713 3676
+1713: círculo 3676: retângulo NÃO
+o? 8927 2280
+8927: retângulo 2280: círculo NÃO
+o? 9617 3760
+9617: retângulo 3760: retângulo NÃO
+o? 6013 2032
+6013: círculo 2032: retângulo NÃO
+o? 8268 2346
+8268: círculo 2346: círculo NÃOo? 4965 6137
+4965: círculo 6137: retângulo NÃO
+o? 4389 6525
+4389: círculo 6525: círculo NÃOo? 3240 6657
+3240: círculo 6657: círculo NÃOo? 5202 3956
+5202: círculo 3956: retângulo NÃO
+o? 4488 7500
+4488: círculo 7500: círculo NÃOo? 899 7294
+899: retângulo 7294: retângulo NÃO
+o? 5479 2904
+5479: círculo 2904: círculo NÃOo? 8658 2658
+8658: círculo 2658: círculo NÃOo? 3288 2633
+3288: círculo 2633: retângulo NÃO
+o? 1685 6479
+1685: retângulo 6479: retângulo NÃO
+o? 9782 7228
+9782: retângulo 7228: retângulo NÃO
+o? 931 7234
+931: círculo 7234: retângulo NÃO
+o? 2846 4769
+2846: retângulo 4769: retângulo NÃO
+o? 5854 4286
+5854: retângulo 4286: retângulo NÃO
+o? 1061 5264
+1061: retângulo 5264: retângulo NÃO
+o? 2890 5083
+2890: retângulo 5083: círculo NÃO
+o? 7089 2025
+7089: círculo 2025: círculo NÃOo? 8209 6763
+8209: círculo 6763: círculo NÃOo? 7206 586
+7206: círculo 586: retângulo NÃO
+o? 5512 1399
+5512: retângulo 1399: círculo NÃO
+o? 5773 868
+5773: círculo 868: retângulo NÃO
+o? 5522 5470
+5522: retângulo 5470: retângulo NÃO
+o? 7014 1925
+7014: círculo 1925: retângulo NÃO
+o? 6724 3340
+6724: retângulo 3340: retângulo NÃO
+o? 3984 5282
+3984: círculo 5282: retângulo NÃO
+o? 170 918
+170: retângulo 918: círculo NÃO
+o? 6385 6680
+6385: círculo 6680: retângulo NÃO
+o? 927 8038
+927: círculo 8038: retângulo NÃO
+o? 6813 2327
+6813: círculo 2327: retângulo NÃO
+o? 3331 909
+3331: círculo 909: círculo NÃOo? 9457 5577
+9457: círculo 5577: círculo NÃOo? 5493 176
+5493: círculo 176: retângulo NÃO
+o? 2616 4611
+2616: círculo 4611: círculo NÃOo? 3125 731
+3125: retângulo 731: retângulo NÃO
+o? 5687 2317
+5687: retângulo 2317: círculo NÃO
+o? 7285 2967
+7285: círculo 2967: círculo NÃOo? 461 786
+461: retângulo 786: círculo NÃO
+o? 9187 9448
+9187: círculo 9448: retângulo NÃO
+o? 3595 8785
+3595: círculo 8785: círculo NÃOo? 1559 5653
+1559: retângulo 5653: círculo NÃO
+o? 7692 9583
+7692: círculo 9583: círculo NÃOo? 572 5038
+572: retângulo 5038: retângulo NÃO
+o? 5193 8128
+5193: círculo 8128: retângulo NÃO
+o? 7602 2392
+7602: círculo 2392: retângulo NÃO
+o? 5155 1640
+5155: círculo 1640: retângulo NÃO
+o? 903 4946
+903: círculo 4946: retângulo NÃO
+o? 7986 2658
+7986: círculo 2658: círculo NÃOo? 1343 9147
+1343: retângulo 9147: círculo NÃO
+o? 9942 9941
+9942: círculo 9941: retângulo NÃO
+o? 8311 6294
+8311: círculo 6294: círculo NÃOo? 1724 4602
+1724: retângulo 4602: círculo NÃO
+o? 1766 4213
+1766: retângulo 4213: círculo NÃO
+o? 4347 1658
+4347: círculo 1658: retângulo NÃO
+o? 1722 2099
+1722: círculo 2099: retângulo NÃO
+o? 8959 6756
+8959: círculo 6756: círculo NÃOo? 3931 5309
+3931: círculo 5309: retângulo NÃO
+o? 6624 7772
+6624: círculo 7772: retângulo NÃO
+o? 1799 2057
+1799: retângulo 2057: retângulo NÃO
+o? 7251 5741
+7251: círculo 5741: retângulo NÃO
+o? 1310 978
+1310: retângulo 978: círculo NÃO
+o? 9009 6147
+9009: círculo 6147: círculo SIMo? 8654 7287
+8654: retângulo 7287: círculo NÃO
+o? 5821 4436
+5821: círculo 4436: retângulo NÃO
+o? 2576 2051
+2576: retângulo 2051: retângulo NÃO
+o? 2585 5140
+2585: retângulo 5140: retângulo NÃO
+o? 3580 8750
+3580: retângulo 8750: retângulo NÃO
+o? 8409 889
+8409: círculo 889: círculo NÃOo? 5216 785
+5216: retângulo 785: retângulo NÃO
+o? 1275 7561
+1275: círculo 7561: círculo NÃOo? 4400 4114
+4400: retângulo 4114: retângulo NÃO
+o? 3723 3367
+3723: círculo 3367: círculo NÃOo? 1062 2587
+1062: círculo 2587: círculo NÃOo? 790 5804
+790: retângulo 5804: retângulo NÃO
+o? 8922 9759
+8922: círculo 9759: círculo NÃOo? 275 9826
+275: retângulo 9826: retângulo NÃO
+o? 6622 8964
+6622: retângulo 8964: círculo NÃO
+o? 7609 4421
+7609: círculo 4421: retângulo NÃO
+o? 3693 192
+3693: círculo 192: círculo NÃOo? 4245 3639
+4245: círculo 3639: círculo NÃOo? 948 1012
+948: círculo 1012: retângulo NÃO
+o? 4278 1039
+4278: círculo 1039: círculo NÃOo? 8254 5074
+8254: retângulo 5074: retângulo NÃO
+o? 3862 2923
+3862: retângulo 2923: círculo NÃO
+o? 551 2329
+551: retângulo 2329: círculo NÃO
+o? 6731 7812
+6731: retângulo 7812: círculo NÃO
+o? 9580 7869
+9580: retângulo 7869: círculo NÃO
+o? 4830 3863
+4830: círculo 3863: retângulo NÃO
+o? 7352 2863
+7352: retângulo 2863: círculo NÃO
+o? 9618 2202
+9618: círculo 2202: círculo NÃOo? 7047 2895
+7047: círculo 2895: círculo NÃOo? 9172 3038
+9172: retângulo 3038: retângulo NÃO
+o? 4625 254
+4625: retângulo 254: retângulo NÃO
+o? 1130 7612
+1130: retângulo 7612: retângulo NÃO
+o? 8797 8905
+8797: círculo 8905: círculo NÃOo? 1419 2998
+1419: círculo 2998: retângulo NÃO
+o? 4897 9679
+4897: círculo 9679: círculo NÃOo? 418 1576
+418: retângulo 1576: retângulo NÃO
+o? 9841 3530
+9841: círculo 3530: retângulo NÃO
+o? 6647 954
+6647: retângulo 954: círculo NÃO
+o? 8119 366
+8119: círculo 366: círculo NÃOo? 1879 7978
+1879: círculo 7978: retângulo NÃO
+o? 662 9102
+662: retângulo 9102: círculo NÃO
+o? 8697 1406
+8697: círculo 1406: retângulo NÃO
+o? 6086 6585
+6086: retângulo 6585: círculo NÃO
+o? 3333 7255
+3333: círculo 7255: círculo NÃOo? 4240 7615
+4240: retângulo 7615: círculo NÃO
+o? 4760 4274
+4760: retângulo 4274: retângulo NÃO
+o? 1292 7779
+1292: retângulo 7779: círculo NÃO
+o? 473 161
+473: retângulo 161: retângulo NÃO
+o? 1059 5313
+1059: círculo 5313: círculo NÃOo? 9837 1553
+9837: círculo 1553: retângulo NÃO
+o? 8478 1585
+8478: círculo 1585: círculo NÃOo? 1552 2174
+1552: retângulo 2174: retângulo NÃO
+o? 9219 8311
+9219: círculo 8311: círculo NÃOo? 3486 2811
+3486: círculo 2811: círculo NÃOo? 7393 2011
+7393: círculo 2011: círculo NÃOo? 1977 9219
+1977: círculo 9219: círculo NÃOo? 3088 7098
+3088: retângulo 7098: círculo NÃO
+o? 685 1040
+685: círculo 1040: retângulo NÃO
+o? 4107 7777
+4107: círculo 7777: círculo NÃOo? 3730 826
+3730: retângulo 826: retângulo NÃO
+o? 7283 7017
+7283: retângulo 7017: círculo NÃO
+o? 7398 3715
+7398: círculo 3715: círculo NÃOo? 6306 5780
+6306: círculo 5780: retângulo NÃO
+o? 5074 3135
+5074: retângulo 3135: círculo NÃO
+o? 1176 1687
+1176: círculo 1687: círculo NÃOo? 7228 7332
+7228: retângulo 7332: círculo NÃO
+o? 1737 1841
+1737: círculo 1841: retângulo NÃO
+o? 6576 5651
+6576: círculo 5651: retângulo NÃO
+o? 656 5821
+656: retângulo 5821: círculo NÃO
+o? 9297 9992
+9297: círculo 9992: retângulo NÃO
+o? 3263 2620
+3263: retângulo 2620: retângulo NÃO
+o? 9250 8540
+9250: retângulo 8540: retângulo NÃO
+o? 4008 3804
+4008: círculo 3804: círculo NÃOo? 7636 6400
+7636: retângulo 6400: retângulo NÃO
+o? 6628 5179
+6628: retângulo 5179: círculo NÃO
+o? 4556 8616
+4556: retângulo 8616: círculo NÃO
+o? 6110 4494
+6110: retângulo 4494: círculo NÃO
+o? 1851 41
+1851: círculo 41: retângulo NÃO
+o? 304 1251
+304: retângulo 1251: círculo NÃO
+o? 76 9764
+76: retângulo 9764: retângulo NÃO
+o? 634 2868
+634: retângulo 2868: círculo NÃO
+o? 5988 7581
+5988: círculo 7581: círculo NÃOo? 4087 3520
+4087: círculo 3520: retângulo NÃO
+o? 5397 7079
+5397: círculo 7079: retângulo NÃO
+o? 1745 262
+1745: retângulo 262: retângulo NÃO
+o? 5757 7349
+5757: círculo 7349: retângulo NÃO
+o? 1927 2466
+1927: círculo 2466: círculo NÃOo? 7611 9680
+7611: círculo 9680: retângulo NÃO
+o? 2683 3089
+2683: círculo 3089: retângulo NÃO
+o? 3000 2848
+3000: círculo 2848: retângulo NÃO
+o? 7555 62
+7555: círculo 62: retângulo NÃO
+o? 2499 6000
+2499: círculo 6000: círculo NÃOo? 6488 7801
+6488: retângulo 7801: círculo NÃO
+o? 1096 7996
+1096: retângulo 7996: retângulo NÃO
+o? 9579 7451
+9579: círculo 7451: retângulo NÃO
+o? 6147 2156
+6147: círculo 2156: retângulo NÃO
+o? 1109 8946
+1109: retângulo 8946: círculo NÃO
+o? 8939 7411
+8939: retângulo 7411: círculo NÃO
+o? 8930 4754
+8930: retângulo 4754: retângulo NÃO
+o? 8932 9451
+8932: retângulo 9451: círculo NÃO
+o? 5170 2930
+5170: retângulo 2930: retângulo NÃO
+o? 3326 9647
+3326: retângulo 9647: retângulo NÃO
+o? 2857 6668
+2857: círculo 6668: retângulo NÃO
+o? 6614 6008
+6614: retângulo 6008: retângulo NÃO
+o? 9873 9006
+9873: círculo 9006: círculo NÃOo? 2118 7192
+2118: círculo 7192: retângulo NÃO
+o? 9502 6705
+9502: retângulo 6705: círculo NÃO
+o? 995 5557
+995: retângulo 5557: círculo NÃO
+o? 7731 3494
+7731: círculo 3494: retângulo NÃO
+o? 9312 850
+9312: círculo 850: retângulo NÃO
+o? 8953 9556
+8953: círculo 9556: retângulo NÃO
+o? 6910 4817
+6910: retângulo 4817: retângulo NÃO
+o? 5364 9226
+5364: círculo 9226: retângulo NÃO
+o? 5162 7211
+5162: retângulo 7211: retângulo NÃO
+o? 2622 811
+2622: círculo 811: círculo NÃOo? 2209 6261
+2209: círculo 6261: círculo NÃOo? 1714 5528
+1714: retângulo 5528: retângulo NÃO
+o? 4614 4071
+4614: círculo 4071: círculo NÃOo? 4168 452
+4168: retângulo 452: retângulo NÃO
+o? 1735 6077
+1735: círculo 6077: retângulo NÃO
+o? 92 2419
+92: retângulo 2419: círculo NÃO
+o? 5209 4035
+5209: círculo 4035: círculo NÃOo? 1681 6514
+1681: círculo 6514: retângulo NÃO
+o? 3856 8066
+3856: retângulo 8066: retângulo NÃO
+o? 6196 5009
+6196: retângulo 5009: retângulo NÃO
+o? 2591 8885
+2591: retângulo 8885: retângulo NÃO
+o? 2374 7238
+2374: retângulo 7238: retângulo NÃO
+o? 1580 5169
+1580: retângulo 5169: círculo NÃO
+o? 9194 3555
+9194: retângulo 3555: círculo NÃO
+o? 3121 2016
+3121: círculo 2016: círculo NÃOo? 788 9930
+788: retângulo 9930: círculo NÃO
+o? 3502 5374
+3502: retângulo 5374: retângulo NÃO
+o? 3515 6409
+3515: retângulo 6409: círculo NÃO
+o? 1778 9971
+1778: retângulo 9971: retângulo NÃO
+o? 9202 1952
+9202: retângulo 1952: retângulo NÃO
+o? 1241 882
+1241: retângulo 882: círculo NÃO
+o? 1401 9420
+1401: círculo 9420: círculo NÃOo? 8602 7418
+8602: retângulo 7418: retângulo NÃO
+o? 7112 6690
+7112: retângulo 6690: círculo NÃO
+o? 7718 1938
+7718: retângulo 1938: círculo NÃO
+o? 7196 2726
+7196: retângulo 2726: retângulo NÃO
+o? 1087 9382
+1087: círculo 9382: retângulo NÃO
+o? 5267 6101
+5267: retângulo 6101: retângulo NÃO
+o? 5758 9899
+5758: retângulo 9899: retângulo NÃO
+o? 3908 1502
+3908: retângulo 1502: retângulo NÃO
+o? 6029 8892
+6029: retângulo 8892: círculo NÃO
+o? 9766 4183
+9766: retângulo 4183: círculo NÃO
+o? 7326 5868
+7326: círculo 5868: círculo NÃOo? 1004 6508
+1004: retângulo 6508: retângulo NÃO
+o? 1946 195
+1946: retângulo 195: círculo NÃO
+o? 4307 5556
+4307: retângulo 5556: círculo NÃO
+o? 6102 1185
+6102: círculo 1185: círculo NÃOo? 1470 8585
+1470: círculo 8585: retângulo NÃO
+o? 3861 1681
+3861: círculo 1681: círculo NÃOo? 4271 4243
+4271: retângulo 4243: círculo NÃO
+o? 3935 2316
+3935: retângulo 2316: círculo NÃO
+o? 5287 5746
+5287: círculo 5746: retângulo NÃO
+o? 1614 4038
+1614: círculo 4038: círculo NÃOo? 3875 7272
+3875: retângulo 7272: círculo NÃO
+o? 7216 4331
+7216: retângulo 4331: retângulo NÃO
+o? 5886 5950
+5886: círculo 5950: retângulo NÃO
+o? 2176 2693
+2176: retângulo 2693: retângulo NÃO
+o? 3232 4951
+3232: retângulo 4951: círculo NÃO
+o? 1171 1
+1171: círculo 1: círculo NÃOo? 9898 7601
+9898: retângulo 7601: retângulo NÃO
+o? 7885 8231
+7885: círculo 8231: retângulo NÃO
+o? 5515 9489
+5515: círculo 9489: círculo NÃOo? 4210 14
+4210: retângulo 14: retângulo NÃO
+o? 8904 1063
+8904: círculo 1063: círculo NÃOo? 4683 9675
+4683: círculo 9675: círculo NÃOo? 5045 8206
+5045: retângulo 8206: retângulo NÃO
+o? 2392 7438
+2392: retângulo 7438: retângulo NÃO
+o? 8187 1244
+8187: círculo 1244: retângulo NÃO
+o? 9911 1249
+9911: retângulo 1249: círculo NÃO
+o? 8717 1077
+8717: retângulo 1077: círculo NÃO
+o? 5165 6951
+5165: retângulo 6951: círculo NÃO
+o? 5228 9103
+5228: retângulo 9103: círculo NÃO
+o? 346 6458
+346: retângulo 6458: retângulo NÃO
+o? 896 4643
+896: retângulo 4643: retângulo NÃO
+o? 5648 261
+5648: retângulo 261: círculo NÃO
+o? 2290 728
+2290: retângulo 728: retângulo NÃO
+o? 7600 6731
+7600: retângulo 6731: retângulo NÃO
+o? 8628 232
+8628: círculo 232: retângulo NÃO
+o? 8038 6973
+8038: retângulo 6973: círculo NÃO
+o? 940 2640
+940: retângulo 2640: círculo NÃO
+o? 3573 2137
+3573: círculo 2137: círculo NÃOo? 6683 5769
+6683: retângulo 5769: círculo NÃO
+o? 3891 946
+3891: círculo 946: retângulo NÃO
+o? 6145 480
+6145: círculo 480: círculo NÃOo? 5626 5139
+5626: retângulo 5139: círculo NÃO
+o? 448 3491
+448: retângulo 3491: retângulo NÃO
+o? 3733 6917
+3733: círculo 6917: retângulo NÃO
+o? 5514 5374
+5514: círculo 5374: retângulo NÃO
+o? 8754 7148
+8754: círculo 7148: retângulo NÃO
+o? 1116 275
+1116: círculo 275: retângulo NÃO
+o? 2446 6128
+2446: retângulo 6128: retângulo NÃO
+o? 7399 9284
+7399: círculo 9284: retângulo NÃO
+o? 1929 5712
+1929: círculo 5712: círculo NÃOo? 6769 2437
+6769: círculo 2437: círculo NÃOo? 6831 4586
+6831: círculo 4586: retângulo NÃO
+o? 7015 8818
+7015: círculo 8818: retângulo NÃO
+o? 1124 4489
+1124: retângulo 4489: círculo NÃO
+o? 7088 6329
+7088: retângulo 6329: retângulo NÃO
+o? 7042 4172
+7042: retângulo 4172: retângulo NÃO
+o? 4110 4393
+4110: círculo 4393: círculo NÃOo? 3713 2051
+3713: retângulo 2051: retângulo NÃO
+o? 2398 659
+2398: retângulo 659: retângulo NÃO
+o? 2730 3137
+2730: círculo 3137: retângulo NÃO
+o? 5184 1968
+5184: círculo 1968: círculo NÃOo? 6624 7569
+6624: círculo 7569: círculo NÃOo? 1439 3418
+1439: retângulo 3418: retângulo NÃO
+o? 9594 7228
+9594: círculo 7228: retângulo NÃO
+o? 5846 8650
+5846: retângulo 8650: retângulo NÃO
+o? 9592 9038
+9592: retângulo 9038: retângulo NÃO
+o? 7250 770
+7250: retângulo 770: retângulo NÃO
+o? 7188 357
+7188: círculo 357: círculo NÃOo? 8359 9422
+8359: círculo 9422: retângulo NÃO
+o? 5894 7461
+5894: retângulo 7461: círculo NÃO
+o? 4697 9420
+4697: retângulo 9420: círculo NÃO
+o? 209 7968
+209: retângulo 7968: círculo NÃO
+o? 7658 915
+7658: retângulo 915: círculo NÃO
+o? 7860 7532
+7860: círculo 7532: retângulo NÃO
+o? 8094 8018
+8094: círculo 8018: retângulo NÃO
+o? 7920 2596
+7920: círculo 2596: retângulo NÃO
+o? 5321 3656
+5321: retângulo 3656: retângulo NÃO
+o? 97 5359
+97: círculo 5359: círculo NÃOo? 7634 2784
+7634: retângulo 2784: círculo NÃO
+o? 3507 2986
+3507: círculo 2986: retângulo NÃO
+o? 7223 5615
+7223: retângulo 5615: retângulo NÃO
+o? 1461 3398
+1461: círculo 3398: retângulo NÃO
+o? 4758 4373
+4758: círculo 4373: retângulo NÃO
+o? 5141 4627
+5141: retângulo 4627: círculo NÃO
+o? 5731 4160
+5731: círculo 4160: retângulo NÃO
+o? 3861 522
+3861: círculo 522: círculo NÃOo? 9358 4750
+9358: retângulo 4750: retângulo NÃO
+o? 3179 5710
+3179: retângulo 5710: retângulo NÃO
+o? 1866 402
+1866: círculo 402: círculo NÃOo? 9911 7803
+9911: retângulo 7803: círculo NÃO
+o? 1337 8640
+1337: retângulo 8640: círculo NÃO
+o? 8325 3373
+8325: círculo 3373: círculo NÃOo? 7392 5215
+7392: círculo 5215: círculo NÃOo? 3851 4615
+3851: retângulo 4615: círculo NÃO
+o? 7946 6557
+7946: retângulo 6557: retângulo NÃO
+o? 5647 2213
+5647: círculo 2213: retângulo NÃO
+o? 3461 506
+3461: retângulo 506: retângulo NÃO
+o? 6292 3938
+6292: retângulo 3938: retângulo NÃO
+o? 6144 8595
+6144: círculo 8595: círculo NÃOo? 4326 3333
+4326: círculo 3333: círculo NÃOo? 7113 862
+7113: círculo 862: retângulo NÃO
+o? 2053 1564
+2053: círculo 1564: retângulo NÃO
+o? 5280 6004
+5280: círculo 6004: retângulo NÃO
+o? 7294 6430
+7294: retângulo 6430: retângulo NÃO
+o? 8076 4452
+8076: círculo 4452: círculo NÃOo? 1232 3849
+1232: retângulo 3849: círculo NÃO
+o? 1353 7807
+1353: círculo 7807: círculo NÃOo? 8746 4493
+8746: retângulo 4493: retângulo NÃO
+o? 4959 4043
+4959: círculo 4043: retângulo NÃO
+o? 7394 3776
+7394: retângulo 3776: retângulo NÃO
+o? 6925 4687
+6925: círculo 4687: círculo NÃOo? 4599 8539
+4599: círculo 8539: círculo NÃOo? 9579 5697
+9579: círculo 5697: círculo NÃOo? 1506 3203
+1506: círculo 3203: retângulo NÃO
+o? 7322 6723
+7322: retângulo 6723: círculo NÃO
+o? 5753 3801
+5753: retângulo 3801: círculo NÃO
+o? 5115 4451
+5115: círculo 4451: retângulo NÃO
+o? 5299 6975
+5299: círculo 6975: círculo NÃOo? 900 1704
+900: círculo 1704: círculo NÃOo? 4513 8700
+4513: círculo 8700: círculo NÃOo? 5350 8949
+5350: retângulo 8949: círculo NÃO
+o? 9731 3295
+9731: retângulo 3295: círculo NÃO
+o? 2680 6347
+2680: retângulo 6347: retângulo NÃO
+o? 9178 8532
+9178: retângulo 8532: círculo NÃO
+o? 47 1822
+47: retângulo 1822: retângulo NÃO
+o? 9779 4370
+9779: retângulo 4370: retângulo NÃO
+o? 8606 3136
+8606: retângulo 3136: retângulo NÃO
+o? 4838 6696
+4838: retângulo 6696: círculo NÃO
+o? 8051 244
+8051: retângulo 244: retângulo NÃO
+o? 8129 9726
+8129: retângulo 9726: círculo NÃO
+o? 6636 5374
+6636: círculo 5374: retângulo NÃO
+o? 4934 6592
+4934: retângulo 6592: retângulo NÃO
+o? 9039 6910
+9039: círculo 6910: retângulo NÃO
+o? 3012 9979
+3012: círculo 9979: círculo NÃOo? 4353 2571
+4353: círculo 2571: círculo NÃOo? 5999 2931
+5999: retângulo 2931: círculo NÃO
+o? 2822 1451
+2822: retângulo 1451: retângulo NÃO
+o? 3338 2047
+3338: retângulo 2047: círculo NÃO
+o? 3720 1029
+3720: círculo 1029: círculo NÃOo? 3154 6044
+3154: retângulo 6044: retângulo NÃO
+o? 6630 446
+6630: círculo 446: retângulo NÃO
+o? 3983 8898
+3983: retângulo 8898: círculo NÃO
+o? 9151 2562
+9151: círculo 2562: círculo NÃOo? 7396 3143
+7396: retângulo 3143: retângulo NÃO
+o? 880 5491
+880: retângulo 5491: círculo NÃO
+o? 6269 9323
+6269: retângulo 9323: retângulo NÃO
+o? 9755 9059
+9755: retângulo 9059: retângulo NÃO
+o? 5410 7726
+5410: retângulo 7726: retângulo NÃO
+o? 7786 4310
+7786: retângulo 4310: retângulo NÃO
+o? 8321 6515
+8321: retângulo 6515: retângulo NÃO
+o? 7256 3439
+7256: retângulo 3439: círculo NÃO
+o? 5701 5501
+5701: círculo 5501: retângulo NÃO
+o? 5087 8098
+5087: retângulo 8098: retângulo NÃO
+o? 2167 6156
+2167: círculo 6156: círculo NÃOo? 7282 9600
+7282: retângulo 9600: círculo NÃO
+o? 6146 4419
+6146: retângulo 4419: círculo NÃO
+o? 4811 4161
+4811: retângulo 4161: círculo NÃO
+o? 8177 2169
+8177: retângulo 2169: círculo NÃO
+o? 5379 934
+5379: círculo 934: retângulo NÃO
+o? 6432 2231
+6432: círculo 2231: retângulo NÃO
+o? 3057 9176
+3057: círculo 9176: retângulo NÃO
+o? 9092 9720
+9092: retângulo 9720: círculo NÃO
+o? 3184 8843
+3184: retângulo 8843: retângulo NÃO
+o? 707 1264
+707: retângulo 1264: retângulo NÃO
+o? 2710 6667
+2710: retângulo 6667: círculo NÃO
+o? 4778 6856
+4778: retângulo 6856: retângulo NÃO
+o? 7782 299
+7782: círculo 299: retângulo NÃO
+o? 3460 9171
+3460: retângulo 9171: círculo NÃO
+o? 7641 6887
+7641: círculo 6887: retângulo NÃO
+o? 1754 2615
+1754: retângulo 2615: retângulo NÃO
+o? 1257 2406
+1257: círculo 2406: círculo NÃOo? 5512 200
+5512: retângulo 200: retângulo NÃO
+o? 6125 4768
+6125: retângulo 4768: retângulo NÃO
+o? 8070 9462
+8070: círculo 9462: círculo NÃOo? 5639 5362
+5639: retângulo 5362: retângulo NÃO
+o? 2241 7240
+2241: círculo 7240: retângulo NÃO
+o? 3504 9905
+3504: círculo 9905: retângulo NÃO
+o? 1324 340
+1324: retângulo 340: retângulo NÃO
+o? 1692 2340
+1692: círculo 2340: círculo SIMo? 5093 9975
+5093: retângulo 9975: círculo NÃO
+o? 5385 9104
+5385: círculo 9104: retângulo NÃO
+o? 7542 7654
+7542: círculo 7654: retângulo NÃO
+o? 9076 2932
+9076: retângulo 2932: retângulo NÃO
+o? 9223 3677
+9223: círculo 3677: retângulo NÃO
+o? 9996 7347
+9996: círculo 7347: círculo NÃOo? 7598 3085
+7598: retângulo 3085: círculo NÃO
+o? 9909 6291
+9909: círculo 6291: círculo NÃOo? 4891 4294
+4891: círculo 4294: retângulo NÃO
+o? 6253 544
+6253: círculo 544: retângulo NÃO
+o? 7033 8870
+7033: círculo 8870: retângulo NÃO
+o? 4168 88
+4168: retângulo 88: retângulo NÃO
+o? 9500 2847
+9500: retângulo 2847: círculo NÃO
+o? 6604 698
+6604: retângulo 698: retângulo NÃO
+o? 4819 9854
+4819: círculo 9854: retângulo NÃO
+o? 6120 8335
+6120: círculo 8335: círculo NÃOo? 7776 1228
+7776: círculo 1228: retângulo NÃO
+o? 7192 3694
+7192: retângulo 3694: retângulo NÃO
+o? 2524 410
+2524: retângulo 410: retângulo NÃO
+o? 8064 6082
+8064: círculo 6082: retângulo NÃO
+o? 7304 4811
+7304: retângulo 4811: retângulo NÃO
+o? 381 9730
+381: círculo 9730: retângulo NÃO
+o? 5984 5196
+5984: retângulo 5196: círculo NÃO
+o? 3579 1374
+3579: círculo 1374: círculo NÃOo? 7702 937
+7702: retângulo 937: círculo NÃO
+o? 5821 8291
+5821: círculo 8291: retângulo NÃO
+o? 8207 7517
+8207: retângulo 7517: retângulo NÃO
+o? 2409 1792
+2409: círculo 1792: retângulo NÃO
+o? 8850 9352
+8850: círculo 9352: retângulo NÃO
+o? 1250 3322
+1250: retângulo 3322: retângulo NÃO
+o? 2416 785
+2416: retângulo 785: retângulo NÃO
+o? 1005 2355
+1005: círculo 2355: círculo NÃOo? 8503 2684
+8503: círculo 2684: retângulo NÃO
+o? 3167 5890
+3167: retângulo 5890: retângulo NÃO
+o? 725 4264
+725: retângulo 4264: retângulo NÃO
+o? 5373 971
+5373: círculo 971: retângulo NÃO
+o? 6112 1653
+6112: retângulo 1653: círculo NÃO
+o? 9849 8243
+9849: círculo 8243: retângulo NÃO
+o? 697 1907
+697: círculo 1907: retângulo NÃO
+o? 214 1391
+214: retângulo 1391: retângulo NÃO
+o? 54 326
+54: círculo 326: retângulo NÃO
+o? 5620 1286
+5620: retângulo 1286: retângulo NÃO
+o? 4902 7082
+4902: círculo 7082: retângulo NÃO
+o? 4956 660
+4956: círculo 660: círculo NÃOo? 8239 7443
+8239: círculo 7443: círculo NÃOo? 1105 4878
+1105: círculo 4878: círculo NÃOo? 5903 9104
+5903: retângulo 9104: retângulo NÃO
+o? 8299 5376
+8299: círculo 5376: círculo NÃOo? 9032 5263
+9032: retângulo 5263: círculo NÃO
+o? 2909 1007
+2909: retângulo 1007: retângulo NÃO
+o? 1091 425
+1091: retângulo 425: retângulo NÃO
+o? 2034 9616
+2034: círculo 9616: retângulo NÃO
+o? 9786 836
+9786: círculo 836: retângulo NÃO
+o? 6587 701
+6587: retângulo 701: retângulo NÃO
+o? 4363 3367
+4363: círculo 3367: círculo NÃOo? 9124 2018
+9124: retângulo 2018: retângulo NÃO
+o? 2456 7366
+2456: retângulo 7366: retângulo NÃO
+o? 367 28
+367: círculo 28: retângulo NÃO
+o? 7159 9753
+7159: círculo 9753: círculo NÃOo? 236 9873
+236: retângulo 9873: círculo NÃO
+o? 3828 3675
+3828: círculo 3675: círculo NÃOo? 5999 4655
+5999: retângulo 4655: retângulo NÃO
+o? 1432 2023
+1432: retângulo 2023: círculo NÃO
+o? 81 3037
+81: círculo 3037: círculo NÃOo? 6983 6244
+6983: retângulo 6244: retângulo NÃO
+o? 5536 2043
+5536: retângulo 2043: círculo NÃO
+o? 3324 1037
+3324: círculo 1037: retângulo NÃO
+o? 3225 6610
+3225: círculo 6610: retângulo NÃO
+o? 5641 2007
+5641: círculo 2007: círculo NÃOo? 5526 5112
+5526: círculo 5112: círculo NÃOo? 3407 594
+3407: retângulo 594: círculo NÃO
+o? 1158 937
+1158: círculo 937: círculo NÃOo? 4619 9714
+4619: retângulo 9714: círculo NÃO
+o? 7791 5703
+7791: círculo 5703: círculo NÃOo? 3272 9205
+3272: retângulo 9205: círculo NÃO
+o? 5158 7682
+5158: retângulo 7682: retângulo NÃO
+o? 5999 8193
+5999: retângulo 8193: círculo NÃO
+o? 8257 2591
+8257: círculo 2591: retângulo NÃO
+o? 1521 4050
+1521: círculo 4050: círculo NÃOo? 3621 5759
+3621: círculo 5759: retângulo NÃO
+o? 8129 4581
+8129: retângulo 4581: círculo NÃO
+o? 4875 3073
+4875: círculo 3073: círculo NÃOo? 205 6729
+205: círculo 6729: círculo NÃOo? 117 7937
+117: círculo 7937: retângulo NÃO
+o? 5338 160
+5338: retângulo 160: retângulo NÃO
+o? 4289 7413
+4289: retângulo 7413: círculo NÃO
+o? 7766 5227
+7766: retângulo 5227: círculo NÃO
+o? 2500 4054
+2500: retângulo 4054: retângulo NÃO
+o? 3627 9023
+3627: círculo 9023: retângulo NÃO
+o? 3314 6808
+3314: retângulo 6808: retângulo NÃO
+o? 9740 6942
+9740: retângulo 6942: círculo NÃO
+o? 8532 2183
+8532: círculo 2183: retângulo NÃO
+o? 7432 713
+7432: retângulo 713: retângulo NÃO
+o? 5445 5626
+5445: círculo 5626: retângulo NÃO
+o? 7859 4113
+7859: retângulo 4113: círculo NÃO
+o? 1146 2675
+1146: círculo 2675: retângulo NÃO
+o? 1289 3141
+1289: retângulo 3141: círculo NÃO
+o? 629 2577
+629: retângulo 2577: círculo NÃO
+o? 6256 2042
+6256: retângulo 2042: retângulo NÃO
+o? 8501 5986
+8501: retângulo 5986: retângulo NÃO
+o? 876 9586
+876: círculo 9586: retângulo NÃO
+o? 4902 3451
+4902: círculo 3451: círculo NÃOo? 7440 2885
+7440: círculo 2885: retângulo NÃO
+o? 3311 7899
+3311: retângulo 7899: círculo NÃO
+o? 100 1301
+100: retângulo 1301: retângulo NÃO
+o? 1447 451
+1447: círculo 451: círculo NÃOo? 4180 3753
+4180: retângulo 3753: círculo NÃO
+o? 5097 5937
+5097: círculo 5937: círculo NÃOo? 3947 6690
+3947: retângulo 6690: círculo NÃO
+o? 3398 5991
+3398: retângulo 5991: círculo NÃO
+o? 9304 5208
+9304: retângulo 5208: círculo NÃO
+o? 9841 8775
+9841: círculo 8775: círculo NÃOo? 7335 6237
+7335: círculo 6237: círculo NÃOo? 6251 2485
+6251: retângulo 2485: círculo NÃO
+o? 3819 2269
+3819: círculo 2269: círculo NÃOo? 587 7377
+587: retângulo 7377: círculo NÃO
+o? 3278 355
+3278: retângulo 355: círculo NÃO
+o? 2850 1926
+2850: círculo 1926: círculo NÃOo? 962 1530
+962: retângulo 1530: círculo NÃO
+o? 3426 3858
+3426: círculo 3858: círculo NÃOo? 6314 8789
+6314: retângulo 8789: retângulo NÃO
+o? 9870 6553
+9870: círculo 6553: círculo NÃOo? 1829 1652
+1829: retângulo 1652: retângulo NÃO
+o? 7250 9088
+7250: retângulo 9088: retângulo NÃO
+o? 3678 6263
+3678: círculo 6263: retângulo NÃO
+o? 8225 3714
+8225: retângulo 3714: círculo NÃO
+o? 2946 5175
+2946: círculo 5175: círculo NÃOo? 2971 6412
+2971: círculo 6412: retângulo NÃO
+o? 3503 6778
+3503: retângulo 6778: retângulo NÃO
+o? 9573 653
+9573: círculo 653: retângulo NÃO
+o? 2278 7748
+2278: retângulo 7748: retângulo NÃO
+o? 9514 8493
+9514: retângulo 8493: círculo NÃO
+o? 1733 8109
+1733: retângulo 8109: círculo NÃO
+o? 1268 6057
+1268: retângulo 6057: círculo NÃO
+o? 6980 5836
+6980: retângulo 5836: retângulo NÃO
+o? 8509 612
+8509: círculo 612: círculo NÃOo? 6937 2770
+6937: círculo 2770: retângulo NÃO
+o? 8669 7372
+8669: retângulo 7372: retângulo NÃO
+o? 6787 1680
+6787: círculo 1680: círculo NÃOo? 2008 3897
+2008: retângulo 3897: círculo NÃO
+o? 4618 321
+4618: retângulo 321: círculo NÃO
+o? 6272 2112
+6272: retângulo 2112: círculo NÃO
+o? 1350 5130
+1350: círculo 5130: círculo NÃOo? 4140 1868
+4140: círculo 1868: retângulo NÃO
+o? 3733 5568
+3733: círculo 5568: círculo NÃOo? 6548 7852
+6548: retângulo 7852: retângulo NÃO
+o? 6673 8000
+6673: círculo 8000: retângulo NÃO
+o? 8354 6521
+8354: retângulo 6521: retângulo NÃO
+o? 372 5721
+372: círculo 5721: círculo NÃOo? 6963 4268
+6963: círculo 4268: retângulo NÃO
+o? 822 6720
+822: círculo 6720: círculo NÃOo? 5203 2462
+5203: círculo 2462: retângulo NÃO
+o? 8211 7572
+8211: círculo 7572: círculo NÃOo? 6803 5486
+6803: retângulo 5486: retângulo NÃO
+o? 442 3045
+442: retângulo 3045: círculo NÃO
+o? 5252 4162
+5252: retângulo 4162: retângulo NÃO
+o? 7671 8209
+7671: círculo 8209: círculo NÃOo? 3197 1329
+3197: retângulo 1329: círculo NÃO
+o? 4485 3265
+4485: círculo 3265: círculo NÃOo? 2495 2466
+2495: retângulo 2466: círculo NÃO
+o? 5654 7123
+5654: retângulo 7123: círculo NÃO
+o? 608 8456
+608: retângulo 8456: retângulo NÃO
+o? 4817 5811
+4817: retângulo 5811: círculo NÃO
+o? 3592 8451
+3592: retângulo 8451: círculo NÃO
+o? 9310 5143
+9310: retângulo 5143: círculo NÃO
+o? 1958 3059
+1958: retângulo 3059: retângulo NÃO
+o? 4051 8724
+4051: círculo 8724: círculo NÃOo? 7721 42
+7721: retângulo 42: círculo NÃO
+o? 444 3678
+444: círculo 3678: círculo NÃOo? 6793 5537
+6793: círculo 5537: retângulo NÃO
+o? 1758 9747
+1758: círculo 9747: círculo NÃOo? 6544 2674
+6544: retângulo 2674: retângulo NÃO
+o? 4501 5637
+4501: círculo 5637: círculo NÃOo? 8381 5719
+8381: retângulo 5719: círculo NÃO
+o? 532 2649
+532: retângulo 2649: círculo NÃO
+o? 5538 1843
+5538: círculo 1843: círculo NÃOo? 2078 6292
+2078: retângulo 6292: retângulo NÃO
+o? 3813 8970
+3813: círculo 8970: círculo NÃOo? 9914 9503
+9914: retângulo 9503: retângulo NÃO
+o? 3331 5188
+3331: círculo 5188: retângulo NÃO
+o? 4744 5950
+4744: retângulo 5950: retângulo NÃO
+o? 9200 6645
+9200: retângulo 6645: círculo NÃO
+o? 5149 7679
+5149: círculo 7679: retângulo NÃO
+o? 1090 5311
+1090: retângulo 5311: círculo NÃO
+o? 2812 1154
+2812: retângulo 1154: retângulo NÃO
+o? 7732 4252
+7732: retângulo 4252: retângulo NÃO
+o? 1701 7837
+1701: círculo 7837: círculo NÃOo? 9289 604
+9289: círculo 604: retângulo NÃO
+o? 6691 8175
+6691: círculo 8175: círculo NÃOo? 8432 8184
+8432: retângulo 8184: círculo NÃO
+o? 7139 4120
+7139: retângulo 4120: retângulo NÃO
+o? 8212 2107
+8212: retângulo 2107: círculo NÃO
+o? 4665 5937
+4665: círculo 5937: círculo NÃOo? 2182 6429
+2182: retângulo 6429: círculo NÃO
+o? 9449 8646
+9449: retângulo 8646: círculo NÃO
+o? 93 5748
+93: círculo 5748: círculo NÃOo? 3217 2757
+3217: círculo 2757: círculo NÃOo? 1094 8147
+1094: retângulo 8147: retângulo NÃO
+o? 2602 6830
+2602: retângulo 6830: retângulo NÃO
+o? 8004 9618
+8004: círculo 9618: círculo NÃOo? 2718 1138
+2718: círculo 1138: retângulo NÃO
+o? 1451 7742
+1451: retângulo 7742: retângulo NÃO
+o? 8551 7154
+8551: círculo 7154: retângulo NÃO
+o? 263 2183
+263: retângulo 2183: retângulo NÃO
+o? 763 5949
+763: círculo 5949: círculo NÃOo? 9821 3637
+9821: retângulo 3637: círculo NÃO
+o? 447 5907
+447: círculo 5907: círculo NÃOo? 2865 4790
+2865: círculo 4790: retângulo NÃO
+o? 2126 1053
+2126: retângulo 1053: círculo NÃO
+o? 7098 4150
+7098: círculo 4150: retângulo NÃO
+o? 8476 3608
+8476: retângulo 3608: retângulo NÃO
+o? 7820 3782
+7820: retângulo 3782: retângulo NÃO
+o? 9037 3015
+9037: círculo 3015: círculo NÃOo? 3524 2754
+3524: retângulo 2754: círculo NÃO
+o? 4449 7104
+4449: círculo 7104: círculo NÃOo? 9309 682
+9309: círculo 682: retângulo NÃO
+o? 4748 2253
+4748: retângulo 2253: círculo NÃO
+o? 2291 6820
+2291: retângulo 6820: retângulo NÃO
+o? 7607 8775
+7607: retângulo 8775: círculo NÃO
+o? 5837 4331
+5837: retângulo 4331: retângulo NÃO
+o? 9222 6037
+9222: círculo 6037: círculo NÃOo? 3737 1780
+3737: retângulo 1780: retângulo NÃO
+o? 1605 7213
+1605: círculo 7213: círculo NÃOo? 3624 1979
+3624: círculo 1979: retângulo NÃO
+o? 5865 5495
+5865: círculo 5495: retângulo NÃO
+o? 7291 650
+7291: círculo 650: retângulo NÃO
+o? 322 2567
+322: retângulo 2567: retângulo NÃO
+o? 4614 6115
+4614: círculo 6115: círculo NÃOo? 7136 5799
+7136: retângulo 5799: círculo NÃO
+o? 9776 8985
+9776: retângulo 8985: círculo NÃO
+o? 4197 5946
+4197: círculo 5946: círculo NÃOo? 4013 4721
+4013: retângulo 4721: retângulo NÃO
+o? 1757 8307
+1757: retângulo 8307: círculo NÃO
+o? 3351 1174
+3351: círculo 1174: retângulo NÃO
+o? 1322 6719
+1322: retângulo 6719: retângulo NÃO
+o? 9913 1895
+9913: círculo 1895: retângulo NÃO
+o? 5910 3124
+5910: círculo 3124: retângulo NÃO
+o? 1424 5533
+1424: retângulo 5533: círculo NÃO
+o? 5589 7862
+5589: círculo 7862: retângulo NÃO
+o? 6673 7922
+6673: círculo 7922: retângulo NÃO
+o? 4634 3500
+4634: retângulo 3500: retângulo NÃO
+o? 401 2076
+401: retângulo 2076: círculo NÃO
+o? 3809 5391
+3809: retângulo 5391: círculo NÃO
+o? 9267 6648
+9267: círculo 6648: círculo NÃOo? 1051 2987
+1051: círculo 2987: retângulo NÃO
+o? 6209 6820
+6209: retângulo 6820: retângulo NÃO
+o? 4650 255
+4650: círculo 255: círculo NÃOo? 9684 1291
+9684: círculo 1291: círculo NÃOo? 5483 2815
+5483: retângulo 2815: círculo NÃO
+o? 8017 2074
+8017: círculo 2074: retângulo NÃO
+o? 3241 922
+3241: círculo 922: retângulo NÃO
+o? 7602 2162
+7602: círculo 2162: retângulo NÃO
+o? 3837 6668
+3837: círculo 6668: retângulo NÃO
+o? 3139 2240
+3139: círculo 2240: retângulo NÃO
+o? 627 6638
+627: círculo 6638: retângulo NÃO
+o? 4397 5988
+4397: retângulo 5988: círculo NÃO
+o? 743 9401
+743: retângulo 9401: retângulo NÃO
+o? 6338 9071
+6338: retângulo 9071: retângulo NÃO
+o? 7725 9015
+7725: círculo 9015: círculo NÃOo? 8723 3618
+8723: retângulo 3618: círculo NÃO
+o? 2597 615
+2597: retângulo 615: círculo NÃO
+o? 7383 4692
+7383: círculo 4692: círculo NÃOo? 9257 4943
+9257: retângulo 4943: retângulo NÃO
+o? 3958 9736
+3958: retângulo 9736: retângulo NÃO
+o? 1970 1719
+1970: retângulo 1719: círculo NÃO
+o? 8265 1270
+8265: círculo 1270: retângulo NÃO
+o? 4993 3253
+4993: círculo 3253: círculo NÃOo? 9132 5825
+9132: círculo 5825: retângulo NÃO
+o? 3429 6948
+3429: círculo 6948: círculo NÃOo? 6994 164
+6994: retângulo 164: retângulo NÃO
+o? 1108 4293
+1108: retângulo 4293: círculo NÃO
+o? 6307 17
+6307: círculo 17: retângulo NÃO
+o? 9550 9476
+9550: retângulo 9476: retângulo NÃO
+o? 495 4965
+495: círculo 4965: círculo NÃOo? 6083 3128
+6083: retângulo 3128: retângulo NÃO
+o? 7539 3092
+7539: círculo 3092: retângulo NÃO
+o? 8723 5764
+8723: retângulo 5764: retângulo NÃO
+o? 3982 655
+3982: retângulo 655: círculo NÃO
+o? 9904 7879
+9904: retângulo 7879: círculo NÃO
+o? 5905 6474
+5905: círculo 6474: círculo NÃOo? 4811 6747
+4811: retângulo 6747: círculo NÃO
+o? 7364 4479
+7364: retângulo 4479: círculo NÃO
+o? 1135 5281
+1135: círculo 5281: círculo NÃOo? 9094 1103
+9094: retângulo 1103: retângulo NÃO
+o? 2566 3184
+2566: retângulo 3184: retângulo NÃO
+o? 8742 9603
+8742: círculo 9603: círculo NÃOo? 6016 9649
+6016: retângulo 9649: círculo NÃO
+o? 5824 8034
+5824: retângulo 8034: círculo NÃO
+o? 6755 3173
+6755: retângulo 3173: retângulo NÃO
+o? 2101 4659
+2101: círculo 4659: círculo NÃOo? 5598 9230
+5598: círculo 9230: retângulo NÃO
+o? 769 1004
+769: círculo 1004: retângulo NÃO
+o? 5238 6132
+5238: círculo 6132: círculo NÃOo? 8476 1957
+8476: retângulo 1957: círculo NÃO
+o? 4682 2999
+4682: retângulo 2999: retângulo NÃO
+o? 6649 9898
+6649: círculo 9898: retângulo NÃO
+o? 3067 6211
+3067: círculo 6211: círculo NÃOo? 1051 9439
+1051: círculo 9439: círculo NÃOo? 2004 7202
+2004: círculo 7202: retângulo NÃO
+o? 8372 8236
+8372: retângulo 8236: retângulo NÃO
+o? 9221 8962
+9221: retângulo 8962: retângulo NÃO
+o? 6267 3067
+6267: círculo 3067: círculo NÃOo? 6471 3520
+6471: círculo 3520: retângulo NÃO
+o? 3949 2647
+3949: círculo 2647: círculo NÃOo? 8137 7877
+8137: círculo 7877: retângulo NÃO
+o? 480 137
+480: círculo 137: retângulo NÃO
+o? 5858 703
+5858: retângulo 703: círculo NÃO
+o? 5105 64
+5105: retângulo 64: retângulo NÃO
+o? 6384 898
+6384: círculo 898: retângulo NÃO
+o? 7819 5699
+7819: círculo 5699: retângulo NÃO
+o? 520 960
+520: retângulo 960: círculo NÃO
+o? 7120 2333
+7120: retângulo 2333: retângulo NÃO
+o? 8440 810
+8440: retângulo 810: círculo NÃO
+o? 3194 1452
+3194: retângulo 1452: círculo NÃO
+o? 8950 6167
+8950: retângulo 6167: retângulo NÃO
+o? 9915 3228
+9915: círculo 3228: círculo NÃOo? 2040 7657
+2040: círculo 7657: círculo NÃOo? 3334 3166
+3334: retângulo 3166: retângulo NÃO
+o? 8211 8933
+8211: círculo 8933: retângulo NÃO
+o? 1498 2490
+1498: retângulo 2490: círculo NÃO
+o? 8932 8090
+8932: retângulo 8090: retângulo NÃO
+o? 112 8571
+112: retângulo 8571: círculo NÃO
+o? 9667 7748
+9667: círculo 7748: retângulo NÃO
+o? 1014 656
+1014: círculo 656: retângulo NÃO
+o? 6667 1178
+6667: círculo 1178: retângulo NÃO
+o? 2416 4567
+2416: retângulo 4567: círculo NÃO
+o? 7785 3830
+7785: círculo 3830: retângulo NÃO
+o? 7166 4686
+7166: retângulo 4686: círculo NÃO
+o? 1712 9307
+1712: retângulo 9307: círculo NÃO
+o? 7600 2119
+7600: retângulo 2119: círculo NÃO
+o? 2461 7764
+2461: círculo 7764: círculo NÃOo? 9603 8096
+9603: círculo 8096: retângulo NÃO
+o? 793 264
+793: círculo 264: círculo NÃOo? 8698 6480
+8698: retângulo 6480: círculo NÃO
+o? 123 4904
+123: círculo 4904: retângulo NÃO
+o? 3112 5454
+3112: retângulo 5454: círculo NÃO
+o? 6208 109
+6208: retângulo 109: círculo NÃO
+o? 574 6317
+574: retângulo 6317: retângulo NÃO
+o? 4486 6649
+4486: retângulo 6649: círculo NÃO
+o? 6448 3522
+6448: retângulo 3522: círculo NÃO
+o? 5849 8234
+5849: retângulo 8234: retângulo NÃO
+o? 3655 4191
+3655: círculo 4191: círculo NÃOo? 5031 8969
+5031: círculo 8969: retângulo NÃO
+o? 6665 1249
+6665: retângulo 1249: círculo NÃO
+o? 2003 3363
+2003: retângulo 3363: círculo NÃO
+o? 2053 1322
+2053: círculo 1322: retângulo NÃO
+o? 3733 4306
+3733: círculo 4306: retângulo NÃO
+o? 6362 7982
+6362: retângulo 7982: retângulo NÃO
+o? 3101 1569
+3101: retângulo 1569: círculo NÃO
+o? 3024 9245
+3024: círculo 9245: retângulo NÃO
+o? 9284 2989
+9284: retângulo 2989: círculo NÃO
+o? 4507 1567
+4507: círculo 1567: círculo NÃOo? 3484 113
+3484: retângulo 113: retângulo NÃO
+o? 5715 7029
+5715: círculo 7029: círculo NÃOo? 6839 2026
+6839: retângulo 2026: retângulo NÃO
+o? 3731 2904
+3731: retângulo 2904: círculo NÃO
+o? 3721 8988
+3721: círculo 8988: círculo NÃOo? 6621 9915
+6621: círculo 9915: círculo NÃOo? 3612 5627
+3612: círculo 5627: retângulo NÃO
+o? 6412 8204
+6412: retângulo 8204: retângulo NÃO
+o? 7457 1279
+7457: retângulo 1279: círculo NÃO
+o? 4755 9319
+4755: círculo 9319: círculo SIMo? 4863 5362
+4863: círculo 5362: retângulo NÃO
+o? 8971 5161
+8971: círculo 5161: círculo NÃOo? 6542 8793
+6542: retângulo 8793: círculo NÃO
+o? 3992 8752
+3992: retângulo 8752: retângulo NÃO
+o? 899 5660
+899: retângulo 5660: retângulo NÃO
+o? 7246 6052
+7246: retângulo 6052: retângulo NÃO
+o? 7788 6807
+7788: círculo 6807: círculo NÃOo? 4819 6838
+4819: círculo 6838: retângulo NÃO
+o? 7869 9712
+7869: círculo 9712: retângulo NÃO
+o? 673 6545
+673: círculo 6545: retângulo NÃO
+o? 9910 3999
+9910: retângulo 3999: círculo NÃO
+o? 8164 1055
+8164: retângulo 1055: retângulo NÃO
+o? 3777 2029
+3777: círculo 2029: círculo NÃOo? 2371 2025
+2371: círculo 2025: círculo NÃOo? 8277 7704
+8277: círculo 7704: círculo NÃOo? 5300 7869
+5300: retângulo 7869: círculo NÃO
+o? 7670 110
+7670: retângulo 110: retângulo NÃO
+o? 7535 3400
+7535: retângulo 3400: retângulo NÃO
+o? 5557 6259
+5557: círculo 6259: círculo NÃOo? 5249 6389
+5249: retângulo 6389: retângulo NÃO
+o? 9640 9278
+9640: retângulo 9278: retângulo NÃO
+o? 2927 6433
+2927: retângulo 6433: círculo NÃO
+o? 2915 6102
+2915: retângulo 6102: círculo NÃO
+o? 1540 554
+1540: retângulo 554: retângulo NÃO
+o? 645 1404
+645: círculo 1404: círculo NÃOo? 739 9090
+739: círculo 9090: círculo NÃOo? 6801 1861
+6801: círculo 1861: círculo NÃOo? 6005 6766
+6005: retângulo 6766: retângulo NÃO
+o? 16 7682
+16: retângulo 7682: retângulo NÃO
+o? 1904 7932
+1904: retângulo 7932: círculo NÃO
+o? 4891 4049
+4891: círculo 4049: retângulo NÃO
+o? 779 9312
+779: retângulo 9312: círculo NÃO
+o? 9512 7096
+9512: retângulo 7096: retângulo NÃO
+o? 6749 1222
+6749: retângulo 1222: retângulo NÃO
+o? 3114 8157
+3114: círculo 8157: círculo NÃOo? 9577 2416
+9577: círculo 2416: retângulo NÃO
+o? 1124 3966
+1124: retângulo 3966: círculo NÃO
+o? 1870 1110
+1870: retângulo 1110: círculo NÃO
+o? 1679 6084
+1679: retângulo 6084: círculo NÃO
+o? 2020 3801
+2020: retângulo 3801: círculo NÃO
+o? 9054 385
+9054: círculo 385: círculo NÃOo? 7159 3413
+7159: círculo 3413: retângulo NÃO
+o? 4750 8675
+4750: retângulo 8675: retângulo NÃO
+o? 2396 6782
+2396: retângulo 6782: retângulo NÃO
+o? 3961 617
+3961: círculo 617: retângulo NÃO
+o? 1537 4437
+1537: círculo 4437: círculo NÃOo? 8268 596
+8268: círculo 596: retângulo NÃO
+o? 1134 3213
+1134: círculo 3213: círculo NÃOo? 5058 4899
+5058: círculo 4899: círculo NÃOo? 9752 318
+9752: retângulo 318: círculo NÃO
+o? 9593 2683
+9593: retângulo 2683: círculo NÃO
+o? 9381 3633
+9381: círculo 3633: círculo NÃOo? 4566 6984
+4566: círculo 6984: círculo NÃOo? 35 3547
+35: retângulo 3547: círculo NÃO
+o? 6394 8108
+6394: retângulo 8108: retângulo NÃO
+o? 4826 6552
+4826: retângulo 6552: círculo NÃO
+o? 2672 5425
+2672: retângulo 5425: círculo NÃO
+o? 6616 6549
+6616: retângulo 6549: círculo NÃO
+o? 9626 4046
+9626: retângulo 4046: retângulo NÃO
+o? 5741 3491
+5741: retângulo 3491: retângulo NÃO
+o? 6296 1293
+6296: retângulo 1293: círculo NÃO
+o? 5524 6646
+5524: retângulo 6646: retângulo NÃO
+o? 6676 1948
+6676: retângulo 1948: retângulo NÃO
+o? 4085 7944
+4085: retângulo 7944: círculo NÃO
+o? 6297 8451
+6297: círculo 8451: círculo NÃOo? 6831 3144
+6831: círculo 3144: círculo NÃOo? 2670 3260
+2670: círculo 3260: retângulo NÃO
+o? 266 6175
+266: retângulo 6175: círculo NÃO
+o? 9813 1656
+9813: círculo 1656: círculo NÃOo? 7552 7933
+7552: retângulo 7933: círculo NÃO
+o? 941 9739
+941: retângulo 9739: círculo NÃO
+o? 6438 5286
+6438: círculo 5286: círculo NÃOo? 3589 5151
+3589: círculo 5151: círculo NÃOo? 9426 4963
+9426: círculo 4963: círculo NÃOo? 1451 2093
+1451: retângulo 2093: retângulo NÃO
+o? 9165 3144
+9165: círculo 3144: círculo NÃOo? 590 3892
+590: retângulo 3892: retângulo NÃO
+o? 5744 7117
+5744: retângulo 7117: círculo NÃO
+o? 6272 3167
+6272: retângulo 3167: retângulo NÃO
+o? 9864 229
+9864: círculo 229: círculo NÃOo? 5849 8685
+5849: retângulo 8685: círculo NÃO
+o? 9092 5484
+9092: retângulo 5484: círculo NÃO
+o? 5706 2809
+5706: círculo 2809: círculo NÃOo? 6925 5932
+6925: círculo 5932: retângulo NÃO
+o? 6229 6981
+6229: círculo 6981: círculo NÃOo? 6117 1793
+6117: círculo 1793: retângulo NÃO
+o? 5825 5325
+5825: retângulo 5325: círculo NÃO
+o? 3797 1869
+3797: retângulo 1869: círculo NÃO
+o? 9484 140
+9484: retângulo 140: retângulo NÃO
+o? 4514 1528
+4514: retângulo 1528: retângulo NÃO
+o? 6748 2746
+6748: retângulo 2746: retângulo NÃO
+o? 9665 7548
+9665: retângulo 7548: círculo NÃO
+o? 4090 9718
+4090: retângulo 9718: retângulo NÃO
+o? 2099 4878
+2099: retângulo 4878: círculo NÃO
+o? 970 6988
+970: retângulo 6988: retângulo NÃO
+o? 2185 5695
+2185: círculo 5695: círculo NÃOo? 9060 6891
+9060: círculo 6891: círculo NÃOo? 4731 2478
+4731: círculo 2478: círculo NÃOo? 2444 5769
+2444: retângulo 5769: círculo NÃO
+o? 8301 3903
+8301: círculo 3903: círculo NÃOo? 7253 5497
+7253: retângulo 5497: círculo NÃO
+o? 4825 3780
+4825: círculo 3780: círculo NÃOo? 4489 1907
+4489: círculo 1907: retângulo NÃO
+o? 2437 5407
+2437: círculo 5407: círculo NÃOo? 5177 5730
+5177: retângulo 5730: círculo NÃO
+o? 455 9665
+455: retângulo 9665: retângulo NÃO
+o? 3475 3130
+3475: círculo 3130: retângulo NÃO
+o? 2263 6492
+2263: círculo 6492: círculo NÃOo? 3481 8027
+3481: círculo 8027: retângulo NÃO
+o? 1439 2437
+1439: retângulo 2437: círculo NÃO
+o? 7919 1385
+7919: retângulo 1385: retângulo NÃO
+o? 5219 4364
+5219: retângulo 4364: retângulo NÃO
+o? 632 7191
+632: retângulo 7191: círculo NÃO
+o? 6571 8716
+6571: círculo 8716: retângulo NÃO
+o? 1635 5573
+1635: círculo 5573: retângulo NÃO
+o? 6541 7373
+6541: círculo 7373: retângulo NÃO
+o? 4159 5618
+4159: círculo 5618: retângulo NÃO
+o? 2489 9356
+2489: retângulo 9356: retângulo NÃO
+o? 3679 3247
+3679: círculo 3247: círculo NÃOo? 6638 9220
+6638: retângulo 9220: retângulo NÃO
+o? 4614 5374
+4614: círculo 5374: retângulo NÃO
+o? 714 3978
+714: círculo 3978: círculo NÃOo? 465 376
+465: círculo 376: retângulo NÃO
+o? 1435 5132
+1435: círculo 5132: retângulo NÃO
+o? 6485 7215
+6485: retângulo 7215: círculo NÃO
+o? 3237 8132
+3237: círculo 8132: retângulo NÃO
+o? 3339 7046
+3339: círculo 7046: retângulo NÃO
+o? 6860 1450
+6860: retângulo 1450: retângulo NÃO
+o? 6146 194
+6146: retângulo 194: retângulo NÃO
+o? 1702 2212
+1702: retângulo 2212: retângulo NÃO
+o? 3376 883
+3376: retângulo 883: círculo NÃO
+o? 72 9711
+72: círculo 9711: círculo NÃOo? 2079 995
+2079: círculo 995: retângulo NÃO
+o? 3517 4796
+3517: círculo 4796: retângulo NÃO
+o? 8269 6483
+8269: círculo 6483: círculo NÃOo? 5309 4471
+5309: retângulo 4471: círculo NÃO
+o? 8992 6096
+8992: retângulo 6096: círculo NÃO
+o? 9255 406
+9255: círculo 406: retângulo NÃO
+o? 3310 5115
+3310: retângulo 5115: círculo NÃO
+o? 4601 7288
+4601: retângulo 7288: retângulo NÃO
+o? 4711 1162
+4711: círculo 1162: retângulo NÃO
+o? 5436 8615
+5436: círculo 8615: retângulo NÃO
+o? 7388 6695
+7388: retângulo 6695: retângulo NÃO
+o? 7012 9319
+7012: retângulo 9319: círculo NÃO
+o? 6908 6482
+6908: retângulo 6482: retângulo NÃO
+o? 655 3743
+655: círculo 3743: retângulo NÃO
+o? 2688 9094
+2688: círculo 9094: retângulo NÃO
+o? 5913 8370
+5913: círculo 8370: círculo NÃOo? 3143 2537
+3143: retângulo 2537: retângulo NÃO
+o? 9076 2869
+9076: retângulo 2869: círculo NÃO
+o? 6295 4378
+6295: círculo 4378: retângulo NÃO
+o? 568 5089
+568: retângulo 5089: círculo NÃO
+o? 2373 5430
+2373: círculo 5430: círculo NÃOo? 1154 2510
+1154: retângulo 2510: retângulo NÃO
+o? 4629 905
+4629: círculo 905: retângulo NÃO
+o? 9879 6694
+9879: círculo 6694: retângulo NÃO
+o? 420 917
+420: círculo 917: retângulo NÃO
+o? 6074 9283
+6074: retângulo 9283: círculo NÃO
+o? 5438 2711
+5438: retângulo 2711: retângulo NÃO
+o? 103 8629
+103: círculo 8629: círculo SIMo? 3678 3410
+3678: círculo 3410: retângulo NÃO
+o? 6019 4756
+6019: círculo 4756: retângulo NÃO
+o? 9595 3580
+9595: círculo 3580: retângulo NÃO
+o? 1358 9058
+1358: retângulo 9058: retângulo NÃO
+o? 2198 1054
+2198: retângulo 1054: retângulo NÃO
+o? 4089 9140
+4089: círculo 9140: retângulo NÃO
+o? 3507 5302
+3507: círculo 5302: retângulo NÃO
+o? 895 7676
+895: círculo 7676: retângulo NÃO
+o? 7465 8214
+7465: círculo 8214: círculo NÃOo? 2576 3125
+2576: retângulo 3125: retângulo NÃO
+o? 6765 4432
+6765: círculo 4432: retângulo NÃO
+o? 7168 6206
+7168: retângulo 6206: retângulo NÃO
+o? 5619 4780
+5619: círculo 4780: retângulo NÃO
+o? 9151 3365
+9151: círculo 3365: retângulo NÃO
+o? 2230 4090
+2230: retângulo 4090: retângulo NÃO
+o? 7635 7815
+7635: círculo 7815: círculo NÃOo? 4996 9800
+4996: retângulo 9800: retângulo NÃO
+o? 6589 6792
+6589: círculo 6792: círculo NÃOo? 120 9201
+120: círculo 9201: círculo NÃOo? 9321 3553
+9321: círculo 3553: círculo NÃOo? 2077 8691
+2077: círculo 8691: círculo NÃOo? 3480 5709
+3480: círculo 5709: círculo NÃOo? 1700 1861
+1700: retângulo 1861: círculo NÃO
+o? 3715 4080
+3715: círculo 4080: círculo NÃOo? 4200 9851
+4200: círculo 9851: retângulo NÃO
+o? 5699 9702
+5699: retângulo 9702: círculo NÃO
+o? 3989 3650
+3989: retângulo 3650: retângulo NÃO
+o? 6834 9691
+6834: círculo 9691: círculo NÃOo? 5046 1501
+5046: círculo 1501: círculo NÃOo? 2473 7764
+2473: círculo 7764: círculo NÃOo? 4540 3916
+4540: retângulo 3916: retângulo NÃO
+o? 6322 4637
+6322: retângulo 4637: retângulo NÃO
+o? 6779 5299
+6779: retângulo 5299: círculo NÃO
+o? 6385 9804
+6385: círculo 9804: círculo NÃOo? 7916 7355
+7916: retângulo 7355: retângulo NÃO
+o? 4691 965
+4691: retângulo 965: retângulo NÃO
+o? 772 5899
+772: retângulo 5899: círculo NÃO
+o? 6019 7262
+6019: círculo 7262: retângulo NÃO
+o? 9609 5263
+9609: círculo 5263: círculo NÃOo? 9901 654
+9901: círculo 654: círculo NÃOo? 9506 5066
+9506: retângulo 5066: retângulo NÃO
+o? 7968 8626
+7968: círculo 8626: retângulo NÃO
+o? 9111 9410
+9111: círculo 9410: retângulo NÃO
+o? 2732 3573
+2732: retângulo 3573: círculo NÃO
+o? 3287 3074
+3287: retângulo 3074: retângulo NÃO
+o? 227 1463
+227: retângulo 1463: retângulo NÃO
+o? 6026 8890
+6026: retângulo 8890: retângulo NÃO
+o? 9921 4837
+9921: círculo 4837: círculo NÃOo? 7649 310
+7649: retângulo 310: retângulo NÃO
+o? 7710 2779
+7710: círculo 2779: círculo NÃOo? 7100 4379
+7100: retângulo 4379: retângulo NÃO
+o? 349 2810
+349: círculo 2810: retângulo NÃO
+o? 5562 943
+5562: círculo 943: círculo NÃOo? 9903 8293
+9903: círculo 8293: círculo NÃOo? 6466 402
+6466: retângulo 402: círculo NÃO
+o? 8236 7749
+8236: retângulo 7749: círculo NÃO
+o? 9301 6484
+9301: círculo 6484: retângulo NÃO
+o? 4765 7718
+4765: círculo 7718: retângulo NÃO
+o? 1812 1094
+1812: círculo 1094: retângulo NÃO
+o? 8481 404
+8481: círculo 404: retângulo NÃO
+o? 1276 3792
+1276: retângulo 3792: círculo NÃO
+o? 7789 1886
+7789: círculo 1886: retângulo NÃO
+o? 6859 2147
+6859: círculo 2147: retângulo NÃO
+o? 8758 4751
+8758: retângulo 4751: retângulo NÃO
+o? 9428 1709
+9428: retângulo 1709: retângulo NÃO
+o? 8819 2248
+8819: retângulo 2248: retângulo NÃO
+o? 6062 7830
+6062: retângulo 7830: círculo NÃO
+o? 2703 2503
+2703: círculo 2503: círculo NÃOo? 4489 2936
+4489: círculo 2936: retângulo NÃO
+o? 5675 1937
+5675: retângulo 1937: retângulo NÃO
+o? 4589 5715
+4589: retângulo 5715: círculo NÃO
+o? 7442 2921
+7442: retângulo 2921: retângulo NÃO
+o? 7521 2903
+7521: círculo 2903: retângulo NÃO
+o? 9308 1764
+9308: retângulo 1764: círculo NÃO
+o? 805 9131
+805: círculo 9131: retângulo NÃO
+o? 7418 8547
+7418: retângulo 8547: círculo NÃO
+o? 7021 8253
+7021: círculo 8253: círculo NÃOo? 4544 2814
+4544: retângulo 2814: círculo NÃO
+o? 3712 5785
+3712: retângulo 5785: círculo NÃO
+o? 628 1749
+628: retângulo 1749: círculo NÃO
+o? 8277 7928
+8277: círculo 7928: retângulo NÃO
+o? 4113 7108
+4113: círculo 7108: retângulo NÃO
+o? 7443 4641
+7443: círculo 4641: círculo NÃOo? 1422 7319
+1422: círculo 7319: retângulo NÃO
+o? 232 121
+232: retângulo 121: círculo NÃO
+o? 7476 1557
+7476: círculo 1557: círculo NÃOo? 7005 9984
+7005: círculo 9984: círculo NÃOo? 5400 3455
+5400: círculo 3455: retângulo NÃO
+o? 8612 990
+8612: retângulo 990: círculo NÃO
+o? 9771 9467
+9771: círculo 9467: retângulo NÃO
+o? 6863 8621
+6863: retângulo 8621: retângulo NÃO
+o? 5311 5315
+5311: círculo 5315: retângulo NÃO
+o? 6743 763
+6743: retângulo 763: círculo NÃO
+o? 8733 8332
+8733: círculo 8332: retângulo NÃO
+o? 9080 9444
+9080: retângulo 9444: círculo NÃO
+o? 1966 4575
+1966: retângulo 4575: círculo NÃO
+o? 6064 5681
+6064: retângulo 5681: retângulo NÃO
+o? 723 4541
+723: círculo 4541: retângulo NÃO
+o? 711 8861
+711: círculo 8861: retângulo NÃO
+o? 987 2011
+987: círculo 2011: círculo NÃOo? 9094 187
+9094: retângulo 187: círculo NÃO
+o? 1215 4470
+1215: círculo 4470: círculo NÃOo? 3734 1140
+3734: retângulo 1140: círculo NÃO
+o? 2109 7119
+2109: círculo 7119: círculo NÃOo? 554 5208
+554: retângulo 5208: círculo NÃO
+o? 4679 2069
+4679: retângulo 2069: retângulo NÃO
+o? 5209 4661
+5209: círculo 4661: retângulo NÃO
+o? 8690 3035
+8690: retângulo 3035: retângulo NÃO
+o? 9031 6921
+9031: círculo 6921: círculo NÃOo? 4279 6886
+4279: círculo 6886: retângulo NÃO
+o? 6735 1852
+6735: círculo 1852: retângulo NÃO
+o? 5147 3498
+5147: retângulo 3498: círculo NÃO
+o? 5701 6099
+5701: círculo 6099: círculo NÃOo? 4929 1794
+4929: círculo 1794: círculo NÃOo? 3492 3695
+3492: círculo 3695: retângulo NÃO
+o? 4957 7376
+4957: círculo 7376: retângulo NÃO
+o? 4723 6316
+4723: círculo 6316: retângulo NÃO
+o? 735 8553
+735: círculo 8553: círculo NÃOo? 9797 8709
+9797: retângulo 8709: círculo NÃO
+o? 3326 7385
+3326: retângulo 7385: retângulo NÃO
+o? 7955 7213
+7955: retângulo 7213: círculo NÃO
+o? 5105 5420
+5105: retângulo 5420: retângulo NÃO
+o? 6108 8534
+6108: círculo 8534: retângulo NÃO
+o? 3666 7508
+3666: círculo 7508: retângulo NÃO
+o? 721 3066
+721: círculo 3066: círculo NÃOo? 7692 3417
+7692: círculo 3417: círculo NÃOo? 3479 9522
+3479: retângulo 9522: círculo SIM
+o? 8928 4312
+8928: círculo 4312: retângulo NÃO
+o? 4143 5806
+4143: círculo 5806: retângulo NÃO
+o? 7628 3058
+7628: retângulo 3058: retângulo NÃO
+o? 1730 5796
+1730: retângulo 5796: círculo NÃO
+o? 7240 351
+7240: retângulo 351: círculo NÃO
+o? 4485 5061
+4485: círculo 5061: círculo NÃOo? 8475 6142
+8475: círculo 6142: retângulo NÃO
+o? 7854 4928
+7854: círculo 4928: retângulo NÃO
+o? 9821 1879
+9821: retângulo 1879: círculo NÃO
+o? 1070 6868
+1070: retângulo 6868: retângulo NÃO
+o? 1512 7973
+1512: círculo 7973: retângulo NÃO
+o? 8136 8286
+8136: círculo 8286: círculo NÃOo? 9599 7788
+9599: retângulo 7788: círculo NÃO
+o? 8104 475
+8104: retângulo 475: círculo NÃO
+o? 3160 2651
+3160: retângulo 2651: retângulo NÃO
+o? 6068 1164
+6068: retângulo 1164: círculo NÃO
+o? 876 1932
+876: círculo 1932: círculo NÃOo? 3666 3508
+3666: círculo 3508: retângulo NÃO
+o? 9412 3260
+9412: retângulo 3260: retângulo NÃO
+o? 6116 9617
+6116: retângulo 9617: retângulo NÃO
+o? 7429 4510
+7429: círculo 4510: retângulo NÃO
+o? 5715 9543
+5715: círculo 9543: círculo NÃOo? 9913 1721
+9913: círculo 1721: retângulo NÃO
+o? 8010 906
+8010: círculo 906: círculo NÃOo? 1832 4430
+1832: retângulo 4430: retângulo NÃO
+o? 8674 2635
+8674: retângulo 2635: círculo NÃO
+o? 7171 9716
+7171: círculo 9716: retângulo NÃO
+o? 8020 6511
+8020: retângulo 6511: círculo NÃO
+o? 4163 1144
+4163: retângulo 1144: retângulo NÃO
+o? 4264 9847
+4264: retângulo 9847: círculo NÃO
+o? 1149 2600
+1149: círculo 2600: retângulo NÃO
+o? 3094 7481
+3094: retângulo 7481: retângulo NÃO
+o? 9981 511
+9981: círculo 511: círculo NÃOo? 8470 2379
+8470: retângulo 2379: círculo NÃO
+o? 4411 800
+4411: círculo 800: retângulo NÃO
+o? 7459 8696
+7459: círculo 8696: retângulo NÃO
+o? 8639 415
+8639: retângulo 415: círculo NÃO
+o? 1213 2549
+1213: círculo 2549: retângulo NÃO
+o? 970 7354
+970: retângulo 7354: retângulo NÃO
+o? 8596 3155
+8596: retângulo 3155: retângulo NÃO
+o? 9559 8457
+9559: círculo 8457: círculo NÃOo? 3742 5845
+3742: retângulo 5845: círculo NÃO
+o? 5198 2842
+5198: retângulo 2842: retângulo NÃO
+o? 7608 3011
+7608: círculo 3011: retângulo NÃO
+o? 7792 1722
+7792: retângulo 1722: círculo NÃO
+o? 5043 730
+5043: círculo 730: retângulo NÃO
+o? 2426 8796
+2426: retângulo 8796: círculo NÃO
+o? 4160 3927
+4160: retângulo 3927: círculo NÃO
+o? 3008 1685
+3008: retângulo 1685: retângulo NÃO
+o? 2563 2153
+2563: círculo 2153: retângulo NÃO
+o? 251 8253
+251: retângulo 8253: círculo NÃO
+o? 1994 6281
+1994: retângulo 6281: retângulo NÃO
+o? 6095 2473
+6095: retângulo 2473: círculo NÃO
+o? 3689 5886
+3689: retângulo 5886: círculo NÃO
+o? 3238 1548
+3238: retângulo 1548: círculo NÃO
+o? 7845 4624
+7845: círculo 4624: retângulo NÃO
+o? 4933 9888
+4933: círculo 9888: círculo NÃOo? 4312 6002
+4312: retângulo 6002: retângulo NÃO
+o? 3728 989
+3728: retângulo 989: retângulo NÃO
+o? 7197 5662
+7197: círculo 5662: retângulo NÃO
+o? 4337 9709
+4337: retângulo 9709: círculo NÃO
+o? 2510 6354
+2510: retângulo 6354: círculo NÃO
+o? 7641 9971
+7641: círculo 9971: retângulo NÃO
+o? 6100 6262
+6100: retângulo 6262: retângulo NÃO
+o? 6562 5319
+6562: retângulo 5319: círculo NÃO
+o? 664 1957
+664: retângulo 1957: círculo NÃO
+o? 1816 7016
+1816: retângulo 7016: retângulo NÃO
+o? 4136 1087
+4136: retângulo 1087: círculo NÃO
+o? 70 6246
+70: retângulo 6246: círculo NÃO
+o? 6392 9561
+6392: retângulo 9561: círculo NÃO
+o? 9118 7654
+9118: retângulo 7654: retângulo NÃO
+o? 2650 1760
+2650: retângulo 1760: retângulo NÃO
+o? 8871 902
+8871: círculo 902: retângulo NÃO
+o? 4743 8099
+4743: círculo 8099: retângulo NÃO
+o? 7114 1908
+7114: retângulo 1908: círculo NÃO
+o? 8534 6123
+8534: retângulo 6123: círculo NÃO
+o? 4818 6744
+4818: círculo 6744: círculo NÃOo? 1766 6887
+1766: retângulo 6887: retângulo NÃO
+o? 1507 3536
+1507: círculo 3536: retângulo NÃO
+o? 662 8679
+662: retângulo 8679: círculo NÃO
+o? 4293 9776
+4293: círculo 9776: retângulo NÃO
+o? 4658 6651
+4658: retângulo 6651: círculo NÃO
+o? 2404 346
+2404: retângulo 346: retângulo NÃO
+o? 7407 7443
+7407: círculo 7443: círculo NÃOo? 5747 5950
+5747: retângulo 5950: retângulo NÃO
+o? 4237 7487
+4237: círculo 7487: retângulo NÃO
+o? 132 141
+132: círculo 141: círculo NÃOo? 8250 751
+8250: círculo 751: círculo NÃOo? 942 9814
+942: círculo 9814: retângulo NÃO
+o? 8716 2339
+8716: retângulo 2339: retângulo NÃO
+o? 92 6662
+92: retângulo 6662: retângulo NÃO
+o? 4403 8062
+4403: retângulo 8062: retângulo NÃO
+o? 7366 661
+7366: retângulo 661: círculo NÃO
+o? 7908 9735
+7908: círculo 9735: círculo NÃOo? 1529 2768
+1529: retângulo 2768: retângulo NÃO
+o? 2492 3613
+2492: retângulo 3613: círculo NÃO
+o? 5479 5943
+5479: círculo 5943: círculo NÃOo? 9585 917
+9585: círculo 917: retângulo NÃO
+o? 5613 6731
+5613: círculo 6731: retângulo NÃO
+o? 315 8359
+315: círculo 8359: círculo NÃOo? 2691 5824
+2691: círculo 5824: retângulo NÃO
+o? 3992 2983
+3992: retângulo 2983: círculo NÃO
+o? 7485 5698
+7485: círculo 5698: retângulo NÃO
+o? 3101 3661
+3101: retângulo 3661: círculo NÃO
+o? 9967 5869
+9967: círculo 5869: círculo NÃOo? 9648 2428
+9648: círculo 2428: retângulo NÃO
+o? 7158 6737
+7158: círculo 6737: retângulo NÃO
+o? 2491 9452
+2491: círculo 9452: retângulo NÃO
+o? 1828 9157
+1828: retângulo 9157: círculo NÃO
+o? 6560 9405
+6560: retângulo 9405: círculo NÃO
+o? 4700 2347
+4700: retângulo 2347: círculo NÃO
+o? 8166 7443
+8166: círculo 7443: círculo NÃOo? 6628 2705
+6628: retângulo 2705: retângulo NÃO
+o? 6644 1971
+6644: retângulo 1971: círculo NÃO
+o? 9663 2669
+9663: círculo 2669: retângulo NÃO
+o? 7878 1358
+7878: círculo 1358: retângulo NÃO
+o? 9274 1983
+9274: retângulo 1983: círculo NÃO
+o? 4221 4761
+4221: círculo 4761: círculo NÃOo? 3192 3039
+3192: círculo 3039: círculo NÃOo? 5564 3215
+5564: retângulo 3215: retângulo NÃO
+o? 6412 9680
+6412: retângulo 9680: retângulo NÃO
+o? 6051 8209
+6051: círculo 8209: círculo NÃOo? 4709 1707
+4709: retângulo 1707: círculo NÃO
+o? 9148 459
+9148: retângulo 459: círculo NÃO
+o? 3230 6829
+3230: retângulo 6829: círculo NÃO
+o? 8096 636
+8096: retângulo 636: círculo NÃO
+o? 8916 4557
+8916: círculo 4557: círculo NÃOo? 2154 7676
+2154: círculo 7676: retângulo NÃO
+o? 8021 1856
+8021: retângulo 1856: retângulo NÃO
+o? 9198 4989
+9198: círculo 4989: círculo NÃOo? 1420 7325
+1420: retângulo 7325: retângulo NÃO
+o? 7166 8405
+7166: retângulo 8405: retângulo NÃO
+o? 3022 8949
+3022: retângulo 8949: círculo NÃO
+o? 2146 4372
+2146: retângulo 4372: retângulo NÃO
+o? 3637 1329
+3637: círculo 1329: círculo NÃOo? 4077 5381
+4077: círculo 5381: retângulo NÃO
+o? 2050 9337
+2050: retângulo 9337: círculo NÃO
+o? 8172 168
+8172: círculo 168: círculo NÃOo? 7055 5345
+7055: retângulo 5345: retângulo NÃO
+o? 1504 2084
+1504: retângulo 2084: retângulo NÃO
+o? 9998 2254
+9998: retângulo 2254: retângulo NÃO
+o? 2288 2795
+2288: retângulo 2795: retângulo NÃO
+o? 7644 8512
+7644: círculo 8512: retângulo NÃO
+o? 1224 4867
+1224: círculo 4867: círculo NÃOo? 454 2118
+454: retângulo 2118: círculo NÃO
+o? 7839 4300
+7839: círculo 4300: retângulo NÃO
+o? 6674 2290
+6674: retângulo 2290: retângulo NÃO
+o? 5689 4812
+5689: círculo 4812: círculo NÃOo? 4162 5165
+4162: retângulo 5165: retângulo NÃO
+o? 654 6013
+654: círculo 6013: círculo NÃOo? 4118 3357
+4118: retângulo 3357: círculo NÃO
+o? 839 7913
+839: retângulo 7913: retângulo NÃO
+o? 3120 9983
+3120: círculo 9983: retângulo NÃO
+o? 5648 2130
+5648: retângulo 2130: círculo NÃO
+o? 2185 6438
+2185: círculo 6438: círculo NÃOo? 2654 9644
+2654: retângulo 9644: retângulo NÃO
+o? 6694 8500
+6694: retângulo 8500: retângulo NÃO
+o? 4694 7799
+4694: retângulo 7799: retângulo NÃO
+o? 8133 3522
+8133: círculo 3522: círculo NÃOo? 1008 7216
+1008: círculo 7216: retângulo NÃO
+o? 370 6826
+370: retângulo 6826: retângulo NÃO
+o? 8470 4184
+8470: retângulo 4184: retângulo NÃO
+o? 5965 939
+5965: círculo 939: círculo NÃOo? 7227 7670
+7227: círculo 7670: retângulo NÃO
+o? 8125 8284
+8125: círculo 8284: retângulo NÃO
+o? 3717 9850
+3717: círculo 9850: retângulo NÃO
+o? 1350 9698
+1350: círculo 9698: retângulo NÃO
+o? 3982 3204
+3982: retângulo 3204: círculo NÃO
+o? 4273 3515
+4273: círculo 3515: retângulo NÃO
+o? 5228 6571
+5228: retângulo 6571: círculo NÃO
+o? 650 6998
+650: retângulo 6998: retângulo NÃO
+o? 8286 6994
+8286: círculo 6994: retângulo NÃO
+o? 9635 8425
+9635: retângulo 8425: círculo NÃO
+o? 1648 159
+1648: retângulo 159: círculo NÃO
+o? 7462 7104
+7462: retângulo 7104: círculo NÃO
+o? 5915 4957
+5915: retângulo 4957: círculo NÃO
+o? 6473 1457
+6473: retângulo 1457: retângulo NÃO
+o? 157 9589
+157: círculo 9589: círculo NÃOo? 6175 2595
+6175: círculo 2595: círculo NÃOo? 2811 4158
+2811: círculo 4158: círculo NÃOo? 6811 5164
+6811: círculo 5164: retângulo NÃO
+o? 3815 1407
+3815: retângulo 1407: círculo NÃO
+o? 6599 7009
+6599: retângulo 7009: círculo NÃO
+o? 185 934
+185: retângulo 934: retângulo NÃO
+o? 6740 3799
+6740: retângulo 3799: círculo NÃO
+o? 6728 4675
+6728: retângulo 4675: círculo NÃO
+o? 8801 449
+8801: retângulo 449: retângulo NÃO
+o? 4065 7051
+4065: círculo 7051: círculo NÃOo? 9873 3164
+9873: círculo 3164: retângulo NÃO
+o? 81 199
+81: círculo 199: círculo NÃOo? 6998 4232
+6998: retângulo 4232: retângulo NÃO
+o? 4474 8462
+4474: retângulo 8462: retângulo NÃO
+o? 6384 585
+6384: círculo 585: círculo NÃOo? 7966 9079
+7966: retângulo 9079: círculo NÃO
+o? 7819 6938
+7819: círculo 6938: retângulo NÃO
+o? 6140 5597
+6140: retângulo 5597: retângulo NÃO
+o? 8591 5364
+8591: retângulo 5364: círculo NÃO
+o? 3903 8378
+3903: círculo 8378: retângulo NÃO
+o? 7091 8300
+7091: retângulo 8300: retângulo NÃO
+o? 5652 3584
+5652: círculo 3584: retângulo NÃO
+o? 4723 6734
+4723: círculo 6734: retângulo NÃO
+o? 3145 7122
+3145: círculo 7122: círculo NÃOo? 7711 6546
+7711: círculo 6546: círculo NÃOo? 5903 1664
+5903: retângulo 1664: retângulo NÃO
+o? 3767 6997
+3767: retângulo 6997: círculo NÃO
+o? 1806 4062
+1806: círculo 4062: círculo NÃOo? 6656 7539
+6656: retângulo 7539: círculo NÃO
+o? 485 7477
+485: retângulo 7477: círculo NÃO
+o? 3908 265
+3908: retângulo 265: círculo NÃO
+o? 3986 1811
+3986: retângulo 1811: retângulo NÃO
+o? 2478 9019
+2478: círculo 9019: círculo NÃOo? 8907 7288
+8907: círculo 7288: retângulo NÃO
+o? 2413 5922
+2413: círculo 5922: círculo NÃOo? 6809 1389
+6809: retângulo 1389: círculo NÃO
+o? 6705 4921
+6705: círculo 4921: círculo NÃOo? 7868 2313
+7868: retângulo 2313: círculo NÃO
+o? 8349 8026
+8349: círculo 8026: retângulo NÃO
+o? 7245 2059
+7245: círculo 2059: círculo NÃOo? 7571 3998
+7571: retângulo 3998: retângulo NÃO
+o? 9280 3492
+9280: retângulo 3492: círculo NÃO
+o? 9336 8636
+9336: círculo 8636: retângulo NÃO
+o? 9093 4166
+9093: círculo 4166: retângulo NÃO
+o? 929 5404
+929: retângulo 5404: retângulo NÃO
+o? 4769 6447
+4769: retângulo 6447: círculo NÃO
+o? 5838 4691
+5838: círculo 4691: retângulo NÃO
+o? 4332 1967
+4332: círculo 1967: retângulo NÃO
+o? 877 9554
+877: círculo 9554: retângulo NÃO
+o? 6640 724
+6640: retângulo 724: retângulo NÃO
+o? 7954 9411
+7954: retângulo 9411: círculo NÃO
+o? 1583 7738
+1583: retângulo 7738: retângulo NÃO
+o? 1116 2222
+1116: círculo 2222: retângulo NÃO
+o? 7984 8985
+7984: retângulo 8985: círculo NÃO
+o? 448 7120
+448: retângulo 7120: retângulo NÃO
+o? 3333 4119
+3333: círculo 4119: círculo NÃOo? 3798 5385
+3798: círculo 5385: círculo NÃOo? 7645 8622
+7645: círculo 8622: círculo NÃOo? 1354 6453
+1354: retângulo 6453: círculo NÃO
+o? 8817 9242
+8817: círculo 9242: retângulo NÃO
+o? 1248 658
+1248: círculo 658: retângulo NÃO
+o? 9358 8562
+9358: retângulo 8562: círculo NÃO
+o? 8974 5661
+8974: retângulo 5661: círculo NÃO
+o? 2055 4106
+2055: círculo 4106: retângulo NÃO
+o? 8995 3627
+8995: círculo 3627: círculo NÃOo? 6557 6103
+6557: retângulo 6103: círculo NÃO
+o? 0 1390
+o? 9679 3120
+9679: círculo 3120: círculo NÃOo? 545 8348
+545: retângulo 8348: retângulo NÃO
+o? 357 1060
+357: círculo 1060: retângulo NÃO
+o? 1701 156
+1701: círculo 156: círculo NÃOo? 8697 5804
+8697: círculo 5804: retângulo NÃO
+o? 1641 2042
+1641: círculo 2042: retângulo NÃO
+o? 801 570
+801: círculo 570: círculo NÃOo? 9555 9799
+9555: círculo 9799: círculo NÃOo? 4077 6635
+4077: círculo 6635: retângulo NÃO
+o? 914 8561
+914: retângulo 8561: retângulo NÃO
+o? 9573 6389
+9573: círculo 6389: retângulo NÃO
+o? 124 8273
+124: retângulo 8273: retângulo NÃO
+o? 9485 3679
+9485: retângulo 3679: círculo NÃO
+o? 9518 3628
+9518: retângulo 3628: retângulo NÃO
+o? 7060 1308
+7060: retângulo 1308: círculo NÃO
+o? 6748 2044
+6748: retângulo 2044: retângulo NÃO
+o? 5571 2896
+5571: círculo 2896: retângulo NÃO
+o? 1599 947
+1599: círculo 947: retângulo NÃO
+o? 2291 2569
+2291: retângulo 2569: círculo NÃO
+o? 1104 6121
+1104: círculo 6121: círculo NÃOo? 5926 3593
+5926: retângulo 3593: retângulo NÃO
+o? 2515 2284
+2515: círculo 2284: retângulo NÃO
+o? 9646 3902
+9646: retângulo 3902: retângulo NÃO
+o? 1900 8098
+1900: retângulo 8098: retângulo NÃO
+o? 5191 6436
+5191: círculo 6436: retângulo NÃO
+o? 8917 6897
+8917: círculo 6897: círculo NÃOo? 8706 2160
+8706: círculo 2160: círculo NÃOo? 1237 6196
+1237: círculo 6196: retângulo NÃO
+o? 556 299
+556: retângulo 299: retângulo NÃO
+o? 16 7828
+16: retângulo 7828: retângulo NÃO
+o? 3859 7795
+3859: círculo 7795: círculo NÃOo? 4256 2752
+4256: retângulo 2752: retângulo NÃO
+o? 3124 2181
+3124: retângulo 2181: círculo NÃO
+o? 4117 8947
+4117: círculo 8947: círculo NÃOo? 5655 6648
+5655: círculo 6648: círculo NÃOo? 3398 7178
+3398: retângulo 7178: retângulo NÃO
+o? 8043 5353
+8043: círculo 5353: círculo NÃOo? 1747 7177
+1747: círculo 7177: círculo NÃOo? 4293 668
+4293: círculo 668: retângulo NÃO
+o? 2972 3678
+2972: retângulo 3678: círculo NÃO
+o? 3352 9121
+3352: retângulo 9121: círculo NÃO
+o? 1881 5679
+1881: círculo 5679: círculo NÃOo? 8022 1713
+8022: círculo 1713: círculo NÃOo? 900 5121
+900: círculo 5121: círculo NÃOo? 6594 5200
+6594: círculo 5200: retângulo NÃO
+o? 8656 4236
+8656: retângulo 4236: círculo NÃO
+o? 5223 7301
+5223: círculo 7301: retângulo NÃO
+o? 8685 6646
+8685: círculo 6646: retângulo NÃO
+o? 8434 5320
+8434: retângulo 5320: retângulo NÃO
+o? 3136 751
+3136: retângulo 751: círculo NÃO
+o? 9714 9295
+9714: círculo 9295: círculo NÃOo? 6562 551
+6562: retângulo 551: retângulo NÃO
+o? 5186 8202
+5186: retângulo 8202: círculo NÃO
+o? 2341 6376
+2341: círculo 6376: retângulo NÃO
+o? 9622 7351
+9622: retângulo 7351: círculo NÃO
+o? 1343 3186
+1343: retângulo 3186: círculo NÃO
+o? 1364 6327
+1364: retângulo 6327: círculo NÃO
+o? 4285 4343
+4285: círculo 4343: retângulo NÃO
+o? 3166 4818
+3166: retângulo 4818: círculo NÃO
+o? 8587 5704
+8587: círculo 5704: retângulo NÃO
+o? 3268 9175
+3268: retângulo 9175: círculo NÃO
+o? 7145 3975
+7145: retângulo 3975: círculo NÃO
+o? 5757 4311
+5757: círculo 4311: círculo NÃOo? 1930 3633
+1930: retângulo 3633: círculo NÃO
+o? 9936 2471
+9936: círculo 2471: retângulo NÃO
+o? 1150 8362
+1150: retângulo 8362: retângulo NÃO
+o? 4058 8522
+4058: retângulo 8522: retângulo NÃO
+o? 9760 3110
+9760: retângulo 3110: retângulo NÃO
+o? 9979 2068
+9979: círculo 2068: retângulo NÃO
+o? 4999 4979
+4999: círculo 4979: retângulo NÃO
+o? 3123 9029
+3123: círculo 9029: retângulo NÃO
+o? 4610 9587
+4610: retângulo 9587: retângulo NÃO
+o? 5645 3177
+5645: retângulo 3177: círculo NÃO
+o? 208 1226
+208: retângulo 1226: retângulo NÃO
+o? 5489 3584
+5489: retângulo 3584: retângulo NÃO
+o? 382 4992
+382: retângulo 4992: círculo NÃO
+o? 7286 7521
+7286: retângulo 7521: círculo NÃO
+o? 2047 9223
+2047: círculo 9223: círculo NÃOo? 9857 7323
+9857: retângulo 7323: círculo NÃO
+o? 9026 8453
+9026: retângulo 8453: retângulo NÃO
+o? 5015 5265
+5015: retângulo 5265: círculo NÃO
+o? 5956 3919
+5956: retângulo 3919: círculo NÃO
+o? 3905 9198
+3905: retângulo 9198: círculo NÃO
+o? 8852 1230
+8852: retângulo 1230: círculo NÃO
+o? 6205 8789
+6205: círculo 8789: retângulo NÃO
+o? 4597 8448
+4597: círculo 8448: círculo NÃOo? 9790 1061
+9790: retângulo 1061: retângulo NÃO
+o? 4899 7912
+4899: círculo 7912: retângulo NÃO
+o? 5591 5675
+5591: retângulo 5675: retângulo NÃO
+o? 1040 4903
+1040: retângulo 4903: círculo NÃO
+o? 4026 8120
+4026: círculo 8120: retângulo NÃO
+o? 7608 4645
+7608: círculo 4645: círculo NÃOo? 8471 2800
+8471: retângulo 2800: retângulo NÃO
+o? 8531 3802
+8531: retângulo 3802: retângulo NÃO
+o? 1773 7996
+1773: círculo 7996: retângulo NÃO
+o? 9241 8203
+9241: círculo 8203: círculo NÃOo? 2987 2064
+2987: retângulo 2064: círculo NÃO
+o? 4853 8223
+4853: retângulo 8223: círculo NÃO
+o? 3275 4451
+3275: retângulo 4451: retângulo NÃO
+o? 631 8375
+631: círculo 8375: retângulo NÃO
+o? 3974 8280
+3974: retângulo 8280: círculo NÃO
+o? 6996 7058
+6996: círculo 7058: retângulo NÃO
+o? 1952 7704
+1952: retângulo 7704: círculo NÃO
+o? 2846 2822
+2846: retângulo 2822: retângulo NÃO
+o? 8019 9420
+8019: círculo 9420: círculo NÃOo? 9488 5089
+9488: retângulo 5089: círculo NÃO
+o? 6331 4615
+6331: círculo 4615: círculo NÃOo? 1086 142
+1086: círculo 142: retângulo NÃO
+o? 3958 234
+3958: retângulo 234: círculo NÃO
+o? 1247 6454
+1247: retângulo 6454: retângulo NÃO
+o? 1573 1606
+1573: círculo 1606: retângulo NÃO
+o? 8600 1267
+8600: retângulo 1267: círculo NÃO
+o? 9246 6009
+9246: círculo 6009: círculo NÃOo? 414 3734
+414: círculo 3734: retângulo NÃO
+o? 1367 8096
+1367: retângulo 8096: retângulo NÃO
+o? 1776 308
+1776: círculo 308: retângulo NÃO
+o? 161 3733
+161: retângulo 3733: círculo NÃO
+o? 1572 702
+1572: círculo 702: círculo NÃOo? 5642 8400
+5642: retângulo 8400: círculo NÃO
+o? 5190 941
+5190: círculo 941: retângulo NÃO
+o? 4087 4933
+4087: círculo 4933: círculo NÃOo? 2840 2991
+2840: retângulo 2991: círculo NÃO
+o? 8297 1310
+8297: retângulo 1310: retângulo NÃO
+o? 363 9751
+363: círculo 9751: círculo NÃOo? 3225 9861
+3225: círculo 9861: círculo NÃOo? 5666 8516
+5666: retângulo 8516: retângulo NÃO
+o? 9849 1457
+9849: círculo 1457: retângulo NÃO
+o? 6562 5464
+6562: retângulo 5464: retângulo NÃO
+o? 8014 9989
+8014: retângulo 9989: retângulo NÃO
+o? 7584 1942
+7584: círculo 1942: retângulo NÃO
+o? 1469 7315
+1469: retângulo 7315: círculo NÃO
+o? 2154 1737
+2154: círculo 1737: círculo NÃOo? 2224 9752
+2224: retângulo 9752: retângulo NÃO
+o? 884 1735
+884: retângulo 1735: círculo NÃO
+o? 1410 3939
+1410: círculo 3939: círculo NÃOo? 4167 6585
+4167: círculo 6585: círculo NÃOo? 1281 3047
+1281: círculo 3047: retângulo NÃO
+o? 9943 7211
+9943: círculo 7211: retângulo NÃO
+o? 2293 3513
+2293: círculo 3513: círculo NÃOo? 9213 6353
+9213: círculo 6353: retângulo NÃO
+o? 3260 1455
+3260: retângulo 1455: círculo NÃO
+o? 6638 8671
+6638: retângulo 8671: círculo NÃO
+o? 5021 7333
+5021: retângulo 7333: círculo NÃO
+o? 6211 5652
+6211: círculo 5652: círculo NÃOo? 9121 6672
+9121: círculo 6672: círculo NÃOo? 6164 6564
+6164: retângulo 6564: círculo NÃO
+o? 1023 1324
+1023: círculo 1324: retângulo NÃO
+o? 4526 9005
+4526: retângulo 9005: retângulo NÃO
+o? 2677 2468
+2677: círculo 2468: retângulo NÃO
+o? 1973 5053
+1973: retângulo 5053: círculo NÃO
+o? 3705 5253
+3705: círculo 5253: círculo NÃOo? 6070 4244
+6070: retângulo 4244: retângulo NÃO
+o? 195 896
+195: círculo 896: retângulo NÃO
+o? 9936 7979
+9936: círculo 7979: retângulo NÃO
+o? 6199 1536
+6199: círculo 1536: círculo NÃOo? 4799 2172
+4799: retângulo 2172: círculo NÃO
+o? 7850 1722
+7850: retângulo 1722: círculo NÃO
+o? 1383 7975
+1383: círculo 7975: círculo NÃOo? 3545 1306
+3545: retângulo 1306: retângulo NÃO
+o? 6979 8270
+6979: círculo 8270: retângulo NÃO
+o? 2553 6008
+2553: círculo 6008: retângulo NÃO
+o? 9518 1580
+9518: retângulo 1580: retângulo NÃO
+o? 6194 2773
+6194: retângulo 2773: círculo NÃO
+o? 69 9550
+69: círculo 9550: retângulo NÃO
+o? 2285 5835
+2285: retângulo 5835: círculo NÃO
+o? 6334 890
+6334: retângulo 890: retângulo NÃO
+o? 1877 901
+1877: retângulo 901: círculo NÃO
+o? 7873 8561
+7873: círculo 8561: retângulo NÃO
+o? 8554 2249
+8554: retângulo 2249: retângulo NÃO
+o? 7524 5794
+7524: círculo 5794: retângulo NÃO
+o? 8110 5189
+8110: retângulo 5189: retângulo NÃO
+o? 6549 4757
+6549: círculo 4757: retângulo NÃO
+o? 5480 616
+5480: retângulo 616: retângulo NÃO
+o? 6652 883
+6652: retângulo 883: círculo NÃO
+o? 7782 7639
+7782: círculo 7639: círculo NÃOo? 8136 2799
+8136: círculo 2799: círculo NÃOo? 7371 5233
+7371: círculo 5233: círculo NÃOo? 6632 3516
+6632: retângulo 3516: círculo NÃO
+o? 1028 1170
+1028: retângulo 1170: círculo NÃO
+o? 9036 1524
+9036: círculo 1524: círculo NÃOo? 8993 4848
+8993: retângulo 4848: círculo NÃO
+o? 3043 1418
+3043: círculo 1418: retângulo NÃO
+o? 8599 7930
+8599: círculo 7930: retângulo NÃO
+o? 393 3809
+393: círculo 3809: retângulo NÃO
+o? 1286 581
+1286: retângulo 581: retângulo NÃO
+o? 7286 7364
+7286: retângulo 7364: retângulo NÃO
+o? 1243 843
+1243: círculo 843: círculo NÃOo? 9555 7778
+9555: círculo 7778: retângulo NÃO
+o? 2906 6246
+2906: retângulo 6246: círculo NÃO
+o? 402 8042
+402: círculo 8042: retângulo NÃO
+o? 7182 1157
+7182: círculo 1157: retângulo NÃO
+o? 5298 315
+5298: círculo 315: círculo NÃOo? 2809 1153
+2809: círculo 1153: círculo NÃOo? 9165 8580
+9165: círculo 8580: círculo NÃOo? 8174 1173
+8174: retângulo 1173: círculo NÃO
+o? 5093 4252
+5093: retângulo 4252: retângulo NÃO
+o? 3418 3176
+3418: retângulo 3176: retângulo NÃO
+o? 471 643
+471: círculo 643: círculo NÃOo? 5117 6743
+5117: retângulo 6743: retângulo NÃO
+o? 4328 2689
+4328: retângulo 2689: círculo NÃO
+o? 7552 9946
+7552: retângulo 9946: retângulo NÃO
+o? 4800 9246
+4800: círculo 9246: círculo NÃOo? 5814 7458
+5814: círculo 7458: círculo NÃOo? 3702 8640
+3702: círculo 8640: círculo NÃOo? 6739 74
+6739: círculo 74: retângulo NÃO
+o? 4994 650
+4994: retângulo 650: retângulo NÃO
+o? 2632 6137
+2632: retângulo 6137: retângulo NÃO
+o? 5288 3152
+5288: retângulo 3152: retângulo NÃO
+o? 58 9041
+58: retângulo 9041: retângulo NÃO
+o? 7150 6942
+7150: retângulo 6942: círculo NÃO
+o? 820 9615
+820: retângulo 9615: círculo NÃO
+o? 2170 1511
+2170: retângulo 1511: retângulo NÃO
+o? 9504 2688
+9504: círculo 2688: círculo NÃOo? 7946 1315
+7946: retângulo 1315: círculo NÃO
+o? 8327 9338
+8327: retângulo 9338: retângulo NÃO
+o? 3054 8820
+3054: círculo 8820: círculo NÃOo? 6954 1917
+6954: círculo 1917: círculo NÃOo? 668 5817
+668: retângulo 5817: círculo NÃO
+o? 4663 6955
+4663: círculo 6955: círculo NÃOo? 5716 9579
+5716: retângulo 9579: círculo NÃO
+o? 4057 1246
+4057: círculo 1246: retângulo NÃO
+o? 9368 4462
+9368: retângulo 4462: retângulo NÃO
+o? 8535 6071
+8535: círculo 6071: retângulo NÃO
+o? 8909 4610
+8909: retângulo 4610: retângulo NÃO
+o? 127 4871
+127: círculo 4871: retângulo NÃO
+o? 4689 7863
+4689: círculo 7863: círculo NÃOo? 1065 5476
+1065: círculo 5476: retângulo NÃO
+o? 9592 3741
+9592: retângulo 3741: círculo NÃO
+o? 1493 623
+1493: retângulo 623: retângulo NÃO
+o? 4568 1775
+4568: retângulo 1775: retângulo NÃO
+o? 578 6242
+578: retângulo 6242: retângulo NÃO
+o? 1739 4193
+1739: retângulo 4193: retângulo NÃO
+o? 9903 3458
+9903: círculo 3458: retângulo NÃO
+o? 7476 8313
+7476: círculo 8313: círculo NÃOo? 9415 7045
+9415: círculo 7045: círculo NÃOo? 680 628
+680: retângulo 628: retângulo NÃO
+o? 3849 149
+3849: círculo 149: retângulo NÃO
+o? 4141 8884
+4141: círculo 8884: retângulo NÃO
+o? 4306 737
+4306: retângulo 737: retângulo NÃO
+o? 2357 4546
+2357: retângulo 4546: retângulo NÃO
+o? 1237 4086
+1237: círculo 4086: círculo NÃOo? 7576 3424
+7576: retângulo 3424: retângulo NÃO
+o? 2677 1601
+2677: círculo 1601: retângulo NÃO
+o? 9882 312
+9882: círculo 312: círculo NÃOo? 2044 5609
+2044: retângulo 5609: retângulo NÃO
+o? 2682 9341
+2682: círculo 9341: retângulo NÃO
+o? 1129 5314
+1129: círculo 5314: retângulo NÃO
+o? 9598 6409
+9598: retângulo 6409: círculo NÃO
+o? 4974 4055
+4974: círculo 4055: retângulo NÃO
+o? 8633 3165
+8633: retângulo 3165: círculo NÃO
+o? 1045 5913
+1045: círculo 5913: círculo NÃOo? 5299 4713
+5299: círculo 4713: círculo NÃOo? 8790 5371
+8790: círculo 5371: círculo NÃOo? 7188 2936
+7188: círculo 2936: retângulo NÃO
+o? 7567 5347
+7567: círculo 5347: círculo NÃOo? 2903 5161
+2903: retângulo 5161: círculo NÃO
+o? 411 5327
+411: círculo 5327: retângulo NÃO
+o? 5788 1251
+5788: retângulo 1251: círculo NÃO
+o? 2126 3977
+2126: retângulo 3977: retângulo NÃO
+o? 6667 3986
+6667: círculo 3986: retângulo NÃO
+o? 6036 283
+6036: círculo 283: círculo NÃOo? 5443 716
+5443: círculo 716: retângulo NÃO
+o? 4502 3913
+4502: retângulo 3913: círculo NÃO
+o? 8287 5641
+8287: círculo 5641: círculo NÃOo? 6891 944
+6891: círculo 944: retângulo NÃO
+o? 995 6001
+995: retângulo 6001: círculo NÃO
+o? 9482 3816
+9482: retângulo 3816: círculo NÃO
+o? 7538 7731
+7538: retângulo 7731: círculo NÃO
+o? 2152 8454
+2152: retângulo 8454: círculo NÃO
+o? 1477 773
+1477: círculo 773: retângulo NÃO
+o? 6155 1978
+6155: retângulo 1978: retângulo NÃO
+o? 4493 9636
+4493: retângulo 9636: círculo NÃO
+o? 289 5840
+289: círculo 5840: retângulo NÃO
+o? 1367 6246
+1367: retângulo 6246: círculo NÃO
+o? 7721 2340
+7721: retângulo 2340: círculo NÃO
+o? 2279 2676
+2279: retângulo 2676: círculo NÃO
+o? 8574 3407
+8574: círculo 3407: retângulo NÃO
+o? 3310 8913
+3310: retângulo 8913: círculo NÃO
+o? 8378 875
+8378: retângulo 875: retângulo NÃO
+o? 9186 4935
+9186: círculo 4935: círculo NÃOo? 1779 5882
+1779: círculo 5882: retângulo NÃO
+o? 270 8434
+270: círculo 8434: retângulo NÃO
+o? 8904 749
+8904: círculo 749: retângulo NÃO
+o? 8704 4957
+8704: retângulo 4957: círculo NÃO
+o? 8558 6562
+8558: retângulo 6562: retângulo NÃO
+o? 4308 3488
+4308: círculo 3488: retângulo NÃO
+o? 2747 124
+2747: retângulo 124: retângulo NÃO
+o? 1525 70
+1525: círculo 70: retângulo NÃO
+o? 7970 3907
+7970: retângulo 3907: círculo NÃO
+o? 127 7993
+127: círculo 7993: círculo NÃOo? 711 5411
+711: círculo 5411: retângulo NÃO
+o? 3626 6369
+3626: retângulo 6369: círculo NÃO
+o? 9348 5790
+9348: círculo 5790: círculo NÃOo? 8293 9319
+8293: círculo 9319: círculo NÃOo? 5094 8992
+5094: círculo 8992: retângulo NÃO
+o? 7036 6136
+7036: retângulo 6136: retângulo NÃO
+o? 1065 1214
+1065: círculo 1214: retângulo NÃO
+o? 5884 2534
+5884: retângulo 2534: retângulo NÃO
+o? 6115 6341
+6115: círculo 6341: retângulo NÃO
+o? 420 392
+420: círculo 392: retângulo NÃO
+o? 2964 4876
+2964: círculo 4876: retângulo NÃO
+o? 9774 1773
+9774: círculo 1773: círculo NÃOo? 3864 3751
+3864: círculo 3751: círculo NÃOo? 2868 8450
+2868: círculo 8450: retângulo NÃO
+o? 4927 4795
+4927: círculo 4795: círculo NÃOo? 2026 966
+2026: retângulo 966: círculo NÃO
+o? 6103 9540
+6103: círculo 9540: círculo NÃOo? 8208 863
+8208: círculo 863: retângulo NÃO
+o? 4909 9245
+4909: círculo 9245: retângulo NÃO
+o? 5759 9941
+5759: retângulo 9941: retângulo NÃO
+o? 3268 5753
+3268: retângulo 5753: retângulo NÃO
+o? 1116 8996
+1116: círculo 8996: retângulo NÃO
+o? 9024 9261
+9024: círculo 9261: círculo NÃOo? 6640 4746
+6640: retângulo 4746: círculo NÃO
+o? 3288 445
+3288: círculo 445: círculo NÃOo? 2587 492
+2587: círculo 492: círculo NÃOo? 5096 6191
+5096: retângulo 6191: retângulo NÃO
+o? 9514 1088
+9514: retângulo 1088: retângulo NÃO
+o? 1460 7460
+1460: retângulo 7460: retângulo NÃO
+o? 5847 8675
+5847: círculo 8675: retângulo NÃO
+o? 6836 7942
+6836: retângulo 7942: retângulo NÃO
+o? 5321 9376
+5321: retângulo 9376: retângulo NÃO
+o? 1055 7417
+1055: retângulo 7417: círculo NÃO
+o? 4615 4822
+4615: círculo 4822: retângulo NÃO
+o? 636 6192
+636: círculo 6192: círculo NÃOo? 5797 226
+5797: círculo 226: retângulo NÃO
+o? 2934 4226
+2934: círculo 4226: retângulo NÃO
+o? 1299 8844
+1299: círculo 8844: círculo NÃOo? 7657 2938
+7657: círculo 2938: retângulo NÃO
+o? 1481 7976
+1481: retângulo 7976: retângulo NÃO
+o? 8667 7584
+8667: círculo 7584: círculo NÃOo? 6853 1020
+6853: círculo 1020: círculo NÃOo? 7926 2078
+7926: círculo 2078: retângulo NÃO
+o? 4676 6411
+4676: retângulo 6411: círculo NÃO
+o? 8775 119
+8775: círculo 119: retângulo NÃO
+o? 8129 6537
+8129: retângulo 6537: círculo NÃO
+o? 9671 5505
+9671: retângulo 5505: círculo NÃO
+o? 2857 9929
+2857: círculo 9929: retângulo NÃO
+o? 5049 5213
+5049: círculo 5213: retângulo NÃO
+o? 6471 7016
+6471: círculo 7016: retângulo NÃO
+o? 9025 8515
+9025: círculo 8515: círculo NÃOo? 8889 2649
+8889: círculo 2649: círculo NÃOo? 2867 8956
+2867: retângulo 8956: retângulo NÃO
+o? 2387 6667
+2387: retângulo 6667: círculo NÃO
+o? 9539 3497
+9539: retângulo 3497: retângulo NÃO
+o? 4301 9589
+4301: retângulo 9589: círculo NÃO
+o? 2049 7521
+2049: círculo 7521: círculo NÃOo? 5005 2005
+5005: círculo 2005: círculo NÃOo? 5389 8694
+5389: círculo 8694: círculo NÃOo? 3398 6158
+3398: retângulo 6158: retângulo NÃO
+o? 6791 5911
+6791: retângulo 5911: círculo NÃO
+o? 998 7334
+998: retângulo 7334: retângulo NÃO
+o? 4102 6538
+4102: retângulo 6538: retângulo NÃO
+o? 8728 2470
+8728: retângulo 2470: retângulo NÃO
+o? 6407 9234
+6407: retângulo 9234: círculo NÃO
+o? 2240 1317
+2240: retângulo 1317: círculo NÃO
+o? 6764 4499
+6764: retângulo 4499: retângulo NÃO
+o? 6445 5869
+6445: círculo 5869: círculo NÃOo? 4343 4732
+4343: retângulo 4732: retângulo NÃO
+o? 3715 5537
+3715: círculo 5537: retângulo NÃO
+o? 5281 1789
+5281: círculo 1789: círculo NÃOo? 1714 973
+1714: retângulo 973: círculo NÃO
+o? 7113 1289
+7113: círculo 1289: retângulo NÃO
+o? 1903 8686
+1903: círculo 8686: retângulo NÃO
+o? 4841 6108
+4841: retângulo 6108: círculo NÃO
+o? 2768 2647
+2768: retângulo 2647: círculo NÃO
+o? 5316 5476
+5316: círculo 5476: retângulo NÃO
+o? 4940 2323
+4940: retângulo 2323: círculo NÃO
+o? 2366 9801
+2366: retângulo 9801: círculo NÃO
+o? 1503 2385
+1503: círculo 2385: círculo NÃOo? 1088 1218
+1088: retângulo 1218: círculo NÃO
+o? 714 6476
+714: círculo 6476: retângulo NÃO
+o? 7327 232
+7327: círculo 232: retângulo NÃO
+o? 6419 4034
+6419: retângulo 4034: retângulo NÃO
+o? 9940 2562
+9940: retângulo 2562: círculo NÃO
+o? 9145 3581
+9145: círculo 3581: retângulo NÃO
+o? 9734 9118
+9734: retângulo 9118: retângulo NÃO
+o? 7801 9949
+7801: círculo 9949: círculo NÃOo? 5432 597
+5432: retângulo 597: círculo NÃO
+o? 5340 4623
+5340: círculo 4623: círculo NÃOo? 6444 8916
+6444: círculo 8916: círculo NÃOo? 5997 1560
+5997: círculo 1560: círculo NÃOo? 1248 8240
+1248: círculo 8240: retângulo NÃO
+o? 2178 3055
+2178: círculo 3055: círculo NÃOo? 2958 1501
+2958: círculo 1501: círculo NÃOo? 6699 5337
+6699: círculo 5337: círculo NÃOo? 736 2784
+736: retângulo 2784: círculo NÃO
+o? 2300 1805
+2300: retângulo 1805: retângulo NÃO
+o? 7488 352
+7488: círculo 352: retângulo NÃO
+o? 8576 8157
+8576: retângulo 8157: círculo NÃO
+o? 8263 5377
+8263: círculo 5377: círculo NÃOo? 3893 5333
+3893: retângulo 5333: retângulo NÃO
+o? 441 9942
+441: círculo 9942: círculo SIMo? 9583 3477
+9583: círculo 3477: círculo NÃOo? 5433 7006
+5433: círculo 7006: retângulo NÃO
+o? 4442 6827
+4442: retângulo 6827: retângulo NÃO
+o? 7426 277
+7426: retângulo 277: círculo NÃO
+o? 8825 5623
+8825: retângulo 5623: círculo NÃO
+o? 8480 2585
+8480: retângulo 2585: retângulo NÃO
+o? 6545 4119
+6545: retângulo 4119: círculo NÃO
+o? 7831 125
+7831: círculo 125: retângulo NÃO
+o? 1533 3707
+1533: círculo 3707: retângulo NÃO
+o? 470 373
+470: retângulo 373: círculo NÃO
+o? 5930 7510
+5930: retângulo 7510: retângulo NÃO
+o? 2830 1959
+2830: retângulo 1959: círculo NÃO
+o? 5677 3668
+5677: círculo 3668: retângulo NÃO
+o? 4147 7372
+4147: círculo 7372: retângulo NÃO
+o? 3111 7847
+3111: círculo 7847: retângulo NÃO
+o? 3138 741
+3138: círculo 741: círculo NÃOo? 6584 8881
+6584: retângulo 8881: círculo NÃO
+o? 2202 6173
+2202: círculo 6173: retângulo NÃO
+o? 9236 8823
+9236: retângulo 8823: círculo NÃO
+o? 9443 5009
+9443: retângulo 5009: retângulo NÃO
+o? 3692 8804
+3692: retângulo 8804: retângulo NÃO
+o? 6372 1777
+6372: círculo 1777: círculo NÃOo? 6671 8014
+6671: retângulo 8014: retângulo NÃO
+o? 7529 7681
+7529: retângulo 7681: círculo NÃO
+o? 2951 9184
+2951: retângulo 9184: retângulo NÃO
+o? 3356 6982
+3356: retângulo 6982: retângulo NÃO
+o? 2907 5936
+2907: círculo 5936: retângulo NÃO
+o? 569 1574
+569: retângulo 1574: retângulo NÃO
+o? 9025 2523
+9025: círculo 2523: círculo NÃOo? 3887 2721
+3887: retângulo 2721: círculo NÃO
+o? 821 8039
+821: retângulo 8039: retângulo NÃO
+o? 7131 1550
+7131: círculo 1550: retângulo NÃO
+o? 1832 6231
+1832: retângulo 6231: círculo NÃO
+o? 4364 5751
+4364: retângulo 5751: círculo NÃO
+o? 6553 7041
+6553: círculo 7041: círculo NÃOo? 3698 3955
+3698: retângulo 3955: círculo NÃO
+o? 4020 6554
+4020: círculo 6554: retângulo NÃO
+o? 7630 7915
+7630: retângulo 7915: círculo NÃO
+o? 5225 3276
+5225: retângulo 3276: círculo NÃO
+o? 9452 1436
+9452: retângulo 1436: retângulo NÃO
+o? 7993 9544
+7993: círculo 9544: retângulo NÃO
+o? 9524 867
+9524: retângulo 867: círculo NÃO
+o? 1156 3799
+1156: retângulo 3799: círculo NÃO
+o? 7721 6921
+7721: retângulo 6921: círculo NÃO
+o? 666 8565
+666: círculo 8565: círculo NÃOo? 6503 3962
+6503: retângulo 3962: retângulo NÃO
+o? 1868 5920
+1868: retângulo 5920: retângulo NÃO
+o? 3820 43
+3820: retângulo 43: círculo NÃO
+o? 3863 8803
+3863: retângulo 8803: círculo NÃO
+o? 1242 4429
+1242: círculo 4429: círculo NÃOo? 8124 8356
+8124: círculo 8356: retângulo NÃO
+o? 4724 4409
+4724: retângulo 4409: retângulo NÃO
+o? 4309 8682
+4309: círculo 8682: círculo NÃOo? 3803 3072
+3803: retângulo 3072: círculo NÃO
+o? 1347 5567
+1347: círculo 5567: retângulo NÃO
+o? 2724 5626
+2724: círculo 5626: retângulo NÃO
+o? 4590 9530
+4590: círculo 9530: retângulo NÃO
+o? 9972 4454
+9972: círculo 4454: retângulo NÃO
+o? 9856 6645
+9856: retângulo 6645: círculo NÃO
+o? 216 589
+216: círculo 589: círculo NÃOo? 124 6548
+124: retângulo 6548: retângulo NÃO
+o? 3027 5291
+3027: círculo 5291: retângulo NÃO
+o? 9928 682
+9928: retângulo 682: retângulo NÃO
+o? 7683 8920
+7683: círculo 8920: retângulo NÃO
+o? 5854 4189
+5854: retângulo 4189: círculo NÃO
+o? 6733 9956
+6733: círculo 9956: retângulo NÃO
+o? 1734 2251
+1734: círculo 2251: círculo NÃOo? 1268 3214
+1268: retângulo 3214: retângulo NÃO
+o? 8587 3045
+8587: círculo 3045: círculo NÃOo? 1072 784
+1072: retângulo 784: retângulo NÃO
+o? 6997 3117
+6997: círculo 3117: círculo NÃOo? 8489 2287
+8489: retângulo 2287: círculo NÃO
+o? 1303 644
+1303: círculo 644: retângulo NÃO
+o? 3433 4274
+3433: círculo 4274: retângulo NÃO
+o? 4602 138
+4602: círculo 138: círculo NÃOo? 5813 8029
+5813: retângulo 8029: círculo NÃO
+o? 7122 9993
+7122: círculo 9993: círculo NÃOo? 7593 7533
+7593: círculo 7533: círculo NÃOo? 2237 7480
+2237: retângulo 7480: retângulo NÃO
+o? 1339 5334
+1339: círculo 5334: círculo NÃOo? 899 6723
+899: retângulo 6723: círculo NÃO
+o? 9044 3134
+9044: retângulo 3134: retângulo NÃO
+o? 4344 3683
+4344: círculo 3683: retângulo NÃO
+o? 909 649
+909: círculo 649: círculo NÃOo? 265 8139
+265: círculo 8139: círculo NÃOo? 2916 1794
+2916: círculo 1794: círculo NÃOo? 8202 7041
+8202: círculo 7041: círculo NÃOo? 1010 9952
+1010: retângulo 9952: retângulo NÃO
+o? 9620 633
+9620: retângulo 633: círculo NÃO
+o? 5493 9787
+5493: círculo 9787: círculo NÃOo? 17 5141
+17: retângulo 5141: retângulo NÃO
+o? 5518 2572
+5518: retângulo 2572: retângulo NÃO
+o? 323 2567
+323: retângulo 2567: retângulo NÃO
+o? 8370 5238
+8370: círculo 5238: círculo NÃOo? 6565 4555
+6565: círculo 4555: círculo NÃOo? 8172 3470
+8172: círculo 3470: retângulo NÃO
+o? 5182 5283
+5182: retângulo 5283: círculo NÃO
+o? 9662 7783
+9662: retângulo 7783: círculo NÃO
+o? 5186 6411
+5186: retângulo 6411: círculo NÃO
+o? 3011 584
+3011: retângulo 584: retângulo NÃO
+o? 9988 7349
+9988: retângulo 7349: retângulo NÃO
+o? 5551 9967
+5551: círculo 9967: círculo NÃOo? 5262 6251
+5262: círculo 6251: retângulo NÃO
+o? 9700 57
+9700: retângulo 57: círculo NÃO
+o? 1774 8852
+1774: retângulo 8852: retângulo NÃO
+o? 7506 3233
+7506: círculo 3233: retângulo NÃO
+o? 2255 3421
+2255: retângulo 3421: círculo NÃO
+o? 4911 4803
+4911: círculo 4803: círculo NÃOo? 1577 4515
+1577: retângulo 4515: círculo NÃO
+o? 8380 5522
+8380: retângulo 5522: retângulo NÃO
+o? 9243 1796
+9243: círculo 1796: retângulo NÃO
+o? 8844 3164
+8844: círculo 3164: retângulo NÃO
+o? 7714 9789
+7714: retângulo 9789: círculo NÃO
+o? 8192 5568
+8192: retângulo 5568: círculo NÃO
+o? 5992 122
+5992: retângulo 122: retângulo NÃO
+o? 7979 1236
+7979: retângulo 1236: círculo NÃO
+o? 25 7040
+25: círculo 7040: retângulo NÃO
+o? 3209 9005
+3209: retângulo 9005: retângulo NÃO
+o? 7856 51
+7856: retângulo 51: círculo NÃO
+o? 8521 4129
+8521: círculo 4129: círculo NÃOo? 8898 6270
+8898: círculo 6270: círculo NÃOo? 5104 1584
+5104: retângulo 1584: círculo NÃO
+o? 2803 6457
+2803: círculo 6457: círculo NÃOo? 9743 3876
+9743: retângulo 3876: círculo NÃO
+o? 9662 4913
+9662: retângulo 4913: retângulo NÃO
+o? 4117 9751
+4117: círculo 9751: círculo NÃOo? 1087 3546
+1087: círculo 3546: círculo NÃOo? 6782 8013
+6782: retângulo 8013: círculo NÃO
+o? 9103 1071
+9103: círculo 1071: círculo NÃOo? 1195 605
+1195: círculo 605: retângulo NÃO
+o? 1113 6682
+1113: círculo 6682: retângulo NÃO
+o? 6106 452
+6106: retângulo 452: retângulo NÃO
+o? 3203 9868
+3203: retângulo 9868: retângulo NÃO
+o? 4615 1411
+4615: círculo 1411: círculo NÃOo? 9498 4691
+9498: círculo 4691: retângulo NÃO
+o? 6595 1601
+6595: círculo 1601: retângulo NÃO
+o? 7728 4877
+7728: círculo 4877: retângulo NÃO
+o? 2185 433
+2185: círculo 433: círculo NÃOo? 3876 383
+3876: círculo 383: retângulo NÃO
+o? 7890 8571
+7890: círculo 8571: círculo NÃOo? 5657 4881
+5657: retângulo 4881: círculo NÃO
+o? 7779 8039
+7779: círculo 8039: retângulo NÃO
+o? 7887 1440
+7887: círculo 1440: círculo NÃOo? 3115 1287
+3115: círculo 1287: círculo NÃOo? 4479 4167
+4479: círculo 4167: círculo NÃOo? 2896 9022
+2896: retângulo 9022: retângulo NÃO
+o? 6184 4669
+6184: retângulo 4669: círculo NÃO
+o? 4732 7777
+4732: retângulo 7777: círculo NÃO
+o? 7361 4992
+7361: retângulo 4992: círculo NÃO
+o? 3709 1248
+3709: círculo 1248: círculo NÃOo? 6925 3670
+6925: círculo 3670: retângulo NÃO
+o? 686 819
+686: retângulo 819: círculo NÃO
+o? 1710 3482
+1710: círculo 3482: retângulo NÃO
+o? 1211 2359
+1211: retângulo 2359: círculo NÃO
+o? 9451 1989
+9451: círculo 1989: círculo NÃOo? 120 6311
+120: círculo 6311: retângulo NÃO
+o? 5813 156
+5813: retângulo 156: círculo NÃO
+o? 3038 1984
+3038: retângulo 1984: retângulo NÃO
+o? 4373 7735
+4373: retângulo 7735: círculo NÃO
+o? 6120 4777
+6120: círculo 4777: círculo NÃOo? 858 357
+858: círculo 357: círculo NÃOo? 4842 6584
+4842: círculo 6584: retângulo NÃO

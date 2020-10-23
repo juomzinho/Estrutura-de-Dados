@@ -1,0 +1,27 @@
+delf* 2 14
+id : 2 forma : t  x : 5.000000 y : 31.000000 corb : orange corp : lightyellow texto :  Amado clube brasileiro
+
+id : 3 forma : t  x : 5.000000 y : 47.000000 corb : orange corp : lightyellow texto :  Tu es forte, tu es grande
+
+id : 4 forma : t  x : 5.000000 y : 63.000000 corb : orange corp : lightyellow texto :  Dentre os grandes es o primeiro
+
+id : 5 forma : t  x : 5.000000 y : 79.000000 corb : orange corp : lightyellow texto :  Tu es forte, tu es grande
+
+id : 6 forma : t  x : 5.000000 y : 95.000000 corb : orange corp : lightyellow texto :  Dentre os grandes es o primeiro
+
+id : 7 forma : t  x : 5.000000 y : 111.000000 corb : orange corp : lightyellow texto :  Oh, Tricolor
+
+id : 8 forma : t  x : 5.000000 y : 127.000000 corb : orange corp : lightyellow texto :  Clube bem amado
+
+id : 9 forma : t  x : 5.000000 y : 143.000000 corb : orange corp : lightyellow texto :  As tuas gloriasVem do passado
+
+id : 10 forma : t  x : 5.000000 y : 159.000000 corb : orange corp : lightyellow texto :  Sao teus guias brasileiros
+
+id : 11 forma : t  x : 5.000000 y : 175.000000 corb : orange corp : lightyellow texto :  Que te amam eternamente
+
+id : 12 forma : t  x : 5.000000 y : 191.000000 corb : orange corp : lightyellow texto :  De São Paulo tens o nome
+
+id : 13 forma : t  x : 5.000000 y : 207.000000 corb : orange corp : lightyellow texto :  Que ostentas dignamente
+
+id : 14 forma : t  x : 5.000000 y : 223.000000 corb : orange corp : lightyellow texto :  De São Paulo tens o nome
+
